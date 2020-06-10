@@ -21,11 +21,11 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
-*YOYO电视,http://forum8848.000webhostapp.com/youtube.php?id=3gKlm323de0&hd=5
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 *三立都會台,http://111.13.111.192/211.75.9.37:20040/20042#http://111.13.111.192/211.75.9.37:20050/20054#http://live.zbjh.cc/live/ws105.m3u8
 *三立台湾台,http://111.13.111.192/211.75.9.37:20040/20041#http://111.13.111.192/211.75.9.37:20050/20053#http://live.zbjh.cc/live/ws127.m3u8
-[x]三立戲劇台,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 *三立綜合台,http://live.zbjh.cc/live/ws124.m3u8
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sat/tv421
@@ -43,7 +43,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 緯來育乐,rtmp://161.202.204.248:1935/sat/tv702
 中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-壹電視綜合,http://198.16.106.58:8278/b8fce5c483/playlist.m3u8?tid=m28d3394ad038&ct=18335&tsum=ae862884168291d250cf46af768cbdd9
+---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 *台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 *中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 *華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
