@@ -109,3 +109,64 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 東森購物47,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
 東森購物34,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
 東森購物46,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
+
+新聞0610,#genre#
+美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+日本NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+日本24小時新聞,http://www.news24.jp/livestream/index.m3u8#https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+美国彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+美国FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+韓國CBS,rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+上视纪实,rtmp://58.200.131.2:1935/livetv/docuchina
+美國CBC新聞,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
+
+體育0606,#genre#
+J sports 1,p2p://42.116.8.235:9906/58a539440001ac5b002b183925be66b9.ts#p8p://0198.02686.cc:16871/5d414f0c000c884875f633b8399ef99b.ts
+J sports 2,p2p://42.116.8.235:9906/58a539440002d1f6002b18840450d785.ts#p8p://0198.02686.cc:16871/5d414f0d0008fadf75f636b74704d31b.ts
+J sports 2,rtmp://xiaoyu.speedws.com/sat/jp071
+J sports 3,p2p://42.116.8.235:9906/58a53943000548d3002b153def6a193d.ts#p8p://0198.02686.cc:16871/5d414f0e00038bf575f6393b9482ee08.ts
+J sports 4,p2p://42.116.8.235:9906/58a53943000670d5002b1589b06c7433.ts#p8p://0198.02686.cc:16871/5d414f0e000d818675f63bc8452f12fd.ts
+SUPERSPORT 1,http://vp2p.my6868.cc/20414/index.m3u8
+SUPERSPORT 2,http://vp2p.my6868.cc/20415/index.m3u8
+SUPERSPORT 3,http://vp2p.my6868.cc/20393/index.m3u8#http://vp2p.my6868.cc/20416/index.m3u8
+SUPERSPORT 4,http://vp2p.my6868.cc/20417/index.m3u8
+BEIN Sports 01,p8p://0198.02686.cc:16871/5d1a696a00035ba411bcbc0de901e12a.ts
+BEIN Sports 02,p8p://0198.02686.cc:16871/5d1a6968000bcac511bcb666bdeec451.ts
+BEIN Sports 03,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
+BEIN Sports HD1,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+StarSports體育,rtmp://58.200.131.2:1935/livetv/starsports
+賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
+AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+MOTOR SPORT,http://45.58.62.92:8084
+紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
+迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
+緯來體育,rtmp://161.202.204.248:1935/sat/tv721
+FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
+FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
+FOX体育,rtmp://xiaoyu.speedws.com/sat/tv731
+FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
+FOX-2,rtmp://xiaoyu.speedws.com/sat/hk021
+FOX-SPORTS,http://45.58.62.92:8080
+[x]ELTA體育1台,rtmp://161.202.204.248:1935/sat/md041
+ELTA體育2台,rtmp://161.202.204.248:1935/sat/md041#rtmp://xiaoyu.speedws.com/sat/md041#rtmp://xiaoyu.speedws.com/sat/md051
+Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
+Eleven Sports 2,rtmp://xiaoyu.speedws.com/sat/md021
+華視教育體育文化,http://111.13.111.192/125.227.198.89:8018#rtmp://161.202.204.248:1935/sat/md031#rtmp://xiaoyu.speedws.com/sat/md031
+CCTV-风云足球,rtmp://xiaoyu.speedws.com/sat/cn041
+CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
+風雲足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
+Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
+beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
+皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+cctv5體育,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
+*韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+*韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
