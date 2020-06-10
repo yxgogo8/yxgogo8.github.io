@@ -1,4 +1,4 @@
-台灣0525,#genre#
+台灣0610,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -51,7 +51,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,http://forum8848.000webhostapp.com/youtube.php?id=wUPPkSANpyo&hd=5#rtmp://161.202.204.248:1935/sat/tv521#rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://74aiQKgKFfg6wqHPzCuNteuLtm1xahyR9RuvAQHzFXobQwXMFf#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-*民視新聞,http://forum8848.000webhostapp.com/youtube.php?id=XxJKnDLYZz4&hd=5#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8#http://154.211.14.239/forum/youtube.php?id=XxJKnDLYZz4&hd=5
+*民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8#http://forum8848.000webhostapp.com/youtube.php?id=XxJKnDLYZz4&hd=5#p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8#http://154.211.14.239/forum/youtube.php?id=XxJKnDLYZz4&hd=5
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8#tvbus://74DFtb8bqLZW9oJYzhARxm9QxjE479J2AcPPVporwhcKXGgq7u
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#http://154.211.14.239/forum/youtube.php?id=Hu1FkdAOws0&hd=5#rtmp://161.202.204.248:1935/sat/tv551#rtmp://xiaoyu.speedws.com/sat/tv551#tvbus://881a3y8TCzhB1mYAUMRv1PNGCmjiNtnYBEXsWrRSaM3djNNuzV
 *TVBS,http://111.13.111.192/211.75.9.37:20010/20016#http://111.13.111.192/211.75.9.37:20060/20068#tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
@@ -105,3 +105,7 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 空中英語教室,http://220.158.149.28:8180/live/TV00000000000000000077@HHZT#http://220.158.149.14:9999/live/TV00000000000000000077@HHZT
+東森購物60,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
+東森購物47,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
+東森購物34,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+東森購物46,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
