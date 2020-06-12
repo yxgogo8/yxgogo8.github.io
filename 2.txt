@@ -47,7 +47,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 *台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 *中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 *華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8#tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/media.m3u8#http://stream.nexttv.com.tw/n001/hd/live.m3u8#tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw#http://stream.nexttv.com.tw/n001/hd/live.m3u8#https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 年代新聞,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://153.99.180.70:5021/live/340/playlist.m3u8
 中天新聞,http://forum8848.000webhostapp.com/youtube.php?id=wUPPkSANpyo&hd=5#rtmp://161.202.204.248:1935/sat/tv521#rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#tvbus://74aiQKgKFfg6wqHPzCuNteuLtm1xahyR9RuvAQHzFXobQwXMFf#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
