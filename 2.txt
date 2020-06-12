@@ -23,8 +23,8 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
 BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-*三立都會台,http://111.13.111.192/211.75.9.37:20040/20042#http://111.13.111.192/211.75.9.37:20050/20054#http://live.zbjh.cc/live/ws105.m3u8
-*三立台湾台,http://111.13.111.192/211.75.9.37:20040/20041#http://111.13.111.192/211.75.9.37:20050/20053#http://live.zbjh.cc/live/ws127.m3u8
+*三立都會台,http://ff.twtvcdn.com:8080/live/310/71cfd22bc1b0ef88cc5160caa9c2e6d6/index.m3u8#http://111.13.111.192/211.75.9.37:20040/20042#http://111.13.111.192/211.75.9.37:20050/20054#http://live.zbjh.cc/live/ws105.m3u8
+*三立台湾台,http://ff.twtvcdn.com:8080/live/309/c7335f82c58b52b73865f8172715fc12/index.m3u8#http://111.13.111.192/211.75.9.37:20040/20041#http://111.13.111.192/211.75.9.37:20050/20053#http://live.zbjh.cc/live/ws127.m3u8
 ---,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
 *三立綜合台,http://live.zbjh.cc/live/ws124.m3u8
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
