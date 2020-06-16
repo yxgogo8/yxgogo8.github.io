@@ -1,8 +1,8 @@
-台灣0612,#genre#
+台灣0616,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
-[x]客家電視台,http://forum8848.000webhostapp.com/youtube.php?id=XCJv1Nz6sz0&hd=5
+----,http://forum8848.000webhostapp.com/youtube.php?id=XCJv1Nz6sz0&hd=5
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
@@ -10,15 +10,15 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 台視,rtmp://161.202.204.248:1935/sat/tv071#rtmp://xiaoyu.speedws.com/sat/tv071#http://111.13.111.192/125.227.198.89:8001
 中視,rtmp://161.202.204.248:1935/sat/tv091#rtmp://xiaoyu.speedws.com/sat/tv091#tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ#http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 華視,rtmp://161.202.204.248:1935/sat/tv111#rtmp://xiaoyu.speedws.com/sat/tv111#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
-大爱一台,http://forum8848.000webhostapp.com/youtube.php?id=oV_i3Hsl_zg&hd=5
+----,http://forum8848.000webhostapp.com/youtube.php?id=oV_i3Hsl_zg&hd=5
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
-大爱海外,http://forum8848.000webhostapp.com/youtube.php?id=MIqUplvSRWA&hd=5
+----,http://forum8848.000webhostapp.com/youtube.php?id=MIqUplvSRWA&hd=5
 公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
 *民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
 *民視臺灣,http://seb.sason.top/ptv/ftv.php?id=tw#http://185.93.2.35:12012/live/359111068247FFA1/LeniXlwULzB03VBsGh1xh853-haVT6kqEhOWenHryHc_D4xY8O8Db4E7l3zoIXLg/1725D3A0FE504365/831459.ts
 *動物星球頻道,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-探索頻道,rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
+國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo#https://www.fanmingming.cn/hls/natlgeo.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+探索頻道,https://www.fanmingming.cn/hls/discovery.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
@@ -29,9 +29,9 @@ BabyFirst親子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 *三立綜合台,http://live.zbjh.cc/live/ws124.m3u8
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sat/tv421
-緯來日本,http://ff.twtvcdn.com:8080/live/337/1638792b27bf351e447246bf53a23368/index.m3u8
+*中天亞洲台,http://202.175.127.77/live/show/ch1/index.m3u8
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv702
-*JET綜合,http://111.13.111.192/211.75.9.37:20030/20031#p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
+*緯來日本,rtmp://xiaoyu.speedws.com/sat/tv771
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
@@ -73,7 +73,7 @@ CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://zycfcdn.gdwlcloud.c
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
----,p2p://190.2.146.92:18912/5b14095f000b75eb17d2396207c379de.ts
+*FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -110,6 +110,9 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 東森購物47,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
 東森購物34,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
 東森購物46,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
+衛視音樂,https://www.fanmingming.cn/hls/channelv.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+日本|放送大学,rtmp://xiaoyu.speedws.com/sat/jp101
+
 
 新聞0610,#genre#
 美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
@@ -124,7 +127,7 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
 BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
 
-體育0612,#genre#
+體育0616,#genre#
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 StarSports體育,rtmp://58.200.131.2:1935/livetv/starsports
 賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
@@ -162,3 +165,5 @@ RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//c
 BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+日本 | 体育一台,rtmp://xiaoyu.speedws.com/sat/jp071
