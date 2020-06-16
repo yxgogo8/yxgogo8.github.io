@@ -114,7 +114,8 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 日本|放送大学,rtmp://xiaoyu.speedws.com/sat/jp101
 
 
-新聞0610,#genre#
+新聞0616,#genre#
+BBC World News,http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 日本NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 日本NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
@@ -153,7 +154,7 @@ Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
 Eleven Sports 2,rtmp://xiaoyu.speedws.com/sat/md041
 華視教育體育文化,http://111.13.111.192/125.227.198.89:8018#rtmp://161.202.204.248:1935/sat/md031#rtmp://xiaoyu.speedws.com/sat/md031
 CCTV-风云足球,rtmp://xiaoyu.speedws.com/sat/cn041
-CCTV-5体育,rtmp://58.200.131.2:1935/livetv/cctv5
+*CCTV-5体育,http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv5
 風雲足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
@@ -167,3 +168,4 @@ BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&F
 广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 日本 | 体育一台,rtmp://xiaoyu.speedws.com/sat/jp071
+五星體育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
