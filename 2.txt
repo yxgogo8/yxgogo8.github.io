@@ -73,7 +73,7 @@ CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv#http://zycfcdn.gdwlcloud.c
 CHC动作电影,http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 CCTV-6电影,rtmp://58.200.131.2:1935/livetv/cctv6
-*FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+*FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
