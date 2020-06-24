@@ -54,7 +54,7 @@ momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
 *民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8##p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8#http://154.211.14.239/forum/youtube.php?id=XxJKnDLYZz4&hd=5
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8#tvbus://74DFtb8bqLZW9oJYzhARxm9QxjE479J2AcPPVporwhcKXGgq7u
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8#http://154.211.14.239/forum/youtube.php?id=Hu1FkdAOws0&hd=5#rtmp://161.202.204.248:1935/sat/tv551#rtmp://xiaoyu.speedws.com/sat/tv551#tvbus://881a3y8TCzhB1mYAUMRv1PNGCmjiNtnYBEXsWrRSaM3djNNuzV
-TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts#http://111.13.111.192/211.75.9.37:20010/20016#http://111.13.111.192/211.75.9.37:20060/20068#tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB
+TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts#http://111.13.111.192/211.75.9.37:20010/20016#http://111.13.111.192/211.75.9.37:20060/20068#tvbus://3BrGrJr5MQhee4dvkLNxUMTk5o84v9dtEVs3NRKF3DLovhwqeB#http://hdtv.ub1818.com/ublive/index_5.m3u8
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 非凡新聞,mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4aee11dceee89f94e0.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
@@ -113,7 +113,19 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 衛視音樂,https://www.fanmingming.cn/hls/channelv.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 日本|放送大学,rtmp://xiaoyu.speedws.com/sat/jp101
 公视三台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/index.m3u8
-HBO 2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+影城0624,#genre#
+阿基拉,https://iqiyi.cdn27-okzy.com/20200501/3499_af1d2d82/index.m3u8
+1/2 的魔法,https://you.tube-kuyun.com/20200330/7400_2851716e/index.m3u8
+玩命Online：雙槍對決,http://you.tube-kuyun.com/20200303/3758_77b5c230/index.m3u8
+天后小助理,https://iqiyi.cdn27-okzy.com/20200610/4678_e264161c/index.m3u8
+明信片謀殺案,http://you.tube-kuyun.com/20200327/7067_1a7a4c49/index.m3u8
+深海異獸,https://you.tube-kuyun.com/20200405/8042_6f943c81/index.m3u8
+絕地戰警3,https://zy.kuboy-aiqiyi-163.com/20200327/14746_79698a4e/index.m3u8
+葉問4：完結篇,https://you.tube-kuyun.com/20200411/8826_2167687f/index.m3u8
+第一滴血5,http://tudou.diediao-kuyun.com/20191130/8606_6dcdeb46/index.m3u8
+猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
+鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
 新聞0616,#genre#
 BBC World News,http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
