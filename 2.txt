@@ -1,4 +1,4 @@
-台灣0627,#genre#
+台灣0629,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -6,9 +6,9 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://161.202.204.248:1935/sat/tv051#http://153.99.180.70:5021/live/450/playlist.m3u8#rtmp://xiaoyu.speedws.com/sat/tv051
-台視,rtmp://161.202.204.248:1935/sat/tv071#rtmp://xiaoyu.speedws.com/sat/tv071#http://111.13.111.192/125.227.198.89:8001
-中視,rtmp://161.202.204.248:1935/sat/tv091#rtmp://xiaoyu.speedws.com/sat/tv091#tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ#http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-華視,rtmp://161.202.204.248:1935/sat/tv111#rtmp://xiaoyu.speedws.com/sat/tv111#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+*台視,mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#rtmp://161.202.204.248:1935/sat/tv071#rtmp://xiaoyu.speedws.com/sat/tv071#http://111.13.111.192/125.227.198.89:8001
+*中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#rtmp://161.202.204.248:1935/sat/tv091#rtmp://xiaoyu.speedws.com/sat/tv091#tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ#http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+*華視,mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#rtmp://161.202.204.248:1935/sat/tv111#rtmp://xiaoyu.speedws.com/sat/tv111#http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
 大愛電視台,http://61.58.60.230:9319/live/10.m3u8
 *民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
@@ -31,9 +31,9 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sat/tv421
 *中天亞洲台,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts#http://202.175.127.77/live/show/ch1/index.m3u8
-緯來育樂,rtmp://161.202.204.248:1935/sat/tv702
-緯來日本,rtmp://xiaoyu.speedws.com/sat/tv771
-*緯來综合,mitv://190.2.149.54:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
+緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#rtmp://161.202.204.248:1935/sat/tv702
+緯來日本,mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#http://ff.apps1818.com:8880/live/46/86c12260e4545614d8a227cbfdbf6f50/index.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts#rtmp://xiaoyu.speedws.com/sat/tv771
+----,mitv://190.2.149.54:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
@@ -41,7 +41,7 @@ TVBS歡樂台,rtmp://161.202.204.248:1935/sat/tv422#rtmp://xiaoyu.speedws.com/sa
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
-momo综合台,rtmp://xiaoyu.speedws.com/sat/tv761
+公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 中天综合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大綜合,mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c22a7d0c8d68eff30b.ts#http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
@@ -65,7 +65,7 @@ TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts#http://
 *龍祥時代,mitv://fccsovh.pvbox.live:18912/5b14092200071c61067c541fd2ceabf2.ts#mitv://51.79.41.138:18912/5b14092200071c61067c541fd2ceabf2.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
-HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts#vjms://58.215.133.189:8500/live/cid=261#http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 HBO HiTS,http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
 HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
 HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
@@ -113,9 +113,11 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 衛視音樂,https://www.fanmingming.cn/hls/channelv.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 日本|放送大学,rtmp://xiaoyu.speedws.com/sat/jp101
 *豬哥亮歌廳秀,http://hdtv.ub1818.com/ublive/index_14.m3u8
-*TLC,mitv://51.79.41.138:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#mitv://190.2.149.54:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
+*TLC,vjms://58.215.133.189:8500/live/cid=103#mitv://51.79.41.138:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#mitv://190.2.149.54:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
 
-影城0624,#genre#
+影城0629,#genre#
+*魔鬼終結者6：黑暗命運,https://you.tube-kuyun.com/20200312/4811_e7fccb86/index.m3u8
+*女鬼橋,https://xingfu.hua-kuyun.com/20200627/6092_a3a3603e/1000k/hls/index.m3u8
 阿基拉,https://iqiyi.cdn27-okzy.com/20200501/3499_af1d2d82/index.m3u8
 1/2 的魔法,https://you.tube-kuyun.com/20200330/7400_2851716e/index.m3u8
 玩命Online：雙槍對決,http://you.tube-kuyun.com/20200303/3758_77b5c230/index.m3u8
@@ -144,7 +146,7 @@ BBC World News,http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 Sky News,http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
 BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D8469127084691270&ct=18393&tsum=60258039c8662460318eb58859cba64a
 
-體育0627,#genre#
+體育0629,#genre#
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 StarSports體育,rtmp://58.200.131.2:1935/livetv/starsports
 賽車CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
@@ -154,20 +156,20 @@ MOTOR SPORT,http://45.58.62.92:8084
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-緯來育樂,rtmp://161.202.204.248:1935/sat/tv701
-緯來體育,rtmp://161.202.204.248:1935/sat/tv721
+----,rtmp://161.202.204.248:1935/sat/tv701
+緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#rtmp://161.202.204.248:1935/sat/tv721
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-FOX體育1,rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
-FOX體育2,rtmp://161.202.204.248:1935/sat/tv741#rtmp://161.202.204.248:1935/sat/tv742
-FOX体育,rtmp://xiaoyu.speedws.com/sat/tv731
-FOX体育2,rtmp://xiaoyu.speedws.com/sat/tv741
-FOX-2,rtmp://xiaoyu.speedws.com/sat/hk021
-*FOX-3,rtmp://xiaoyu.speedws.com/sat/md031
+FOX1,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#rtmp://161.202.204.248:1935/sat/tv731#rtmp://161.202.204.248:1935/sat/tv732#http://45.58.62.92:8080
+FOX2 Sports,vjms://58.215.133.189:8500/live/cid=444
+FOX506----,http://45.58.62.92:8080
+FOX3HD,vjms://58.215.133.189:8500/live/cid=95
+FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40.ts
+FoxNFL,https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 FOX-SPORTS,http://45.58.62.92:8080
-[x]ELTA體育1台,rtmp://161.202.204.248:1935/sat/md041
-ELTA體育2台,rtmp://xiaoyu.speedws.com/sat/md051
-Eleven Sports Plus,rtmp://xiaoyu.speedws.com/sat/md011
-Eleven Sports 2,rtmp://xiaoyu.speedws.com/sat/md041
+ELTA體育1台,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#vjms://58.215.133.189:8500/live/cid=266#rtmp://161.202.204.248:1935/sat/md041
+-----,rtmp://xiaoyu.speedws.com/sat/md051
+博斯高球,vjms://58.215.133.189:8500/live/cid=265
+Eleven Sports 3,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40.ts#rtmp://xiaoyu.speedws.com/sat/md041
 華視教育體育文化,http://111.13.111.192/125.227.198.89:8018#rtmp://161.202.204.248:1935/sat/md031#rtmp://xiaoyu.speedws.com/sat/md031
 CCTV-风云足球,rtmp://xiaoyu.speedws.com/sat/cn041
 *CCTV-5体育,http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv5
@@ -176,8 +178,8 @@ Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 beIN SPORTS 2,rtmp://xiaoyu.speedws.com/sat/hk011#rtmp://xiaoyu.speedws.com/sat/hk021
 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 cctv5體育,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-5
-*韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-*韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+韓國JTBC高爾夫運動,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+韓國JTBC高爾夫,http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
 RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
 BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
@@ -185,6 +187,8 @@ BTV体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&F
 卫视体育,https://www.fanmingming.cn/hls/starsports.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 日本 | 体育一台,rtmp://xiaoyu.speedws.com/sat/jp071
 五星體育,http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-*緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
-Z頻道,mitv://fccseuro.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
-
+*緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+*Z頻道,mitv://fccseuro.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
+*FOX SPORT_News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+ELV体育,http://153.99.180.70:5021/live/266/playlist.m3u8
+TCL旅游,http://153.99.180.70:5021/live/103/playlist.m3u8
