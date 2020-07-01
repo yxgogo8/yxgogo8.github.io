@@ -24,7 +24,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 *龍華動畫,mitv://51.79.41.138:18912/5b1409170002d1e24e49c7557a3c1df2.ts#mitv://fccseuro.pvbox.live:18912/5b1409170002d1e24e49c7557a3c1df2.ts
 *MOMO親子,http://58.99.33.9:1935/liveedge2/live_24_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 *東森YOYO,http://58.99.33.9:1935/liveedge2/live_25_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-金鹰卡通,rtmp://58.200.131.2:1935/livetv/jykttv
+金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
 ----,http://live.zbjh.cc/live/ws105.m3u8
 *三立台湾台,http://125.227.210.37:47328/VideoInput/play.ts#http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts#http://live.zbjh.cc/live/ws127.m3u8
 *龍華偶像,mitv://51.79.41.138:18912/5b1409180001262645e601af722b9d5a.ts#http://185.93.2.35:12012/live/359111068247FFA1/f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
@@ -116,6 +116,14 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133.189:8500/live/cid=103#mitv://51.79.41.138:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#mitv://190.2.149.54:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#http://153.99.180.70:5021/live/103/playlist.m3u8
 公視三台HD,http://p06.iptv2asia.com:18888/http/018
 公視台語HD,http://p06.iptv2asia.com:18888/http/017
+湖南经视[湖南],http://kjol.cc/proxy/hunan.php?id=280
+湖南都市[湖南],http://kjol.cc/proxy/hunan.php?id=346
+湖南公共[湖南],http://kjol.cc/proxy/hunan.php?id=261
+湖南娱乐[湖南],http://kjol.cc/proxy/hunan.php?id=344
+湖南电视剧[湖南],http://kjol.cc/proxy/hunan.php?id=484
+湖南国际[湖南],http://kjol.cc/proxy/hunan.php?id=229
+金鹰纪实[湖南],http://kjol.cc/proxy/hunan.php?id=316
+金鹰卡通[湖南],http://kjol.cc/proxy/hunan.php?id=287
 
 影城0629,#genre#
 *魔鬼終結者6：黑暗命運,https://you.tube-kuyun.com/20200312/4811_e7fccb86/index.m3u8
@@ -197,18 +205,6 @@ RTM體育,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//c
 公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 國家地理HD,P2p://fcus.xsjiptv.com:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
 wwe,http://cdnak19.cast4u.info/channels/4/10804.m3u8
-湖南经视[湖南],http://kjol.cc/proxy/hunan.php?id=280
-湖南都市[湖南],http://kjol.cc/proxy/hunan.php?id=346
-湖南公共[湖南],http://kjol.cc/proxy/hunan.php?id=261
-湖南娱乐[湖南],http://kjol.cc/proxy/hunan.php?id=344
-湖南电视剧[湖南],http://kjol.cc/proxy/hunan.php?id=484
-湖南国际[湖南],http://kjol.cc/proxy/hunan.php?id=229
-金鹰纪实[湖南],http://kjol.cc/proxy/hunan.php?id=316
-金鹰卡通[湖南],http://kjol.cc/proxy/hunan.php?id=287
-先锋兵羽[湖南],http://kjol.cc/proxy/hunan.php?id=329
-快乐垂钓[湖南],http://kjol.cc/proxy/hunan.php?id=218
-茶频道[湖南],http://kjol.cc/proxy/hunan.php?id=578
-长沙新闻[湖南],http:///kjol.cc/proxy/hunan.php?id=269
-长沙政法[湖南],http://kjol.cc/proxy/hunan.php?id=254
-长沙女性[湖南],http://kjol.cc/proxy/hunan.php?id=230
+
+
 
