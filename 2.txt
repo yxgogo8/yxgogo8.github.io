@@ -224,5 +224,6 @@ wwe,http://cdnak19.cast4u.info/channels/4/10804.m3u8
 MLB,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 BS朝日,http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 國家地理頻道,http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
-
-
+国外动作HD,http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+電影1,http://220.158.149.14:9999/live/TV00000000000000000081@HHZT;LIVE
+電影2,http://220.158.149.14:9999/live/TV00000000000000000080@HHZT;LIVE
