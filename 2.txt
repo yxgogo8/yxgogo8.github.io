@@ -182,6 +182,8 @@ MOTOR SPORT,http://45.58.62.92:8084
 ELta体育,http://153.99.180.70:5021/live/266/playlist.m3u8
 緯來體育HD,http://125.227.210.37:46326/VideoInput/play.ts
 緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+*纬来体育,http://f8.apps8888.com:8080/live/52/b7865f0c9fd24cc6d0382b187ddfc8dd/index.m3u8
+*纬来体育,http://f8.apps8888.com:8080/live/301/f009a5d9e574f7fcdbc92a8f97d169a5/index.m3u8
 FOX體育新聞,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 FOX1,https://livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 FOX2 Sports,vjms://58.215.133.189:8500/live/cid=444
