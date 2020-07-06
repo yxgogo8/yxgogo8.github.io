@@ -126,9 +126,10 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 金鹰卡通[湖南],http://kjol.cc/proxy/hunan.php?id=287
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 
-影城0702,#genre#
-*親切的金子,https://leshi.iqiyi-kuyunzy.com/20190501/11180_28c5e7cd/index.m3u8
-*鐵線蟲入侵,https://videos.kkyun-iqiyi.com/20180715/DLjvOGHU/index.m3u8
+影城0706,#genre#
+*72小時前哨救援,https://iqiyi.cdn27-okzy.com/20200704/5631_0f0e0cd0/1000k/hls/index.m3u8
+親切的金子,https://leshi.iqiyi-kuyunzy.com/20190501/11180_28c5e7cd/index.m3u8
+鐵線蟲入侵,https://videos.kkyun-iqiyi.com/20180715/DLjvOGHU/index.m3u8
 魔鬼終結者6：黑暗命運,https://you.tube-kuyun.com/20200312/4811_e7fccb86/index.m3u8
 女鬼橋,https://xingfu.hua-kuyun.com/20200627/6092_a3a3603e/1000k/hls/index.m3u8
 阿基拉,https://iqiyi.cdn27-okzy.com/20200501/3499_af1d2d82/index.m3u8
