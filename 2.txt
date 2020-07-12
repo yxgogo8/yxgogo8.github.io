@@ -148,8 +148,8 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
 霹靂0712,#genre#
-天越14,https://diaoshi.dehua-kuyun.com/20200710/7427_df0bd651/index.m3u8
-天越13,https://diaoshi.dehua-kuyun.com/20200710/7429_bcdf128f/1000k/hls/index.m3u8
+天越14,https://iqiyi.cdn9-okzy.com/20200710/12236_0d11d13a/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7427_df0bd651/index.m3u8
+天越13,https://iqiyi.cdn9-okzy.com/20200710/12235_08274b21/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7429_bcdf128f/1000k/hls/index.m3u8
 天越12,https://you.tube-kuyun.com/20200703/17644_b386e948/index.m3u8
 天越11,https://you.tube-kuyun.com/20200703/17646_48acefdf/index.m3u8
 天越10,https://xingfu.hua-kuyun.com/20200626/5934_89601ca1/index.m3u8
