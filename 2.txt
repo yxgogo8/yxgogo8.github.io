@@ -127,7 +127,8 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 
-影城0712,#genre#
+影城0714,#genre#
+*花木蘭,https://v4.szjal.cn/20200613/bq8kn3h4/index.m3u8
 *怒海戰艦,https://s2.135-cdn.com/2020/07/10/azuFU0QKRmv6HO5i/index.m3u8#https://youku.cdn7-okzy.com/20200710/20267_b9d8c3d1/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16554_d9196f1a/index.m3u8
 *不死軍團,https://s2.135-cdn.com/2020/07/10/rXGCJsYLchgEQTSN/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7381_34e8e671/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200710/16531_6e0bd845/index.m3u8
 72小時前哨救援,https://iqiyi.cdn27-okzy.com/20200704/5631_0f0e0cd0/1000k/hls/index.m3u8
