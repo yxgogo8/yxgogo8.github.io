@@ -252,3 +252,12 @@ BS朝日,http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 國家地理頻道,http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
+tHBO,http://154.90.1.188/bkplay.php?id=116
+t公视,http://154.90.1.188/bkplay.php?id=23
+ELTA体育1 HD,p2p://185.169.196.146:9906/59fd07ba000a4d260232ac6f507c5a84.ts
+ELTA 体育3 HD,p2p://185.169.196.146:9906/5b1ea05d0009a88cd02e7355473b4230.ts
+Eleven Sport 1,p2p://185.169.196.146:9906/59fd23c0000c1e7f02a0245c6964058b.ts
+廣東體育高清,https://pullstream-ucan.speedws.com/live/8778075ca4c040638938ac159297e49e.flv
+三立台湾台,http://111.13.111.192/211.75.9.37:20050/20053
+三立都会台,http://111.13.111.192/211.75.9.37:20050/20054
+三立新闻台,http://111.13.111.192/211.75.9.37:20050/20056
