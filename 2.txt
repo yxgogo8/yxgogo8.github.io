@@ -62,12 +62,12 @@ TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
 東森財經新聞,mitv://198.255.74.57:12196/5f0e0ca9000076d4d8e3300b886b0fbb.ts#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 *CINEMAX,mitv://198.255.74.57:12196/5f0e0cd80009e44dd8e3ea0d15539c02.ts#http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
 *東森電影,http://125.227.210.37:27889/VideoInput/play.ts#mitv://198.255.74.57:12196/5f0e0ca8000ee9a0d8e32fd63e09ea82.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-*龍祥時代,mitv://198.255.74.57:12196/5f0e0cd20004d670d8e3d151565884c6.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#mitv://198.255.74.57:12196/5efcb9c20000abcc953759c0a7b7dab7.ts#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+*龍祥時代,mitv://198.255.74.57:12196/5f0e0cd20004d670d8e3d151565884c6.ts#http://nb.iptv88888.xyz/hls/lxtime.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#mitv://198.255.74.57:12196/5efcb9c20000abcc953759c0a7b7dab7.ts#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#mitv://198.255.74.57:12196/5f0e0cd200025bb4d8e3d0af80f15d4e.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#mitv://198.255.74.57:12196/5efcb9c1000d503e95375915d5436bdd.ts
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
 FOX MOVIES HD,mitv://198.255.74.57:12196/5f0e0cd8000d49d1d8e3eaeb0e1bd365.ts
-----,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
+*DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts#mitv://198.255.74.57:12196/5f0e0cd8000f098fd8e3eb5eab08e400.ts
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
@@ -301,3 +301,6 @@ BS朝日,http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
 日本摔角,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+ELTA体育1,http://nb.iptv88888.xyz/hls/eltiyu1.m3u8
+ELTA体育2,http://nb.iptv88888.xyz/hls/eltiyu2.m3u8
+ELTA体育3,http://nb.iptv88888.xyz/hls/eltiyu3.m3u8
