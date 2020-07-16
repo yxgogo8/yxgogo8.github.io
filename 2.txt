@@ -1,4 +1,4 @@
-台灣0712,#genre#
+台灣0716,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -24,15 +24,15 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 *CN卡通,http://58.99.33.9:1935/liveedge2/live_22_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 *CBeebies卡通,http://58.99.33.9:1935/liveedge2/live_209_1.stream/chunklist1567129495.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-*迪士尼,http://125.227.210.37:52807/VideoInput/play.ts
+*迪士尼,mitv://198.255.74.57:12196/5f0e0c8d000bdf08d8e2c596a90602b7.ts#http://125.227.210.37:52807/VideoInput/play.ts
 *MOMO親子,http://58.99.33.9:1935/liveedge2/live_24_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 *東森YOYO,http://58.99.33.9:1935/liveedge2/live_25_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-*三立都會台,http://58.99.33.9:1935/liveedge2/live_30_1.stream/playlist.m3u8
-*三立台湾台,http://125.227.210.37:47328/VideoInput/play.ts#http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts#http://live.zbjh.cc/live/ws127.m3u8
-中天娛樂,http://125.227.210.37:36251/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+*三立都會台,http://58.99.33.9:1935/liveedge2/live_30_1.stream/playlist.m3u8#mitv://198.255.74.57:12196/5f0e0cb0000431fed8e34c57149b8354.ts
+*三立台湾台,mitv://198.255.74.57:12196/5f0e0cb000047372d8e34c68d8dbb30e.ts#http://58.99.33.9:1935/liveedge2/live_29_1.stream/chunklist708113372.m3u8?checkCode=37050688asdfsdfsadf&aa=as#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts#http://live.zbjh.cc/live/ws127.m3u8
+中天娛樂,mitv://198.255.74.57:12196/5f0e0cb70007ecc4d8e368a48ddea3a0.ts#http://125.227.210.37:36251/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 *TVBS歡樂台,http://58.99.33.9:1935/liveedge2/live_42_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as#http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
-緯來日本,mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
+緯來育樂,mitv://198.255.74.57:12196/5f0e0ca90006566ed8e3318cea6de14c.ts#mitv://198.255.74.57:12196/5efcb9af000c8139953712907c5850dd.ts#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
+緯來日本,mitv://198.255.74.57:12196/5f0e0ca9000222cdd8e33078f6511b39.ts#mitv://198.255.74.57:12196/5efcb9af0007f3dd95371166f6aa2c7c.ts#mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
 公視三台HD,http://p06.iptv2asia.com:18888/http/018
 公視台語HD,http://p06.iptv2asia.com:18888/http/017
 公視,http://p06.iptv2asia.com:18888/http/016#mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
@@ -41,16 +41,16 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天國際,http://61.58.60.230:9319/live/205.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-八大綜合,http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中天综合,mitv://198.255.74.57:12196/5f0e0cb700098d52d8e3690e0719449c.ts#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+八大綜合,mitv://198.255.74.57:12196/5f0e0cb70004874ed8e367c50ef55dec.ts#http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+八大戲劇,http://58.99.33.9:1935/liveedge2/live_41_1.stream/playlist.m3u8
 台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 中視新聞,http://p06.iptv2asia.com:18888/http/006#http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞,http://p06.iptv2asia.com:18888/http/010#http://seb.sason.top/sc/hsxw_fhd.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-*年代新聞,http://125.227.210.37:20434/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5b1409fd000a726908ab5c9c5950d2f2.ts
+*年代新聞,mitv://198.255.74.57:12196/5f0e0ca900080963d8e331fb5f36e03b.ts#http://125.227.210.37:20434/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5b1409fd000a726908ab5c9c5950d2f2.ts
 *東森新聞,vjms://122.155.180.8:8500:3502/live/cid=340#http://125.227.210.37:19592/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://seb.sason.top/sc/dsxw_fhd.m3u8#
-*中天新聞,http://125.227.210.37:64954/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://f8.apps8888.com:8080/live/3/7d8dca1ac6df48b69e3a7a1c68a714fc/index.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
+*中天新聞,mitv://198.255.74.57:12196/5f0e0cb7000a62a7d8e36945065af9fc.ts#http://125.227.210.37:64954/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://f8.apps8888.com:8080/live/3/7d8dca1ac6df48b69e3a7a1c68a714fc/index.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
 *民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8##p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
@@ -59,22 +59,22 @@ TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8#http://f8.apps8888.com:8080/live/4/6d823b340ed9e3c4cb6184ed3107125e/index.m3u8
 *東風衛視,http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
 台視財經,http://p06.iptv2asia.com:18888/http/003
-東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-*CINEMAX,http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
-*東森電影,http://125.227.210.37:27889/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-*龍祥時代,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#mitv://198.255.74.57:12196/5efcb9c20000abcc953759c0a7b7dab7.ts#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-*好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#mitv://198.255.74.57:12196/5efcb9c1000d503e95375915d5436bdd.ts
+東森財經新聞,mitv://198.255.74.57:12196/5f0e0ca9000076d4d8e3300b886b0fbb.ts#http://seb.sason.top/sc/dscjxw_fhd.m3u8
+*CINEMAX,mitv://198.255.74.57:12196/5f0e0cd80009e44dd8e3ea0d15539c02.ts#http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8#mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
+*東森電影,mitv://198.255.74.57:12196/5f0e0ca8000ee9a0d8e32fd63e09ea82.ts#http://125.227.210.37:27889/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+*龍祥時代,mitv://198.255.74.57:12196/5f0e0cd20004d670d8e3d151565884c6.ts#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#mitv://198.255.74.57:12196/5efcb9c20000abcc953759c0a7b7dab7.ts#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+*好萊塢電影,mitv://198.255.74.57:12196/5f0e0cd200025bb4d8e3d0af80f15d4e.ts#http://125.227.210.37:47862/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8#mitv://198.255.74.57:12196/5efcb9c1000d503e95375915d5436bdd.ts
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
-----,http://f8.apps8888.com:8080/live/330/f698988a027458715f68e7d437300337/index.m3u8
+FOX MOVIES HD,mitv://198.255.74.57:12196/5f0e0cd8000d49d1d8e3eaeb0e1bd365.ts
 ----,mitv://198.255.74.57:12196/5ef22bec0003d4756bfd4e9f4fcf8f05.ts
-FX HD,http://125.227.210.37:30834/VideoInput/play.ts
+FX HD,mitv://198.255.74.57:12196/5f0e0cd8000f098fd8e3eb5eab08e400.ts#http://125.227.210.37:30834/VideoInput/play.ts
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 *CCTV-6电影,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv6
 *FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-*東森洋片,http://125.227.210.37:41320/VideoInput/play.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+*東森洋片,mitv://198.255.74.57:12196/5f0e0ca8000e1511d8e32f9fc3e7998c.ts#http://125.227.210.37:41320/VideoInput/play.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 ----,http://125.227.210.37:30834/VideoInput/play.ts
 ----,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -126,6 +126,7 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 金鹰卡通[湖南],http://kjol.cc/proxy/hunan.php?id=287
 金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
+靖天國際,http://61.58.60.230:9319/live/205.m3u8
 
 影城0712,#genre#
 野蠻遊戲2,https://meinv.jingyu-zuida.com/20200301/12929_9d7db888/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200213/3384_2ce2a2df/1000k/hls/index.m3u8#https://s1.135-cdn.com/20200213/levHCwYKiEq3NBQg/index.m3u8
@@ -165,6 +166,53 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 天越02,https://xingfu.hua-kuyun.com/20200529/1741_cfaa3f82/index.m3u8
 天越01,https://xingfu.hua-kuyun.com/20200529/1742_72eae4e9/index.m3u8
 
+$c_start七月0716$c_end
+靈幻至尊,https://videos.kkyun-iqiyi.com/20171105/8keAGoKt/index.m3u8
+鬼抓人,https://bilibili.com-l-163.com/20180924/5607_8122e28e/index.m3u8?sign=ac4665256a3101af2204ba4b368fa3fd
+魁星踢斗2,https://zy.kuboy-aiqiyi-163.com/20191231/5864_2ae4d148/index.m3u8
+魁星踢斗,https://vip.let-kuyun.com/20180619/P5MHi7vV/index.m3u8
+屍家重地,https://vs1.baduziyuan.com/20171116/9ccMiB5G/index.m3u8
+一眉道人,https://vip.okokbo.com/20171221/XduVSyRI/index.m3u8
+靈幻先生,https://vip.okokbo.com/20171227/LrkgtTVH/index.m3u8
+驅魔道長,https://videos.kkyun-iqiyi.com/20171105/M36PMQki/index.m3u8
+驅魔警察,https://video.kkyun-iqiyi.com/20180820/I4oDnaQp/index.m3u8#https://yi.jingdianzuida.com/20191009/rDe1fpxt/index.m3u8
+鬼打鬼,https://vip888.kuyun99.com/20181219/sZ4Luae9/index.m3u8
+鬼咬鬼,http://yi.jingdianzuida.com/20191009/vj0C75Ov/index.m3u8
+五福星撞鬼,https://videos.kkyun-iqiyi.com/20180122/Jpwa1HXT/index.m3u8#https://iqiyi.zuidameiju.com/20180916/zH3H9vJK/index.m3u8
+捉鬼專門店,https://zy.kubo-360-tudou.com/20181014/22028_8809822a/index.m3u8
+猛鬼入侵黑色會,https://acfun.iqiyi-kuyun.com/20180929/2eCuiStc/index.m3u8
+猛鬼學堂,https://yi.jingdianzuida.com/20190917/TvAGE4rI/index.m3u8#https://youku.kuyun-leshi.com/20190506/n1Apq6d6/index.m3u8
+猛鬼撞鬼,https://bilibili.com-l-163.com/20180922/4170_354d94e8/index.m3u8
+誰是鬼,http://vs1.baduziyuan.com/20180425/6N2Xm5n5/index.m3u8
+靈氣逼人,http://acfun.iqiyi-kuyun.com/20181120/SZLL2Vlo/index.m3u8#https://iqiyi.zuidameiju.com/20190109/pBfLQ1lU/index.m3u8
+鬼新娘,http://yushou.qitu-zuida.com/20180520/5920_249efc51/index.m3u8#https://video.kkyun-iqiyi.com/20180403/vgaKzkh1/index.m3u8
+陰陽路2：我在你左右,https://gaoqing.bibi-baidu.com/20191011/11331_4bf2ecef/index.m3u8#http://hair.jingpin88.com/20171110/VwEXrtkY/index.m3u8#https://dbx5.tyswmp.com/20191115/RuBXvY9K5Wp1j87M/index.m3u8
+七月十四不見不散,https://bili.meijuzuida.com/20190529/15728_e3e3f2df/index.m3u8
+生人勿近之問米,https://youku.com-youku.com/20180310/vq9v1bWQ/index.m3u8?sign=25949887aff599649cdabf8b0c84bbd6
+捉鬼合家歡,https://meinv.jingyu-zuida.com/20200219/12642_19a362c8/index.m3u8#https://acfun.iqiyi-kuyun.com/20180905/w5cAQfMD/index.m3u8
+捉鬼合家歡2,https://acfun.iqiyi-kuyun.com/20180905/bh3vIaiL/index.m3u8
+精靈變,https://videos.kkyun-iqiyi.com/20171105/KxLpKwux/index.m3u8
+怪談協會,https://youku.cdn7-okzy.com/20200314/17766_4d4d6c99/index.m3u8?sign=6d1158dc7d950882236c6b52d14fd10b
+猛鬼食人胎,https://yun.zxziyuan-yun.com/20180604/5I7KSVB1/1000kb/hls/index.m3u8
+殭屍叔叔,https://yun.kubozy-youku-163.com/20190505/12502_ab3f0db6/index.m3u8
+殭屍先生,https://zy.zxziyuan-yun.com/20180314/NCS7rJiT/index.m3u8
+新殭屍先生,https://cn3.download05.com/hls/20190803/117646c3b8fd5dfc7f3d5c726ecc517f/1564811075/index.m3u8
+殭屍家族,https://zy.zxziyuan-yun.com/20180314/6PzBEEKQ/index.m3u8#https://yi.jingdianzuida.com/20191009/I92JPHMV/index.m3u8
+音樂殭屍,https://videos.kkyun-iqiyi.com/20171105/kjA01rwE/index.m3u8
+鍾馗嫁妹,https://videos.kkyun-iqiyi.com/20170925/3Gi1Lsss/index.m3u8
+千年女妖,https://vs1.baduziyuan.com/20180425/QcSpxJch/index.m3u8
+猛鬼旅行團,https://videos.kkyun-iqiyi.com/20180729/KUye3Pij/index.m3u8
+金裝鬼打鬼,https://c.mahua-kb.com/20200608/NnvESkyh/index.m3u8
+鬼打鬼之靈幻天師,https://vip.okokbo.com/20171230/TILTF1BH/index.m3u8#https://c.mahua-kb.com/20200607/6YngabSc/index.m3u8
+猛鬼佛跳牆,https://yangguang.piaohua-kuyun.com/20181127/Cch1DwMt/index.m3u8
+屍氣逼人,https://56.com-ok-bilibili.com/20190919/31683_a8f12bf5/index.m3u8
+人嚇人,https://videos.kkyun-iqiyi.com/20180814/Z5AR0Pg1/index.m3u8
+人嚇鬼,https://yangguang.piaohua-kuyun.com/20180828/Y67yX239/index.m3u8
+嚇到笑,https://jingdian.qincai-zuida.com/20200628/8806_0fcfaf74/index.m3u8
+捉鬼大師,https://bilibili.com-l-163.com/20180922/3994_efbc454d/1000k/hls/index.m3u8
+表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
+表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
+
 新聞0702,#genre#
 *上海耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 *上海点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
@@ -188,7 +236,7 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
-體育0707,#genre#
+體育0716,#genre#
 *快樂垂釣,http://107.148.240.185:13164/v/hunantv.php?id=218
 *先鋒乒羽,http://107.148.240.185:13164/v/hunantv.php?id=329
 ----,http://f8.apps8888.com:8080/live/1133/90dc6be178ff4e9a970068c1f2d00a5b/index.m3u8
@@ -252,12 +300,4 @@ BS朝日,http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 國家地理頻道,http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
-tHBO,http://154.90.1.188/bkplay.php?id=116
-t公视,http://154.90.1.188/bkplay.php?id=23
-ELTA体育1 HD,p2p://185.169.196.146:9906/59fd07ba000a4d260232ac6f507c5a84.ts
-ELTA 体育3 HD,p2p://185.169.196.146:9906/5b1ea05d0009a88cd02e7355473b4230.ts
-Eleven Sport 1,p2p://185.169.196.146:9906/59fd23c0000c1e7f02a0245c6964058b.ts
-廣東體育高清,https://pullstream-ucan.speedws.com/live/8778075ca4c040638938ac159297e49e.flv
-三立台湾台,http://111.13.111.192/211.75.9.37:20050/20053
-三立都会台,http://111.13.111.192/211.75.9.37:20050/20054
-三立新闻台,http://111.13.111.192/211.75.9.37:20050/20056
+日本摔角,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
