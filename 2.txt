@@ -243,6 +243,12 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
 體育0717,#genre#
+*FOX SPORTS,http://tangyuanya.pw/dl/htv.php?id=73
+*FOX SPORTS 2,http://tangyuanya.pw/dl/htv.php?id=74
+*ELEVEN SPORTS 1,http://tangyuanya.pw/dl/htv.php?id=75
+*momo综合,http://tangyuanya.pw/dl/htv.php?id=76
+*MOMO2,http://tangyuanya.pw/dl/htv.php?id=35
+*Momo1,http://tangyuanya.pw/dl/htv.php?id=48
 Fox Sports 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 Fox Sports 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 Fox Sports 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
