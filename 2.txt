@@ -222,6 +222,20 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
+輪播0720,#genre#
+不可能的任務1,https://ifeng.com-v-ifeng.com/20180722/23643_e67d9fef/1000k/hls/index.m3u8#https://yiyi.55zuiday.com/20180415/EvYjg74p/index.m3u8#https://yiyi.55zuiday.com/20180415/EvYjg74p/index.m3u8
+不可能的任務2,https://ifeng.com-v-ifeng.com/20180722/23644_369a2143/index.m3u8#https://videos.kkyun-iqiyi.com/ppvod/9F2F6F1C9F5DF7A41EB1391A41CC2DC1.m3u8#https://cn2.zuidadianying.com/20180415/CGj6HONJ/index.m3u8
+不可能的任務3,https://ifeng.com-v-ifeng.com/20180722/23645_844abc3b/1000k/hls/index.m3u8#https://videos.kkyun-iqiyi.com/20180108/JmOGAcc1/index.m3u8#https://leshi.cdn-zuyida.com/20180422/23942_e7a30216/index.m3u8
+不可能的任務4,https://ifeng.com-v-ifeng.com/20180722/23646_d6d28461/index.m3u8#https://s2.135-cdn.com/2020/04/13/6CyawjeNHpMgPx0f/index.m3u8
+不可能的任務5,https://videos.kkyun-iqiyi.com/20180108/lO7z0P3p/index.m3u8#https://hair.jingpin88.com/ppvod/90AB800441554DCAA47B20CFAD16681D.m3u8
+不可能的任務6,https://haoa.haozuida.com/20181107/kTztJiEk/800kb/hls/index.m3u8#https://sohu.com-v-sohu.com/20181107/14120_f4fd09c7/index.m3u8#https://video.kkyun-iqiyi.com/ppvod/1B13EDF8EC743DCCE9EE9DF8FCC1EF1D.m3u8#https://yong.yongjiu6.com/20180917/4tqJiCRu/index.m3u8
+五虎將之決裂,https://yi.jingdianzuida.com/20190910/loraSSLg/index.m3u8#https://videos.kkyun-iqiyi.com/20180724/ir1ESva1/index.m3u8#https://d.mhkuaibo.com/20200417/9J6lgNbP/index.m3u8
+買兇拍人,https://v3.yongjiujiexi.com/20190523/IxSb4OWE/index.m3u8#https://ifeng.com-v-ifeng.com/20180714/19831_b90b56f0/index.m3u8#https://acfun.iqiyi-kuyun.com/ppvod/8879DF698C371B4D709064F414747E00.m3u8
+專釣大鱷,https://iqiyi.cdn8-okzy.com/20200410/7483_65b7bd13/index.m3u8#https://yangguang.piaohua-kuyun.com/20181206/rPhyqu7L/index.m3u8
+至尊無上,https://56.com-ok-bilibili.com/20190926/31779_6fb48e1b/index.m3u8#https://video.kkyun-iqiyi.com/20180822/o1wM2Oaj/index.m3u8#https://b.mahua-kb.com/20200525/snklfkZW/index.m3u8
+至尊無上2,https://haitang.kankan-kuyunzy.com/20200317/18439_16d47c51/index.m3u8#https://yi.jingdianzuida.com/20190910/KIRrgsi5/index.m3u8
+開心鬼救開心鬼,https://yi.jingdianzuida.com/ppvod/B3A7A5C02492AC397B79372CB673C9BC.m3u8#https://zy.kuboy-aiqiyi-163.com/20200111/6690_0a37ed77/index.m3u8#https://c.mahua-kb.com/20200701/ikQPr7A2/index.m3u8
+
 新聞0702,#genre#
 *上海耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 *上海点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
