@@ -234,7 +234,7 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 專釣大鱷,https://iqiyi.cdn8-okzy.com/20200410/7483_65b7bd13/index.m3u8#https://yangguang.piaohua-kuyun.com/20181206/rPhyqu7L/index.m3u8
 至尊無上,https://56.com-ok-bilibili.com/20190926/31779_6fb48e1b/index.m3u8#https://video.kkyun-iqiyi.com/20180822/o1wM2Oaj/index.m3u8#https://b.mahua-kb.com/20200525/snklfkZW/index.m3u8
 至尊無上2,https://haitang.kankan-kuyunzy.com/20200317/18439_16d47c51/index.m3u8#https://yi.jingdianzuida.com/20190910/KIRrgsi5/index.m3u8
-開心鬼救開心鬼,https://yi.jingdianzuida.com/ppvod/B3A7A5C02492AC397B79372CB673C9BC.m3u8#https://zy.kuboy-aiqiyi-163.com/20200111/6690_0a37ed77/index.m3u8#https://c.mahua-kb.com/20200701/ikQPr7A2/index.m3u8
+
 
 新聞0702,#genre#
 *上海耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
