@@ -1,4 +1,4 @@
-台灣0720,#genre#
+台灣0722,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -75,12 +75,12 @@ CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbch
 *CCTV-6电影,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv6
 *FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 *東森洋片,http://125.227.210.37:41320/VideoInput/play.ts#mitv://198.255.74.57:12196/5f0e0ca8000e1511d8e32f9fc3e7998c.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-----,http://125.227.210.37:30834/VideoInput/play.ts
-----,mitv://198.255.74.57:12196/5ef22bc10000bbff6bfca5dd08bc258d.ts
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 *亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+鳳梨直擊,http://520574.xyz/dl/gt.php?id=4gtvlive1
+香蕉直擊,http://520574.xyz/dl/gt.php?id=4gtvlive2
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -269,12 +269,6 @@ True Sport 6,https://livedoomovies.com/02_sport6_480p/chunklist.m3u8
 True Sport 7,http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 beIN SPORTS1 HD,https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 beIN SPORTS2 HD,https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-*FOX SPORTS,http://tangyuanya.pw/dl/htv.php?id=73
-*FOX SPORTS 2,http://tangyuanya.pw/dl/htv.php?id=74
-*ELEVEN SPORTS 1,http://tangyuanya.pw/dl/htv.php?id=75
-*momo综合,http://tangyuanya.pw/dl/htv.php?id=76
-*MOMO2,http://tangyuanya.pw/dl/htv.php?id=35
-*Momo1,http://tangyuanya.pw/dl/htv.php?id=48
 Fox Sports 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 Fox Sports 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 Fox Sports 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
@@ -356,11 +350,6 @@ ELTA体育3,http://nb.iptv88888.xyz/hls/eltiyu3.m3u8
 民視旅游,http://520574.xyz/dl/gt.php?id=ftvtravel
 鳳梨直擊,http://520574.xyz/dl/gt.php?id=4gtvlive1
 香蕉直擊,http://520574.xyz/dl/gt.php?id=4gtvlive2
-星空卫视,http://144.48.240.144:2019/SunTv.php?name=XingKongTV
-高清HD卡通剧场,http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-高清HD大众影视,http://39.134.52.207/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-高清HD家庭剧场,http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-高清HD家庭影院,http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 台视,http://nb.iptv88888.xyz/hls/taishi.m3u8
 中视,http://nb.iptv88888.xyz/hls/zhongshi.m3u8
 华视,http://nb.iptv88888.xyz/hls/huashi.m3u8
