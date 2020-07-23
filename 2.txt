@@ -279,6 +279,7 @@ ELTA体育3,http://nb.iptv88888.xyz/hls/eltiyu3.m3u8
 *先鋒乒羽,http://107.148.240.185:13164/v/hunantv.php?id=329
 ----,http://f8.apps8888.com:8080/live/1133/90dc6be178ff4e9a970068c1f2d00a5b/index.m3u8
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+博斯高球,mitv://147.135.39.171:9906/5defe13d000eb2006eba3ce647e056da.ts#vjms://58.215.133.189:8500/live/cid=265
 极速汽车蓝光,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
