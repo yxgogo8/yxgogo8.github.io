@@ -22,9 +22,9 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 探索頻道,http://125.227.210.37:20617/VideoInput/play.ts#https://www.fanmingming.cn/hls/discovery.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-*---,http://58.99.33.9:1935/liveedge2/live_22_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-*---,http://58.99.33.9:1935/liveedge2/live_209_1.stream/chunklist1567129495.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 *迪士尼,http://125.227.210.37:52807/VideoInput/play.ts
+MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 *東森YOYO,http://nb.iptv88888.xyz/hls/dsyouyou.m3u8
 *三立都會台,http://nb.iptv88888.xyz/hls/sldouhui.m3u8
 *三立台湾台,http://nb.iptv88888.xyz/hls/sltaiwan.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts#http://live.zbjh.cc/live/ws127.m3u8
@@ -66,7 +66,7 @@ TVBS,http://hdtv.ub1818.com/ublive/index_5.m3u8
 *好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#http://nb.iptv88888.xyz/hls/haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
------,mitv://198.255.74.57:12196/5f0e0cd8000d49d1d8e3eaeb0e1bd365.ts
+FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 *DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
