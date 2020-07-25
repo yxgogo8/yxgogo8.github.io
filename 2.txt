@@ -159,7 +159,9 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0720,#genre#
+霹靂0725,#genre#
+天越18,https://cdn-yong.bejingyongjiu.com/20200724/17778_1e65546f/index.m3u8#https://iqiyi.cdn9-okzy.com/20200725/13016_3160e2df/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9451_28448940/index.m3u8
+天越17,https://diaoshi.dehua-kuyun.com/20200724/9452_5d977480/index.m3u8#https://iqiyi.cdn9-okzy.com/20200725/13015_5f01697c/1000k/hls/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200724/17777_2cc63f8b/index.m3u8#
 天越16,https://cdn-yong.bejingyongjiu.com/20200717/17235_5c371a7b/index.m3u8#https://iqiyi.cdn9-okzy.com/20200718/12713_347e7661/index.m3u8#https://diaoshi.dehua-kuyun.com/20200717/8459_229b5c13/index.m3u8
 天越15,https://cdn-yong.bejingyongjiu.com/20200717/17234_e437bc59/index.m3u8#https://iqiyi.cdn9-okzy.com/20200718/12712_fdbc96f5/index.m3u8#https://diaoshi.dehua-kuyun.com/20200717/8460_234cf33d/index.m3u8
 天越14,https://iqiyi.cdn9-okzy.com/20200710/12236_0d11d13a/index.m3u8#https://diaoshi.dehua-kuyun.com/20200710/7427_df0bd651/index.m3u8
