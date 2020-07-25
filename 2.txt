@@ -226,7 +226,11 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0720,#genre#
+輪播0725,#genre#
+達文西密碼,https://vip.okokbo.com/20180224/9vbRU3LE/index.m3u8#https://vip.let-kuyun.com/20180902/fiZOyLuy/index.m3u8#https://c.mahua-kb.com/20200619/8oY76toP/index.m3u8
+達文西密碼2加長版,https://vip888.kuyun99.com/20180712/QdM2UgSE/index.m3u8
+達文西密碼2,https://iqiyi.zuidameiju.com/20200318/13691_70da39ac/index.m3u8#https://vip.okokbo.com/20180107/rdVgmHyy/index.m3u8#https://vip.let-kuyun.com/20180902/ooHSf7E1/index.m3u8
+達文西密碼3,https://56.com-t-56.com/20190412/13686_f5f918f6/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190407/7707_a4cf348b/index.m3u8#https://zy.zxziyuan-yun.com/20180215/sweJzXBm/index.m3u8
 不可能的任務1,https://ifeng.com-v-ifeng.com/20180722/23643_e67d9fef/1000k/hls/index.m3u8#https://yiyi.55zuiday.com/20180415/EvYjg74p/index.m3u8#https://yiyi.55zuiday.com/20180415/EvYjg74p/index.m3u8
 不可能的任務2,https://ifeng.com-v-ifeng.com/20180722/23644_369a2143/index.m3u8#https://videos.kkyun-iqiyi.com/ppvod/9F2F6F1C9F5DF7A41EB1391A41CC2DC1.m3u8#https://cn2.zuidadianying.com/20180415/CGj6HONJ/index.m3u8
 不可能的任務3,https://ifeng.com-v-ifeng.com/20180722/23645_844abc3b/1000k/hls/index.m3u8#https://videos.kkyun-iqiyi.com/20180108/JmOGAcc1/index.m3u8#https://leshi.cdn-zuyida.com/20180422/23942_e7a30216/index.m3u8
