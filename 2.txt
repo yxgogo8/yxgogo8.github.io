@@ -127,6 +127,9 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
+台視新聞,https://gogohaha.000webhostapp.com/?id=NbjI0cARzjQ
+東森新聞,https://gogohaha.000webhostapp.com/?id=RaIJ767Bj_M
+中天新聞,https://gogohaha.000webhostapp.com/?id=wUPPkSANpyo
 
 影城0725,#genre#
 *屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
