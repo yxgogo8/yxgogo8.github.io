@@ -26,7 +26,7 @@ CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 *迪士尼,http://125.227.210.37:52807/VideoInput/play.ts
 MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 *Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
-*历史频道HD,mitv://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
+*歷史频道HD,mitv://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
 *----,http://nb.iptv88888.xyz/hls/sltaiwan.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts#http://live.zbjh.cc/live/ws127.m3u8
 中天娛樂,http://125.227.210.37:36251/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 *TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
@@ -42,8 +42,8 @@ MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大綜合,http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-国兴卫视,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
-------,http://nb.iptv88888.xyz/hls/dsxiju.m3u8
+國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
+緯來戲劇,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
 台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8#http://nb.iptv88888.xyz/hls/tsxinwen.m3u8
 中視新聞,http://p06.iptv2asia.com:18888/http/006#http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞,http://p06.iptv2asia.com:18888/http/010#http://seb.sason.top/sc/hsxw_fhd.m3u8
@@ -57,7 +57,7 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 -----,http://hdtv.ub1818.com/ublive/index_5.m3u8
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-*----,http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
+寰宇新闻台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 台視財經,http://p06.iptv2asia.com:18888/http/003
 東森財經新聞,http://nb.iptv88888.xyz/hls/dscaiji.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 *CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
@@ -69,7 +69,7 @@ HBO HD,vjms://58.215.133.189:8500/live/cid=261
 FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 *DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts
-CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
+CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 *CCTV-6电影,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv6
@@ -270,7 +270,12 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0725,#genre#
+輪播0730,#genre#
+牠2,https://dapian.video-yongjiu.com/20191013/18844_8445f997/index.m3u8#https://youku.cdn7-okzy.com/20191119/15837_016497d2/index.m3u8#https://tianxian.piaohua-kuyun.com/20191011/6068_e7c1fed9/index.m3u8
+牠,https://v2.yongjiujiexi.com/20171029/1a9Hnede/1000kb/hls/index.m3u8#https://yiyi.55zuiday.com/20171213/EubaXIAL/800kb/hls/index.m3u8#https://vs1.baduziyuan.com/20171121/TDwklPgY/index.m3u8
+高年級實習生,https://youku.cdn-tudou.com/20180428/5561_d3328ecd/index.m3u8#https://video.kkyun-iqiyi.com/ppvod/12F69CB7EE9371F25F148DFCF8B1FCEF.m3u8#https://yiyi.55zuiday.com/20171210/MrPGi6dW/800kb/hls/index.m3u8
+黑魔女1,https://iqiyi.zuidameiju.com/20180924/lz8BDpBW/800kb/hls/index.m3u8#https://vip.okokbo.com/20180103/Zvj8d3i2/index.m3u8#https://youku.kuyun-leshi.com/20190629/e3F5knCS/index.m3u8
+黑魔女2,https://youku.cdn7-okzy.com/20191231/16473_a7b384ea/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200105/247_3701ff45/index.m3u8#https://youku.cdn7-okzy.com/20191231/16473_a7b384ea/index.m3u8
 達文西密碼,https://vip.okokbo.com/20180224/9vbRU3LE/index.m3u8#https://vip.let-kuyun.com/20180902/fiZOyLuy/index.m3u8#https://c.mahua-kb.com/20200619/8oY76toP/index.m3u8
 達文西密碼2加長版,https://vip888.kuyun99.com/20180712/QdM2UgSE/index.m3u8
 達文西密碼2,https://iqiyi.zuidameiju.com/20200318/13691_70da39ac/index.m3u8#https://vip.okokbo.com/20180107/rdVgmHyy/index.m3u8#https://vip.let-kuyun.com/20180902/ooHSf7E1/index.m3u8
@@ -398,12 +403,6 @@ WWE，mitv：//fccsovh.pvbox.live：18912 / 5cffd5d900072496c2c9b7c5d8c9ac44.ts
 民視旅游,http://520574.xyz/dl/gt.php?id=ftvtravel
 鳳梨直擊,http://520574.xyz/dl/gt.php?id=4gtvlive1
 香蕉直擊,http://520574.xyz/dl/gt.php?id=4gtvlive2
-台视,http://nb.iptv88888.xyz/hls/taishi.m3u8
-中视,http://nb.iptv88888.xyz/hls/zhongshi.m3u8
-华视,http://nb.iptv88888.xyz/hls/huashi.m3u8
-东森呦呦,http://nb.iptv88888.xyz/hls/dsyouyou.m3u8
-东森戏剧,http://nb.iptv88888.xyz/hls/dsxiju.m3u8
-东森洋片,http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
 DOX映画HD,http://140.143.146.222/gz.php?id=doxyhhd
 DOX剧场HD,http://140.143.146.222/gz.php?id=doxjchd
 DOX新知HD,http://140.143.146.222/gz.php?id=doxxzhd
