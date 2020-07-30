@@ -1,4 +1,4 @@
-台灣0723,#genre#
+台灣0730,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -128,7 +128,7 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 
-YT直播0726,#genre#
+YT直播0730,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
 東森新聞,https://gogohaha.000webhostapp.com/?id=RaIJ767Bj_M
 中天新聞,https://gogohaha.000webhostapp.com/?id=wUPPkSANpyo
