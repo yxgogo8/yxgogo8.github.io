@@ -136,34 +136,33 @@ YT直播0730,#genre#
 三立iNEWS,https://gogohaha.000webhostapp.com/?id=MYwrZeIsRWU
 TVBS,https://gogohaha.000webhostapp.com/?id=Hu1FkdAOws0
 民視新聞,https://gogohaha.000webhostapp.com/?id=XxJKnDLYZz4
-公視新聞,https://gogohaha.000webhostapp.com/?id=ED4QXd5xAco
+公視,https://gogohaha.000webhostapp.com/?id=ED4QXd5xAco
+公視台語台,https://gogohaha.000webhostapp.com/?id=ihWafbJ_Ics
 台視新聞,https://gogohaha.000webhostapp.com/?id=NbjI0cARzjQ
 中視新聞,https://gogohaha.000webhostapp.com/?id=wxQcIb8zcPA
 華視新聞,https://gogohaha.000webhostapp.com/?id=TL8mmew3jb8
-三聖電視台,http://gogohaha.byethost15.com/gogo.php?id=n8W69HjmlpY
-正德電視台,http://gogohaha.byethost15.com/gogo.php?id=-SpbhP9wMIs
-信吉衛星,http://gogohaha.byethost15.com/gogo.php?id=kEjRRzhJSN4
-誠心衛星,http://gogohaha.byethost15.com/gogo.php?id=uy-pT_ItVsY
-天良衛星,http://gogohaha.byethost15.com/gogo.php?id=S5JMuEmWD3c
-信大電視台,http://gogohaha.byethost15.com/gogo.php?id=m-EddzOFL2g
-全大電視台,http://gogohaha.byethost15.com/gogo.php?id=MVb65oQ8JfA
-beIN SPORTS HD,http://gogohaha.byethost15.com/gogo.php?id=4TlVW4Lacu4
-beIN SPORTS,http://gogohaha.byethost15.com/gogo.php?id=Bj3iPrLGKmo
-東森財經,http://gogohaha.byethost15.com/gogo.php?id=68lLQ7hkdzU
-SBN全球財經,http://gogohaha.byethost15.com/gogo.php?id=5K8ix1HjIPs
-運通財經台,http://gogohaha.byethost15.com/gogo.php?id=z-bbsDpAyok
-公視台語台,http://gogohaha.byethost15.com/gogo.php?id=ihWafbJ_Ics
-客家電視,http://gogohaha.byethost15.com/gogo.php?id=YvTdOiAiB8s
-TAY TV Canlı Yayını,http://gogohaha.byethost15.com/gogo.php?id=XRFwpV6Unlo
-美好VIVA購物1台,http://gogohaha.byethost15.com/gogo.php?id=eQ5huCAqoyQ
-美好VIVA購物2台http://gogohaha.byethost15.com/gogo.php?id=LEOat38Iuao
-東森購物46台,http://gogohaha.byethost15.com/gogo.php?id=Z50JFuNgvB0
-東森購物34台,http://gogohaha.byethost15.com/gogo.php?id=_Vlzn9qAHD4
-東森購物60台,http://gogohaha.byethost15.com/gogo.php?id=u0NYyH3ZesE
-東森購物47台,http://gogohaha.byethost15.com/gogo.php?id=Q_PUrLTq0no
+三聖電視台,https://gogohaha.000webhostapp.com/?id=n8W69HjmlpY
+正德電視台,https://gogohaha.000webhostapp.com/?id=-SpbhP9wMIs
+信吉衛星,https://gogohaha.000webhostapp.com/?id=kEjRRzhJSN4
+誠心衛星,https://gogohaha.000webhostapp.com/?id=uy-pT_ItVsY
+天良衛星,https://gogohaha.000webhostapp.com/?id=S5JMuEmWD3c
+信大電視台,https://gogohaha.000webhostapp.com/?id=m-EddzOFL2g
+全大電視台,https://gogohaha.000webhostapp.com/?id=MVb65oQ8JfA
+beIN SPORTS HD,https://gogohaha.000webhostapp.com/?id=4TlVW4Lacu4
+beIN SPORTS,https://gogohaha.000webhostapp.com/?id=Bj3iPrLGKmo
+東森財經,https://gogohaha.000webhostapp.com/?id=68lLQ7hkdzU
+SBN全球財經,https://gogohaha.000webhostapp.com/?id=5K8ix1HjIPs
+運通財經台,https://gogohaha.000webhostapp.com/?id=z-bbsDpAyok
+客家電視,https://gogohaha.000webhostapp.com/?id=YvTdOiAiB8s
+美好VIVA購物1台,https://gogohaha.000webhostapp.com/?id=eQ5huCAqoyQ
+美好VIVA購物2台,https://gogohaha.000webhostapp.com/?id=LEOat38Iuao
+東森購物46台,https://gogohaha.000webhostapp.com/?id=Z50JFuNgvB0
+東森購物34台,https://gogohaha.000webhostapp.com/?id=_Vlzn9qAHD4
+東森購物60台,https://gogohaha.000webhostapp.com/?id=u0NYyH3ZesE
+東森購物47台,https://gogohaha.000webhostapp.com/?id=Q_PUrLTq0no
 momo購物一台,https://gogohaha.000webhostapp.com/?id=CmQ9UVebbGE
-
 momo購物二台,https://gogohaha.000webhostapp.com/?id=1NtWpw-dADo
+test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 
 影城0725,#genre#
 *屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
