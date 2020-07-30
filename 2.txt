@@ -171,7 +171,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0725,#genre#
+影城0730,#genre#
 *深海狂鯊3,https://cdn-yong.bejingyongjiu.com/20200728/18082_c8132177/index.m3u8#https://youku.cdn7-okzy.com/20200728/20368_27af4683/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200728/9915_b0cd704f/index.m3u8
 *屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
 *深海擴散,https://youku.cdn7-okzy.com/20200509/19329_88d951ba/index.m3u8#https://yun.zxziyuan-yun.com/20200412/20754_ee575853/index.m3u8
