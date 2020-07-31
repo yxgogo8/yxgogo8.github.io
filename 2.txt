@@ -317,6 +317,9 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
 體育0720,#genre#
+CCTV 高夫网球,http://106.54.30.243/gz009/gz.php?id=gefwq
+CCTV 风云足球,http://106.54.30.243/gz009/gz.php?id=fyzq
+緯來體育HD,vjms://58.215.133.185:8500:3502/live/cid=202
 True Sport HD1,http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
 True Sport HD2,http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 True Sport HD3,http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
@@ -493,23 +496,59 @@ CCTV2 财经频道,http://106.54.30.243/gz009/gz.php?id=cctv2hd
 MTV 亚洲音乐,http://106.54.30.243/gz009/gz.php?id=mtv
 AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
 亚洲频道,http://106.54.30.243/gz009/gz.php?id=cinemax
-无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
+TVB无线新闻,https://www.ootori.xyz/tv/tvb.php?id=inews
 TVB翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
-翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f4e894565ee25192b.ts
-无线新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts
-J2,mitv://fccseuro.pvbox.live:18912/5d122036000a06619753a560332694a8.ts
-J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf53e3473d9c02ef381.ts
-明珠,mitv://fccseuro.pvbox.live:18912/5b1409540009bb8b95522f2165bb041e.ts
-台视,mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be3085564d2054b8a6.ts
-大爱,mitv://fccseuro.pvbox.live:18912/5c7248470009cd45a9e264c417afc9af.ts
-HBO强档,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
-龙华偶像,mitv://fccseuro.pvbox.live:18912/5b1409180001262645e601af722b9d5a.ts
-星卫电影HD,mitv://fccseuro.pvbox.live:18912/5bdbf3b90004478abc191859c8870a42.ts
-壹电视新闻台,mitv://fccseuro.pvbox.live:18912/5bdbf3a3000abb1b6dcadf91cc941809.ts#mitv://fccseuro.pvbox.live:18912/5bdbf3a3000abb1b6dcadf91cc941809.ts
-寰宇新闻频道,mitv://fccseuro.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts
-东森电影,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
-HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
-ZEE新闻台,mitv://fccseuro.pvbox.live:18912/5b140a8700034baefafa774ef3889943.ts
-SKY NEWS HD,mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd6202eb6d5ad79dd64.ts
-FOX家庭,mitv://fccseuro.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
-FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts#mitv://fccseuro.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
+XN电影,vjms://58.215.133.185:8500:3502/live/cid=2
+FOX电影,vjms://58.215.133.185:8500:3502/live/cid=94
+纬来戏剧,vjms://58.215.133.185:8500:3502/live/cid=137
+八大综合,vjms://58.215.133.185:8500:3502/live/cid=441
+东森新闻,vjms://58.215.133.184:8500:3502/live/cid=340
+东森财经,vjms://58.215.133.184:8500:3502/live/cid=456
+民视新闻,vjms://58.215.133.185:8500:3502/live/cid=450
+东森综合,vjms://58.215.133.184:8500:3502/live/cid=333
+TVB新闻,vjms://58.215.133.184:8500:3502/live/cid=348
+TVB新闻,vjms://58.215.133.184:8500:3502/live/cid=349
+中天新闻,vjms://58.215.133.184:8500:3502/live/cid=407
+中视新闻,vjms://58.215.133.185:8500:3502/live/cid=452
+非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443
+年代新闻,vjms://58.215.133.185:8500:3502/live/cid=439
+三立新闻,vjms://58.215.133.185:8500:3502/live/cid=352
+三立都会,vjms://58.215.133.185:8500:3502/live/cid=226
+台湾公视,vjms://58.215.133.185:8500:3502/live/cid=236
+FOX3HD,vjms://58.215.133.185:8500:3502/live/cid=444
+FOX2HD,vjms://58.215.133.185:8500:3502/live/cid=95                                                                                                                                               FOX日本,vjms://58.215.133.185:8500:3502/live/cid=57      
+纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202
+MTV音乐,vjms://58.215.133.185:8500:3502/live/cid=52
+博斯运动,vjms://58.215.133.185:8500:3502/live/cid=416
+博斯运动,vjms://58.215.133.185:8500:3502/live/cid=256
+ELTE体育,vjms://58.215.133.185:8500:3502/live/cid=266
+HBO电影,vjms://58.215.133.185:8500:3502/live/cid=436
+HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
+HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
+HBO亚洲,vjms://58.215.133.185:8500:3502/live/cid=261
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
+探索频道,vjms://58.215.133.185:8500:3502/live/cid=440
+国家地理,vjms://58.215.133.185:8500:3502/live/cid=115
+国家地理,vjms://58.215.133.185:8500:3502/live/cid=263
+CCTV大富,vjms://58.215.133.185:8500:3502/live/cid=170
+AXN动画,vjms://58.215.133.185:8500:3502/live/cid=361
+Disto,vjms://58.215.133.185:8500:3502/live/cid=496
+发现科学,vjms://58.215.133.185:8500:3502/live/cid=457
+TLC旅游,vjms://58.215.133.185:8500:3502/live/cid=103
+KBS,vjms://58.215.133.185:8500:3502/live/cid=140
+KBS,vjms://58.215.133.185:8500:3502/live/cid=216
+SBS,vjms://58.215.133.185:8500:3502/live/cid=159
+TBS,vjms://58.215.133.185:8500:3502/live/cid=221
+CNN,vjms://58.215.133.185:8500:3502/live/cid=428
+BBC,vjms://58.215.133.185:8500:3502/live/cid=418
+CBC,vjms://58.215.133.185:8500:3502/live/cid=98
+NHK,vjms://58.215.133.185:8500:3502/live/cid=317
+AXN动画,vjms://58.215.133.185:8500:3502/live/cid=402
+ANMAX,vjms://58.215.133.185:8500:3502/live/cid=498
+迪斯动画,vjms://58.215.133.185:8500:3502/live/cid=499
+StarMovi,vjms://58.215.133.185:8500:3502/live/cid=421
+TV5Movi,vjms://58.215.133.185:8500:3502/live/cid=396
+BIomber,vjms://58.215.133.185:8500:3502/live/cid=392
+东森幼幼,vjms://58.215.133.184:8500:3502/live/cid=344
+法国时装,vjms://58.215.133.185:8500:3502/live/cid=399
+发现科学,vjms://58.215.133.185:8500:3502/live/cid=397
