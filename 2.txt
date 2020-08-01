@@ -1,4 +1,4 @@
-台灣0731,#genre#
+台灣0801,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -6,9 +6,9 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#http://153.99.180.70:5021/live/450/playlist.m3u8
-台視,http://p06.iptv2asia.com:18888/http/001#http://nb.iptv88888.xyz/hls/taishi.m3u8#http://seb.sason.top/sc/tsxw_fhd.m3u8#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
-*中視,http://p06.iptv2asia.com:18888/http/005#http://nb.iptv88888.xyz/hls/zhongshi.m3u8#http://192.154.103.75:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
-*華視,http://p06.iptv2asia.com:18888/http/009#http://nb.iptv88888.xyz/hls/huashi.m3u8#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
+台視,http://p06.iptv2asia.com:18888/http/001#http://seb.sason.top/sc/tsxw_fhd.m3u8#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
+*中視,http://p06.iptv2asia.com:18888/http/005#http://192.154.103.75:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
+*華視,http://p06.iptv2asia.com:18888/http/009#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 大爱二台,http://61.58.60.230:9319/live/191.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛電視台,http://61.58.60.230:9319/live/10.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
@@ -66,13 +66,14 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 *好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#http://nb.iptv88888.xyz/hls/haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
-HBO电影,vjms://58.215.133.185:8500:3502/live/cid=436
+HBO電影,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238
-HBO亚洲,vjms://58.215.133.185:8500:3502/live/cid=261
+HBO強檔,vjms://58.215.133.185:8500:3502/live/cid=238
+HBO亞洲,vjms://58.215.133.185:8500:3502/live/cid=261
 FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 AXN電影,vjms://58.215.133.185:8500:3502/live/cid=2
-*DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
+華納電影,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
+DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts
 CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
@@ -176,7 +177,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0730,#genre#
+影城801,#genre#
+淒厲人僧前傳,https://bili.meijuzuida.com/20191102/21812_d4ab1852/index.m3u8#https://zy.kubozy-sohu-360-sogou.com/20191103/17833_4001f54b/index.m3u8#https://s1.135-cdn.com/20191103/ktWq2CxjL8PyAZMY/index.m3u8
+鋼鐵雨：深潛行動,https://vs1.baduziyuan.com/20180301/c47dxpVU/index.m3u8#https://videos.kkyun-iqiyi.com/20180118/glJ3YKbN/index.m3u8
 *深海狂鯊3,https://cdn-yong.bejingyongjiu.com/20200728/18082_c8132177/index.m3u8#https://youku.cdn7-okzy.com/20200728/20368_27af4683/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200728/9915_b0cd704f/index.m3u8
 *屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
 *深海擴散,https://youku.cdn7-okzy.com/20200509/19329_88d951ba/index.m3u8#https://yun.zxziyuan-yun.com/20200412/20754_ee575853/index.m3u8
@@ -208,7 +211,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0725,#genre#
+霹靂0801,#genre#
+天越20,https://cdn-yong.bejingyongjiu.com/20200731/18342_d2a31f40/index.m3u8#https://iqiyi.cdn9-okzy.com/20200801/13374_f121ecca/index.m3u8#https://diaoshi.dehua-kuyun.com/20200731/10430_2617abb3/index.m3u8
+天越19,https://cdn-yong.bejingyongjiu.com/20200731/18341_40eaa428/index.m3u8#https://iqiyi.cdn9-okzy.com/20200801/13373_04063ae3/index.m3u8#https://diaoshi.dehua-kuyun.com/20200731/10431_102915f2/index.m3u8
 天越18,https://cdn-yong.bejingyongjiu.com/20200724/17778_1e65546f/index.m3u8#https://iqiyi.cdn9-okzy.com/20200725/13016_3160e2df/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9451_28448940/index.m3u8
 天越17,https://diaoshi.dehua-kuyun.com/20200724/9452_5d977480/index.m3u8#https://iqiyi.cdn9-okzy.com/20200725/13015_5f01697c/1000k/hls/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200724/17777_2cc63f8b/index.m3u8#
 天越16,https://cdn-yong.bejingyongjiu.com/20200717/17235_5c371a7b/index.m3u8#https://iqiyi.cdn9-okzy.com/20200718/12713_347e7661/index.m3u8#https://diaoshi.dehua-kuyun.com/20200717/8459_229b5c13/index.m3u8
