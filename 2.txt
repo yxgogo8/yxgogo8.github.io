@@ -172,18 +172,12 @@ CBN幸福娱乐,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnxfyl
 湖南国际[湖南],http://kjol.cc/proxy/hunan.php?id=229
 金鹰纪实[湖南],http://kjol.cc/proxy/hunan.php?id=316
 金鹰卡通[湖南],http://kjol.cc/proxy/hunan.php?id=287
-金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
-金鹰卡通高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000036
-湖南教育频道,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000037
-湖南国际频道,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000038
-湖南导视标清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000039
-湖南经视高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000040
-金鹰纪实高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000041
-湖南娱乐高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000042
-湖南都市高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000043
-湖南电影高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000044
-湖南电视剧高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000045
-湖南公共高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000046
+AXN[785*576],http://106.54.30.243/gz009/gz.php?id=axn
+BBC[785*576],http://106.54.30.243/gz009/gz.php?id=bbc
+Cinemax[785*576],http://106.54.30.243/gz009/gz.php?id=cinemax
+HBO[785*576],http://106.54.30.243/gz009/gz.php?id=hbo
+MTV[785*576],http://106.54.30.243/gz009/gz.php?id=mtv
+
 
 日本0802,#genre#
 NHK総合,http://203.162.235.41:16903
@@ -640,5 +634,5 @@ BIomber,vjms://58.215.133.185:8500:3502/live/cid=392
 华视,vjms://23.237.33.155:8500:3502/live/cid=451
 中视,vjms://23.237.33.155:8500:3502/live/cid=452
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
-三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts#vjms://23.237.33.155:8500:3502/live/cid=226
+三立都会,vjms://58.215.133.185:8500:3502/live/cid=437#mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts#vjms://23.237.33.155:8500:3502/live/cid=226
 三立台湾,mitv://198.255.74.87:9906/5dc08f22000e778101b8120331645086.ts#vjms://23.237.33.155:8500:3502/live/cid=437
