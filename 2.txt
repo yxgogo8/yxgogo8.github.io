@@ -60,18 +60,19 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 寰宇新闻台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 台視財經,http://p06.iptv2asia.com:18888/http/003
 東森財經新聞,http://nb.iptv88888.xyz/hls/dscaiji.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8
-*CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
+*CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#http://106.54.30.243/gz009/gz.php?id=cinemax
 *東森電影,http://125.227.210.37:27889/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *龍祥時代,http://nb.iptv88888.xyz/hls/lxtime.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#http://nb.iptv88888.xyz/hls/haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
+HBO,http://106.54.30.243/gz009/gz.php?id=hbo
 HBO電影,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
 HBO強檔,vjms://58.215.133.185:8500:3502/live/cid=238
 HBO亞洲,vjms://58.215.133.185:8500:3502/live/cid=261
 FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
-AXN電影,vjms://58.215.133.185:8500:3502/live/cid=2
+AXN電影,http://106.54.30.243/gz009/gz.php?id=axn#vjms://58.215.133.185:8500:3502/live/cid=2
 華納電影,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
 FX HD,http://125.227.210.37:30834/VideoInput/play.ts
@@ -148,10 +149,6 @@ CCTV4K,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4k
 凤凰中文,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhzw
 凤凰资讯,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhzx
 凤凰电影,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhdy
-高清HD卡通剧场,http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-高清HD大众影视,http://39.134.52.207/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-高清HD家庭剧场,http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-高清HD家庭影院,http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 DOX映画HD,http://140.143.146.222/gz.php?id=doxyhhd
 DOX剧场HD,http://140.143.146.222/gz.php?id=doxjchd
 DOX新知HD,http://140.143.146.222/gz.php?id=doxxzhd
@@ -393,6 +390,13 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
 體育0731,#genre#
+劲爆体育HD,http://106.54.30.243/gz009/gz.php?id=jbty
+車迷HD,http://106.54.30.243/gz009/gz.php?id=cm
+极速汽车HD,http://106.54.30.243/gz009/gz.php?id=jsqc
+风云足球,http://106.54.30.243/gz009/gz.php?id=fyzq
+快乐垂钓HD,http://106.54.30.243/gz009/gz.php?id=klcd
+卫视体育,http://106.54.30.243/gz009/gz.php?id=wsty
+卫视体育3,http://106.54.30.243/gz009/gz.php?id=wsty2
 FOX3HD,vjms://58.215.133.185:8500:3502/live/cid=444
 FOX2HD,vjms://58.215.133.185:8500:3502/live/cid=95
 CCTV 高夫网球,http://106.54.30.243/gz009/gz.php?id=gefwq
