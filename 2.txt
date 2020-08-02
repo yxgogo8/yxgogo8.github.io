@@ -400,7 +400,7 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 
 體育0731,#genre#
 FOX3HD,vjms://58.215.133.185:8500:3502/live/cid=444
-FOX2HD,vjms://58.215.133.185:8500:3502/live/cid=95    
+FOX2HD,vjms://58.215.133.185:8500:3502/live/cid=95
 CCTV 高夫网球,http://106.54.30.243/gz009/gz.php?id=gefwq
 CCTV 风云足球,http://106.54.30.243/gz009/gz.php?id=fyzq
 緯來體育HD,vjms://58.215.133.185:8500:3502/live/cid=202
@@ -440,8 +440,6 @@ FOX1,https://livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 FOX2 Sports,vjms://58.215.133.189:8500/live/cid=444
 FOX506,http://45.58.62.92:8080
 FOX3HD,vjms://58.215.133.189:8500/live/cid=95
-FOX Sport 1(台),http://f8.apps8888.com:8080/live/1131/1cb9e58fcf55072c036d832a44e9b8f7/index.m3u8
-FOX Sport 2(台),http://f8.apps8888.com:8080/live/1132/53105767930fbd23d7430d88af8ad544/index.m3u8
 FOX SPORTS 3(台) HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40.ts
 FOX SPORTS 3(台)HD,http://125.227.210.37:62391/VideoInput/play.ts
 *FOX SPORTS(台),mitv://198.255.74.57:12196/5ef22be5000afb4d6bfd351ca59edc63.ts
@@ -644,5 +642,3 @@ BIomber,vjms://58.215.133.185:8500:3502/live/cid=392
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts#vjms://23.237.33.155:8500:3502/live/cid=226
 三立台湾,mitv://198.255.74.87:9906/5dc08f22000e778101b8120331645086.ts#vjms://23.237.33.155:8500:3502/live/cid=437
-NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
-FOXSPORT3,vjms://58.215.133.185:8500:3502/live/cid=95
