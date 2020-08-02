@@ -122,6 +122,48 @@ CHANNEL[V],rtmp://58.200.131.2:1935/livetv/channelv
 東森購物46,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
 衛視音樂,https://www.fanmingming.cn/hls/channelv.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133.189:8500/live/cid=103#mitv://51.79.41.138:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#mitv://190.2.149.54:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts#http://153.99.180.70:5021/live/103/playlist.m3u8
+靖天資訊,http://61.58.60.230:9319/live/202.m3u8
+靖天國際,http://61.58.60.230:9319/live/205.m3u8
+
+中國0802,#genre#
+CCTV-1HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv1hd
+CCTV-2HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv2hd
+CCTV-3HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv3hd
+CCTV-4HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4hd
+CCTV-5HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv5hd
+CCTV5+HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv5+hd
+CCTV-6HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv6hd
+CCTV-7HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv7hd
+CCTV-8HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv8hd
+CCTV-9HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv9hd
+CCTV-10HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv10hd
+CCTV-11,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv11
+CCTV-12HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv12hd
+CCTV-13,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv13
+CCTV-14HD,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv14hd
+CCTV-15,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv15
+CCTV-17,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv17
+CCTV4K,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4k
+中华美食,http://106.54.30.243/gz009/gz.php?id=zhms
+凤凰中文,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhzw
+凤凰资讯,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhzx
+凤凰电影,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhdy
+高清HD卡通剧场,http://39.134.52.179/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
+高清HD大众影视,http://39.134.52.207/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
+高清HD家庭剧场,http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
+高清HD家庭影院,http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
+DOX映画HD,http://140.143.146.222/gz.php?id=doxyhhd
+DOX剧场HD,http://140.143.146.222/gz.php?id=doxjchd
+DOX新知HD,http://140.143.146.222/gz.php?id=doxxzhd
+DOX新艺HD,http://140.143.146.222/gz.php?id=doxxyhd
+DOX院线HD,http://140.143.146.222/gz.php?id=doxyxhd
+DOX雅趣HD,http://140.143.146.222/gz.php?id=doxyqhd
+DOX怡家HD,http://140.143.146.222/gz.php?id=doxyjhd
+DOX英伦HD,http://140.143.146.222/gz.php?id=doxylhd
+CBN每日影院,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnmryy
+CBN风尚生活,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnfssh
+CBN幸福剧场,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnxfjc
+CBN幸福娱乐,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cbnxfyl
 湖南经视[湖南],http://kjol.cc/proxy/hunan.php?id=280
 湖南都市[湖南],http://kjol.cc/proxy/hunan.php?id=346
 湖南公共[湖南],http://kjol.cc/proxy/hunan.php?id=261
@@ -131,8 +173,38 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 金鹰纪实[湖南],http://kjol.cc/proxy/hunan.php?id=316
 金鹰卡通[湖南],http://kjol.cc/proxy/hunan.php?id=287
 金鹰卡通,http://kjol.cc/proxy/hunan.php?id=287#rtmp://58.200.131.2:1935/livetv/jykttv
-靖天資訊,http://61.58.60.230:9319/live/202.m3u8
-靖天國際,http://61.58.60.230:9319/live/205.m3u8
+金鹰卡通高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000036
+湖南教育频道,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000037
+湖南国际频道,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000038
+湖南导视标清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000039
+湖南经视高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000040
+金鹰纪实高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000041
+湖南娱乐高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000042
+湖南都市高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000043
+湖南电影高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000044
+湖南电视剧高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000045
+湖南公共高清,http://weixin.dszbdq.cn/20200608/hnyx.php?id=10000046
+
+日本0802,#genre#
+NHK総合,http://203.162.235.41:16903
+NHK Eテレ,http://203.162.235.41:16901
+NHK BSプレミアム,http://203.162.235.41:16910
+TBSテレビ,http://203.162.235.41:16907
+BS TBS,http://203.162.235.41:16913
+テレビ朝日,http://203.162.235.41:16906
+BS 朝日,http://203.162.235.41:16914
+フジテレビ,http://203.162.235.41:16904
+BSフジ,http://203.162.235.41:16911
+テレビ東京,http://203.162.235.41:16908
+BS 東京,http://203.162.235.41:16915
+BS 日テレ,http://203.162.235.41:16912
+日テレ,http://203.162.235.41:16905
+WOWOW シネマ,http://203.162.235.41:16916
+Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 YT直播0730,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
@@ -564,3 +636,13 @@ BIomber,vjms://58.215.133.185:8500:3502/live/cid=392
 东森幼幼,vjms://58.215.133.184:8500:3502/live/cid=344
 法国时装,vjms://58.215.133.185:8500:3502/live/cid=399
 发现科学,vjms://58.215.133.185:8500:3502/live/cid=397
+东森幼幼,vjms://58.215.133.185:8500:3502/live/cid=344
+公视,vjms://58.215.133.185:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236
+民视,vjms://58.215.133.185:8500:3502/live/cid=450
+华视,vjms://23.237.33.155:8500:3502/live/cid=451
+中视,vjms://23.237.33.155:8500:3502/live/cid=452
+台视,vjms://23.237.33.155:8500:3502/live/cid=453
+三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#mitv://198.255.74.87:9906/5dc08f22000e342301b811f28dbb5132.ts#vjms://23.237.33.155:8500:3502/live/cid=226
+三立台湾,mitv://198.255.74.87:9906/5dc08f22000e778101b8120331645086.ts#vjms://23.237.33.155:8500:3502/live/cid=437
+NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
+FOXSPORT3,vjms://58.215.133.185:8500:3502/live/cid=95
