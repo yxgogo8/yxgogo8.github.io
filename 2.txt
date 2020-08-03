@@ -392,6 +392,7 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
 體育0731,#genre#
+MLB美國職棒,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 劲爆体育HD,http://106.54.30.243/gz009/gz.php?id=jbty
 車迷HD,http://106.54.30.243/gz009/gz.php?id=cm
 极速汽车HD,http://106.54.30.243/gz009/gz.php?id=jsqc
