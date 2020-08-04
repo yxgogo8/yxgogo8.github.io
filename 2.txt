@@ -288,9 +288,11 @@ momo購物二台,https://gogohaha.000webhostapp.com/?id=1NtWpw-dADo
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-追劇0730,#genre#
+追劇0804,#genre#
+半澤直樹II-03,https://mingxing.xianyongjiu.com/20200803/7437_44efdd4d/index.m3u8#https://youku.cdn11-okzy.com/20200803/19211_d88682d4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200802/10713_eecb8292/index.m3u8
 半澤直樹II-02,https://mingxing.xianyongjiu.com/20200727/6670_3136e6a6/index.m3u8#https://youku.cdn11-okzy.com/20200727/19010_3136e6a6/index.m3u8#https://diaoshi.dehua-kuyun.com/20200726/9852_aebeecae/index.m3u8
 半澤直樹II-01,https://mingxing.xianyongjiu.com/20200720/5983_1a8c4da4/index.m3u8#https://youku.cdn3-okzy.com/20200720/11100_1a8c4da4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200719/8752_1130f7cd/index.m3u8
+灰姑娘藥劑師03,https://mingxing.xianyongjiu.com/20200731/7152_8f14c49e/index.m3u8#https://youku.cdn11-okzy.com/20200731/19122_a4459a3e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200731/10411_57988842/index.m3u8
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
