@@ -64,15 +64,10 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 *東森電影,http://125.227.210.37:27889/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *龍祥時代,http://cdn2.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#http://cdn1.zbbh.xyz:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-HBO,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+----,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
-HBO HD,http://125.227.210.37:12801/VideoInput/play.ts
 HBO,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hbo
 HBO,http://106.54.30.243/gz009/gz.php?id=hbo
-HBO電影,vjms://58.215.133.185:8500:3502/live/cid=436
-HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO強檔,vjms://58.215.133.185:8500:3502/live/cid=238
-HBO亞洲,vjms://58.215.133.185:8500:3502/live/cid=261
 FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 AXN電影,http://106.54.30.243/gz009/gz.php?id=axn#vjms://58.215.133.185:8500:3502/live/cid=2
 華納電影,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
@@ -104,9 +99,9 @@ Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8#h
 世紀综合,http://61.58.60.230:9319/live/49.m3u8
 希望電視台,http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8?sd=10&rebase=on#http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
 GOODTV好消息,http://live.streamingfast.net/osmflivech1.m3u8
-好消息台1,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-好消息台2,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-好消息台3,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+好消息台2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+CH24 劉三講古,https://live.streamingfast.net/osmflivech24.m3u8
+CH25 福氣人生,https://live.streamingfast.net/osmflivech25.m3u8
 大立電視,http://211.21.214.7:8808/live/dali/index.m3u8
 上德電視台,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
@@ -245,26 +240,16 @@ TBS News,https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northea
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 菲律賓0804,#genre#
-PTV,https://stream-01.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwJN1s0EeoOWjYWRf_aHgq1c)/dm/3/x5cr6b9/d/live-2.m3u8
 SMNI,https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-Shop TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
 CNN Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 CNN Philippines,https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 Beam TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 ANIPLUS,http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 Inquirer990,https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
-POP Life,https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
 Inc TV,https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
-Inc TV,http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8
 UNTV Public,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
-Island Living on BEAM,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
 Life TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-Telenovela Channel,http://164.40.161.46:8003/play/s6
 TBN Asia,http://220.158.149.14:9999/live/TV00000000000000000003@HHZT;LIVE
-CNN Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-GMA Pinoy,http://164.40.161.43:10011
-5,http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
-5 Plus,http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
 
 YT直播0730,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
