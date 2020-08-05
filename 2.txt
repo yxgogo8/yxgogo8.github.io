@@ -448,14 +448,14 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 
 體育0805,#genre#
 緯來體育HD,rtmp://161.202.204.248:1935/sat/tv721
-FOX体育,rtmp://161.202.204.248:1935/sat/tv731
-FOX体育2,rtmp://161.202.204.248:1935/sat/tv741
-FOX体育3,rtmp://161.202.204.248:1935/sat/md031
-fox3,rtmp://161.202.204.248:1935/sat/md021
+FOX體育1,rtmp://161.202.204.248:1935/sat/tv731
+FOX體育2,rtmp://161.202.204.248:1935/sat/tv741
+FOX體育3,rtmp://161.202.204.248:1935/sat/md021
+FOX體育3 HD,http://125.227.210.37:62391/VideoInput/play.ts
+ELTA1台,rtmp://161.202.204.248:1935/sat/md031
 ELTA1台,rtmp://161.202.204.248:1935/sat/md041
 ELTA2台rtmp://161.202.204.248:1935/sat/md011
 ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
-FOX SPORTS 3(台)HD,http://125.227.210.37:62391/VideoInput/play.ts
 日本MLB,rtmp://161.202.204.248:1935/sat/jp071
 美國MLB職棒,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 劲爆体育HD,http://106.54.30.243/gz009/gz.php?id=jbty
