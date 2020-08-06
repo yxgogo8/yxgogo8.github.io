@@ -21,7 +21,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 探索頻道,http://125.227.210.37:20617/VideoInput/play.ts#https://www.fanmingming.cn/hls/discovery.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-东森幼幼,mitv://fccsovh.pvbox.live:18912/5c724866000564114f7a921c28eef086
+----,mitv://fccsovh.pvbox.live:18912/5c724866000564114f7a921c28eef086
 CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 迪士尼,http://125.227.210.37:52807/VideoInput/play.ts
 MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
@@ -447,7 +447,7 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
-體育0805,#genre#
+體育0806,#genre#
 ELEVEN 1,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
 ELEVEN 2,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
 緯來體育HD,rtmp://161.202.204.248:1935/sat/tv721
