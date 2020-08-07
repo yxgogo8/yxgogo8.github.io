@@ -401,7 +401,15 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0806,#genre#
+輪播0807,#genre#
+紅衣小女孩,https://iqiyi.zuidameiju.com/20181010/GfOOFyg6/index.m3u8#https://youku.com-youku.net/20180710/18850_6e09c653/index.m3u8#https://zy.baidu-360-yyy-kubo.com/20171230/p37D8Hz5/800kb/hls/index.m3u8
+鋼鐵人1,https://v3.yongjiujiexi.com/ppvod/5753C20AA74AA51F9934767D48991A1B.m3u8#https://youku.cdn-56.com/20180131/cM3ffbbg/800kb/hls/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190306/4358_65177e7a/index.m3u8
+鋼鐵人2,https://v3.yongjiujiexi.com/20190213/gLQqSo9k/index.m3u8#https://youku.cdn-56.com/20180131/BXxEVRgn/index.m3u8#https://cn2.zuidadianying.com/20180414/mdFTPx94/800kb/hls/index.m3u8
+鋼鐵人3,https://v3.yongjiujiexi.com/20190213/abMMzbUr/index.m3u8#https://s2.135-cdn.com/20200317/oaXMO2Nz0W6fwdvc/index.m3u8
+復仇者聯盟1,https://v3.yongjiujiexi.com/20190123/CdR4D6jr/index.m3u8#https://vip.okokbo.com/20180316/hH8msi8C/index.m3u8#https://s1.135-cdn.com/20191104/eVsBvuXwZ2rlLDq6/index.m3u8
+復仇者聯盟2：奧創紀元,https://yj.yongjiu6.com/ppvod/696A3E26AE9C90F1BF7BD10D4E487B6F.m3u8#https://cn2.zuidadianying.com/20180415/0CTAPRlT/index.m3u8
+復仇者聯盟3：無限戰爭,https://video.kkyun-iqiyi.com/20180731/OzarMeQo/index.m3u8#https://zy.baidu-360-yyy-kubo.com/20180801/HA6SGy4L/index.m3u8
+復仇者聯盟4：終局之戰,https://dapian.video-yongjiu.com/20190728/5213_72cd6808/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190728/16820_302c7858/index.m3u8#https://bili.meijuzuida.com/20190731/21094_0a89b649/1000k/hls/index.m3u8
 末日之戰,https://videos.kkyun-iqiyi.com/20180107/qWYQDiLc/index.m3u8#https://leshi.cdn-zuyida.com/20180521/26555_c7ac0317/index.m3u8#https://yuanda.meinv-kuyun.com/20200724/10599_57be7987/1000k/hls/index.m3u8
 城市獵人:新宿PRIVATE EYES,https://yingxiong.qiling-yongjiu.com/20191030/12637_4d25b60a/index.m3u8#https://bili.meijuzuida.com/20191030/21774_1c0e6b33/index.m3u8#https://youku.cdn7-okzy.com/20191030/15568_f5cc097c/index.m3u8
 牠2,https://dapian.video-yongjiu.com/20191013/18844_8445f997/index.m3u8#https://youku.cdn7-okzy.com/20191119/15837_016497d2/index.m3u8#https://tianxian.piaohua-kuyun.com/20191011/6068_e7c1fed9/index.m3u8
