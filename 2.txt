@@ -27,9 +27,9 @@ CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 *----,http://125.227.210.37:47328/VideoInput/play.ts
-*----,vjms://58.215.133.185:8500:3502/live/cid=226
------,http://125.227.210.37:36251/VideoInput/play.ts#http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-*TVBS歡樂台,,rtmp://161.202.204.248:1935/sat/tv421#http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+中天亚洲台,mitv://147.135.39.171:9906/5defdaa000044ff26ea064ef7ec56d18.ts
+中天娱乐,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
+TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#rtmp://161.202.204.248:1935/sat/tv421
 緯來育樂,rtmp://161.202.204.248:1935/sat/tv701#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
 緯來日本,mitv://147.135.39.171:9906/5dfa617e000c916a140d6e057f6a5f7e.ts
 公視三台HD,http://p06.iptv2asia.com:18888/http/018
@@ -40,11 +40,11 @@ Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+*中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大綜合,http://cdn1.zbbh.xyz:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#http://cdn2.zbbh.xyz:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 緯來戲劇,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
-台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8#http://nb.iptv88888.xyz/hls/tsxinwen.m3u8
+台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8
 中視新聞,http://p06.iptv2asia.com:18888/http/006#http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞,http://p06.iptv2asia.com:18888/http/010#http://seb.sason.top/sc/hsxw_fhd.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -463,6 +463,10 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
 體育0806,#genre#
+博斯高球2,mitv://147.135.39.171:9906/5defe13e0003a4c36eba3e002cd3384a.ts
+博斯网球,mitv://147.135.39.171:9906/5defe13d0008ad4b6eba3b603e5d1ebb.ts
+博斯运动,mitv://147.135.39.171:9906/5defdab60006b85e6ea0bb7b06aa7d1f.ts
+博斯运动2,mitv://147.135.39.171:9906/5defe15200024c6d6eba8bc2352f7151.ts
 ELEVEN 1,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
 ELEVEN 2,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
 緯來體育HD,rtmp://161.202.204.248:1935/sat/tv721
