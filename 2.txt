@@ -57,13 +57,13 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 -----,http://hdtv.ub1818.com/ublive/index_5.m3u8
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-寰宇新闻台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+寰宇新闻台,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee#mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 台視財經,http://p06.iptv2asia.com:18888/http/003
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
-*CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#http://106.54.30.243/gz009/gz.php?id=cinemax
-*東森電影,http://125.227.210.37:27889/VideoInput/play.ts#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+*CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
+*東森電影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *龍祥時代,http://cdn2.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-*好萊塢電影,http://125.227.210.37:47862/VideoInput/play.ts#http://cdn1.zbbh.xyz:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+*好萊塢電影,http://cdn1.zbbh.xyz:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
 HBO1,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO2,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hbo
@@ -73,14 +73,14 @@ AXN電影,http://106.54.30.243/gz009/gz.php?id=axn#vjms://58.215.133.185:8500:35
 華納電影,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 华纳电视,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8#http://cdn.zbbh.xyz:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 DOX院线HD,http://tkhz.vip/gd.php?id=DOXyuanxianHD_7000
-FX HD,http://125.227.210.37:30834/VideoInput/play.ts
+----,http://125.227.210.37:30834/VideoInput/play.ts
 衛視電影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 *CCTV-6电影,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv6
 *FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-*東森洋片,http://125.227.210.37:41320/VideoInput/play.ts#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+*東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
