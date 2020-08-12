@@ -40,7 +40,7 @@ TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#r
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
-*中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+*中天综合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大綜合,http://cdn1.zbbh.xyz:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#http://cdn2.zbbh.xyz:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 緯來戲劇,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
@@ -749,3 +749,9 @@ ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
 龍祥時代,http://104.243.17.219:81/vhls/tangyuanTV_LXSD.50f7eca7e931e528a789/tangyuanTV_LXSD/tangyuanTV_LXSD_live.m3u8
 龙祥电影,http://cdn2.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8
 龙祥电影,http://cdn.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8
+三立台湾,mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
+三立台湾,mitv://fccsovh.pvbox.live:18912/5b1409f100088a84c40f89d735e8395f
+三立都会,mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73
+三立都会,mitv://fccsovh.pvbox.live:18912/5b14098f000d8c6571a258930b96c39d
+卫视中文,mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
+卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
