@@ -253,6 +253,28 @@ UNTV Public,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe
 Life TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
 TBN Asia,http://220.158.149.14:9999/live/TV00000000000000000003@HHZT;LIVE
 
+越南0812,#genre#
+ANTV,http://vietcago.net/vstv/antv.m3u8
+ANTV HD,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8#http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+BPTV1,http://118.69.197.145/hls/bptv1.m3u8
+BenTreTV_CH87,http://vietcago.net/vstv/bentretv.m3u8
+BinhPhuocTV1,http://vietcago.net/vstv/binhphuoctv1.m3u8
+Boruto (Opt-2),http://ws.hls.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.m3u8
+Boruto TV,http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+BenTre,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+CaMau TV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+Da Nang TV1,http://vietcago.net/vstv/danangtv1.m3u8
+Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+DakLakTV,http://vietcago.net/vstv/daklaktv.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+KhanhHoaTV,http://vietcago.net/vstv/khanhhoatv.m3u8
+KienGiangTV,http://vietcago.net/vstv/kiengiangtv.m3u8
+KienGiangTV,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+KienGiangTV1,http://vietcago.net/vstv/kiengiangtv1.m3u8
+KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+KonTumTV,http://www.vietcago.net/vstv/kontumtv.m3u8
+KonTumTV,http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+
 YT直播0730,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
 東森新聞,https://gogohaha.000webhostapp.com/?id=RaIJ767Bj_M
@@ -467,8 +489,6 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 博斯网球,mitv://147.135.39.171:9906/5defe13d0008ad4b6eba3b603e5d1ebb.ts
 博斯运动,mitv://147.135.39.171:9906/5defdab60006b85e6ea0bb7b06aa7d1f.ts
 博斯运动2,mitv://147.135.39.171:9906/5defe15200024c6d6eba8bc2352f7151.ts
-ELEVEN 1,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
-ELEVEN 2,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
 緯來體育HD,rtmp://161.202.204.248:1935/sat/tv721
 FOX體育1,rtmp://161.202.204.248:1935/sat/tv731
 FOX體育2,rtmp://161.202.204.248:1935/sat/tv741
