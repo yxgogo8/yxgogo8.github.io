@@ -755,3 +755,6 @@ ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
 三立都会,mitv://fccsovh.pvbox.live:18912/5b14098f000d8c6571a258930b96c39d
 卫视中文,mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
+SPOTV,vjms://58.215.133.189:8500:3502/live/cid=157
+SPOTV2,vjms://58.215.133.189:8500:3502/live/cid=151
+三立都会,vjms://58.215.133.189:8500:3502/live/cid=437
