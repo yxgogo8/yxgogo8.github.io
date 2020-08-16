@@ -5,7 +5,7 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#http://153.99.180.70:5021/live/450/playlist.m3u8#vjms://58.215.133.185:8500:3502/live/cid=450
-台視,http://p06.iptv2asia.com:18888/http/001#http://seb.sason.top/sc/tsxw_fhd.m3u8#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
+台視,rtmp://161.202.204.248:1935/sat/tv071#http://p06.iptv2asia.com:18888/http/001#http://seb.sason.top/sc/tsxw_fhd.m3u8#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
 中視,http://p06.iptv2asia.com:18888/http/005#http://192.154.103.75:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
 華視,http://p06.iptv2asia.com:18888/http/009#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 大爱二台,http://61.58.60.230:9319/live/191.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -41,7 +41,7 @@ TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#r
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 *中天综合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-----,http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#http://cdn2.zbbh.xyz:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+八大綜合,http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 緯來戲劇,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
 台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8
@@ -49,8 +49,8 @@ TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#r
 華視新聞,http://p06.iptv2asia.com:18888/http/010#http://seb.sason.top/sc/hsxw_fhd.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 *年代新聞,http://125.227.210.37:20434/VideoInput/play.ts#http://cdn2.zbbh.xyz:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5b1409fd000a726908ab5c9c5950d2f2.ts
-*東森新聞,vjms://122.155.180.8:8500:3502/live/cid=340#http://125.227.210.37:19592/VideoInput/play.ts#mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://seb.sason.top/sc/dsxw_fhd.m3u8#
-*中天新聞,http://125.227.210.37:64954/VideoInput/play.ts#m3u8#rtmp://161.202.204.248:1935/sat/tv521#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
+*東森新聞,vjms://122.155.180.8:8500:3502/live/cid=340#mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://seb.sason.top/sc/dsxw_fhd.m3u8#
+*中天新聞,rtmp://161.202.204.248:1935/sat/tv521#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
 *民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8##p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8
 三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
@@ -61,9 +61,9 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 台視財經,http://p06.iptv2asia.com:18888/http/003
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 *CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
-*東森電影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-*龍祥時代,http://cdn2.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-*好萊塢電影,http://cdn1.zbbh.xyz:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+*東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+*龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+*好萊塢電影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
 HBO1,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO2,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hbo
@@ -74,7 +74,7 @@ AXN電影,http://106.54.30.243/gz009/gz.php?id=axn#vjms://58.215.133.185:8500:35
 FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 ----,http://125.227.210.37:30834/VideoInput/play.ts
 衛視電影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-CHC家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
+CHC家庭影院,http://125.210.152.21:9120/live/JTYYHD.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8#https://www.fanmingming.cn/hls/chchd.m3u8
 *CCTV-6电影,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#rtmp://58.200.131.2:1935/livetv/cctv6
@@ -130,24 +130,24 @@ TLC旅游生活,http://125.227.210.37:43868/VideoInput/play.ts#vjms://58.215.133
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 居家幸福,http://61.58.60.230:9319/live/125.m3u8
 
-中國0814,#genre#
-CCTV-1HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-2HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-3HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-CCTV-4HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-5HD,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-CCTV5+HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-CCTV-6HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-CCTV-7HD,http://112.50.243.8/PLTV/88888888/224/3221226803/1.m3u8
-CCTV-8HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-CCTV-9HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u
-CCTV-10HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-CCTV-11,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-CCTV-12HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-13,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
-CCTV-14HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-CCTV-15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+中國0816,#genre#
+CCTV-1HD,http://111.40.205.73/PLTV/88888888/224/3221225755/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-2HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3HD,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225606/index.m3u8#http://117.169.120.140:8080/live/cctv-3/.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4HD,http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-5HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV5+HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-6HD,http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8#http://117.169.120.140:8080/live/cctv-6/.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-7HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226803/1.m3u8
+CCTV-8HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8#http://117.169.120.140:8080/live/cctv-8/.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-9HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u
+CCTV-10HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-14,http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV4K,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 湖南经视[湖南],http://kjol.cc/proxy/hunan.php?id=280
 湖南都市[湖南],http://kjol.cc/proxy/hunan.php?id=346
@@ -364,19 +364,21 @@ momo購物二台,https://gogohaha.000webhostapp.com/?id=1NtWpw-dADo
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-追劇0811,#genre#
+追劇0816,#genre#
 半澤直樹II-04,https://mingxing.xianyongjiu.com/20200810/8121_bddeba8d/index.m3u8#https://youku.cdn11-okzy.com/20200810/19455_bddeba8d/index.m3u8#https://diaoshi.dehua-kuyun.com/20200809/11615_7be0cee7/index.m3u8
 半澤直樹II-03,https://mingxing.xianyongjiu.com/20200803/7437_44efdd4d/index.m3u8#https://youku.cdn11-okzy.com/20200803/19211_d88682d4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200802/10713_eecb8292/index.m3u8
 半澤直樹II-02,https://mingxing.xianyongjiu.com/20200727/6670_3136e6a6/index.m3u8#https://youku.cdn11-okzy.com/20200727/19010_3136e6a6/index.m3u8#https://diaoshi.dehua-kuyun.com/20200726/9852_aebeecae/index.m3u8
 半澤直樹II-01,https://mingxing.xianyongjiu.com/20200720/5983_1a8c4da4/index.m3u8#https://youku.cdn3-okzy.com/20200720/11100_1a8c4da4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200719/8752_1130f7cd/index.m3u8
+灰姑娘藥劑師05,https://mingxing.xianyongjiu.com/20200814/8594_17be58b8/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12180_eb7ea48b/index.m3u8#https://e.mahua-kb.com/20200814/PO62YJR3/index.m3u8
 灰姑娘藥劑師04,https://mingxing.xianyongjiu.com/20200807/7867_1827919d/index.m3u8#https://youku.cdn11-okzy.com/20200807/19339_8da74c55/index.m3u8#https://diaoshi.dehua-kuyun.com/20200806/11181_92dc8997/index.m3u8
 灰姑娘藥劑師03,https://mingxing.xianyongjiu.com/20200731/7152_8f14c49e/index.m3u8#https://youku.cdn11-okzy.com/20200731/19122_a4459a3e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200731/10411_57988842/index.m3u8
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0811,#genre#
-絕命鱷口,https://iqiyi.cdn27-okzy.com/20200807/6887_fd8ed1d6/index.m3u8#https://s2.135-cdn.com/2020/08/09/35FQn9lvHw80tA1c/index.m3u8#https://you.tube-kuyun.com/20200808/21598_abd20ab9/index.m3u8
-淒厲人僧前傳,https://bili.meijuzuida.com/20191102/21812_d4ab1852/index.m3u8#https://zy.kubozy-sohu-360-sogou.com/20191103/17833_4001f54b/index.m3u8#https://s1.135-cdn.com/20191103/ktWq2CxjL8PyAZMY/index.m3u8
+影城0816,#genre#
+*超能計劃,https://cdn-yong.bejingyongjiu.com/20200814/19329_f724cd5b/index.m3u8#https://youku.cdn7-okzy.com/20200814/20466_242b9844/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12134_065689d4/index.m3u8
+*絕命鱷口,https://iqiyi.cdn27-okzy.com/20200807/6887_fd8ed1d6/index.m3u8#https://s2.135-cdn.com/2020/08/09/35FQn9lvHw80tA1c/index.m3u8#https://you.tube-kuyun.com/20200808/21598_abd20ab9/index.m3u8
+*淒厲人僧前傳,https://bili.meijuzuida.com/20191102/21812_d4ab1852/index.m3u8#https://zy.kubozy-sohu-360-sogou.com/20191103/17833_4001f54b/index.m3u8#https://s1.135-cdn.com/20191103/ktWq2CxjL8PyAZMY/index.m3u8
 鋼鐵雨：深潛行動,https://vs1.baduziyuan.com/20180301/c47dxpVU/index.m3u8#https://videos.kkyun-iqiyi.com/20180118/glJ3YKbN/index.m3u8
 *深海狂鯊3,https://cdn-yong.bejingyongjiu.com/20200728/18082_c8132177/index.m3u8#https://youku.cdn7-okzy.com/20200728/20368_27af4683/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200728/9915_b0cd704f/index.m3u8
 *屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
@@ -409,7 +411,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0811,#genre#
+霹靂0816,#genre#
+天越24,https://cdn-yong.bejingyongjiu.com/20200814/19355_1b7fd889/index.m3u8#https://iqiyi.cdn9-okzy.com/20200815/13997_0ef3fcdd/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12177_915b8bd3/index.m3u8
+天越23,https://cdn-yong.bejingyongjiu.com/20200814/19354_a05fd900/index.m3u8#https://iqiyi.cdn9-okzy.com/20200815/13996_131d22c0/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12178_b5ba8598/index.m3u8
 天越22,https://cdn-yong.bejingyongjiu.com/20200807/18871_de8b3383/index.m3u8#https://iqiyi.cdn9-okzy.com/20200808/13668_3631f87d/index.m3u8#https://you.tube-kuyun.com/20200807/21507_e7b07894/1000k/hls/index.m3u8
 天越21,https://cdn-yong.bejingyongjiu.com/20200807/18870_77d92396/index.m3u8#https://iqiyi.cdn9-okzy.com/20200808/13667_102701f2/index.m3u8#https://you.tube-kuyun.com/20200807/21508_379e02c8/index.m3u8
 天越20,https://cdn-yong.bejingyongjiu.com/20200731/18342_d2a31f40/index.m3u8#https://iqiyi.cdn9-okzy.com/20200801/13374_f121ecca/index.m3u8#https://diaoshi.dehua-kuyun.com/20200731/10430_2617abb3/index.m3u8
