@@ -202,6 +202,7 @@ Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 日本天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 CGN日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+Japanet DX Channel,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 群馬テレビ,https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
 日テレ,http://203.162.235.41:16905
 BS日テレ,http://203.162.235.41:16912
@@ -914,3 +915,17 @@ GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 韩国 | EBS 加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 韩国 | EBS E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 韩国 | TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
+EBS,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+EBS 1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS 1,http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+EBS 2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
+EBS 2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+EBS KIDS,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+EBS Plus 1,http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+EBS Plus 2,http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+EBS+2,http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+EBSe,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
+EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBSi,http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
