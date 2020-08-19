@@ -506,7 +506,13 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0807,#genre#
+輪播0819,#genre#
+PS我愛你,https://bilibili.com-l-163.com/20180925/6270_4271a37e/index.m3u8#https://s2.135-cdn.com/2020/06/01/YnsP4ltLz8KWpbRj/index.m3u8
+電子情書,https://vip.okokbo.com/20171230/k9EAJ1cW/index.m3u8#https://youku.kuyun-leshi.com/20190305/6WewBKNV/index.m3u8#https://b.mahua-kb.com/20200426/n0EVXwgx/index.m3u8
+K歌情人,https://iqiyi.zuidameiju.com/20200219/10863_4dd1f36b/index.m3u8#https://ddppnew1.135-cdn.com/20190624/HBmQdb1p/index.m3u8#https://tudou.com-l-tudou.com/20180411/8478_80a4aaa3/1000k/hls/index.m3u8
+媽媽咪呀,https://gaoqing.bibi-baidu.com/20191015/11634_95e9b8dc/index.m3u8#https://vip.okokbo.com/20171231/l8epIwwM/index.m3u8#https://yangguang.piaohua-kuyun.com/20180829/uHN6eliS/index.m3u8
+媽媽咪呀2,https://iqiyi.zuidameiju.com/20181008/FznXUMHH/index.m3u8#https://sohu.com-v-sohu.com/20181009/13379_92a4dafb/index.m3u8#https://video.kkyun-iqiyi.com/20181005/1clmrQ7D/index.m3u8
+捍衛戰士,https://you-cdn.maque-zuida.com/20191228/Qs96UCvE/index.m3u8#https://vip.okokbo.com/20171228/o9kiP9Bx/800kb/hls/index.m3u8#https://s1.135-cdn.com/20191225/kbIUmC6Q0S1vGgyO/index.m3u8
 紅衣小女孩,https://iqiyi.zuidameiju.com/20181010/GfOOFyg6/index.m3u8#https://youku.com-youku.net/20180710/18850_6e09c653/index.m3u8#https://zy.baidu-360-yyy-kubo.com/20171230/p37D8Hz5/800kb/hls/index.m3u8
 鋼鐵人1,https://v3.yongjiujiexi.com/ppvod/5753C20AA74AA51F9934767D48991A1B.m3u8#https://youku.cdn-56.com/20180131/cM3ffbbg/800kb/hls/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190306/4358_65177e7a/index.m3u8
 鋼鐵人2,https://v3.yongjiujiexi.com/20190213/gLQqSo9k/index.m3u8#https://youku.cdn-56.com/20180131/BXxEVRgn/index.m3u8#https://cn2.zuidadianying.com/20180414/mdFTPx94/800kb/hls/index.m3u8
