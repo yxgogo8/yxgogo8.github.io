@@ -395,6 +395,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
 影城0817,#genre#
+鐵雨2：首腦峯會,https://s3.135-cdn.com/2020/08/20/Y9FXSihM07K4W25z/index.m3u8#https://youku.cdn7-okzy.com/20200820/20512_3241bf7a/index.m3u8#https://diaoshi.dehua-kuyun.com/20200819/12790_ddf7dee0/index.m3u8
 *寄生異形,https://douban.donghongzuida.com/20200817/7571_fb8310b0/index.m3u8
 *超能計劃,https://cdn-yong.bejingyongjiu.com/20200814/19329_f724cd5b/index.m3u8#https://youku.cdn7-okzy.com/20200814/20466_242b9844/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12134_065689d4/index.m3u8
 *絕命鱷口,https://iqiyi.cdn27-okzy.com/20200807/6887_fd8ed1d6/index.m3u8#https://s2.135-cdn.com/2020/08/09/35FQn9lvHw80tA1c/index.m3u8#https://you.tube-kuyun.com/20200808/21598_abd20ab9/index.m3u8
@@ -953,3 +954,12 @@ EBS+2,http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 EBSe,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
 EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 EBSi,http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+三立綜合，mitv：//fccsovh.pvbox.live：18912 / 5b140917000126426b51b812727ccb82.ts
+三立綜合，mitv：//fccseuro.pvbox.live：18912 / 5b140917000126426b51b812727ccb82.ts
+三立台灣，mitv：//fccsovh.pvbox.live：18912 / 5c2dd74a000cbd46698addb74d61afbb.ts
+三立台灣，mitv：//fccsovh.pvbox.live：18912 / 5b1409f100088a843e552539cfdf3021.ts
+三立台灣，mitv：//fccseuro.pvbox.live：18912 / 5c2dd74a000cbd46698addb74d61afbb.ts
+三立都會，mitv：//fccseuro.pvbox.live：18912 / 5c2dd74e0008135f19666442e08f8a73.ts
+三立都會，mitv：//fccsovh.pvbox.live：18912 / 5b14098f000d8c65aa7714d393792210.ts
+三立都會，mitv：//fccseuro.pvbox.live：18912 / 5c72486f0000d4e31d5277b7483f11e3.ts
+三立都會，mitv：//fccsovh.pvbox.live：18912 / 5c2dd74e0008135f19666442e08f8a73.ts
