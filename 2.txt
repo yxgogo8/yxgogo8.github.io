@@ -507,7 +507,11 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0819,#genre#
+輪播0820,#genre#
+曼哈頓戀習曲,https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8#https://a.mhkuaibo.com/20200214/fX6Hr5db/index.m3u8#https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8?sign=36451f934903a84f55fa7b6ef8e47c8c
+我就要你好好的,https://feifei.feifeizuida.com/20190623/12695_3bffa71c/index.m3u8#https://a.mhkuaibo.com/20200211/uL28B0RY/index.m3u8#https://feifei.feifeizuida.com/20190623/12695_3bffa71c/index.m3u8?sign=87c12c29e0393c55c6c2d1efe421c290
+情書,https://bilibili.com-l-163.com/20181017/14093_6b856ccd/index.m3u8#https://video.kkyun-iqiyi.com/20181018/qljUT7Gz/index.m3u8#https://zy.kubo-360-tudou.com/20180419/3387_13ed292f/index.m3u8
+真愛每一天,https://leshi.cdn-zuyida.com/20170923/1WA1Ma0s/index.m3u8?sign=6eb00f9f3a91e1caeb5df9d94a554f75#https://c.mahua-kb.com/20200615/pW1QQfdF/index.m3u8#https://leshi.cdn-zuyida.com/20170923/1WA1Ma0s/index.m3u8#
 PS我愛你,https://bilibili.com-l-163.com/20180925/6270_4271a37e/index.m3u8#https://s2.135-cdn.com/2020/06/01/YnsP4ltLz8KWpbRj/index.m3u8
 電子情書,https://vip.okokbo.com/20171230/k9EAJ1cW/index.m3u8#https://youku.kuyun-leshi.com/20190305/6WewBKNV/index.m3u8#https://b.mahua-kb.com/20200426/n0EVXwgx/index.m3u8
 K歌情人,https://iqiyi.zuidameiju.com/20200219/10863_4dd1f36b/index.m3u8#https://ddppnew1.135-cdn.com/20190624/HBmQdb1p/index.m3u8#https://tudou.com-l-tudou.com/20180411/8478_80a4aaa3/1000k/hls/index.m3u8
