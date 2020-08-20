@@ -958,12 +958,12 @@ EBS+2,http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 EBSe,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
 EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 EBSi,http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-三立綜合，mitv：//fccsovh.pvbox.live：18912 / 5b140917000126426b51b812727ccb82.ts
-三立綜合，mitv：//fccseuro.pvbox.live：18912 / 5b140917000126426b51b812727ccb82.ts
-三立台灣，mitv：//fccsovh.pvbox.live：18912 / 5c2dd74a000cbd46698addb74d61afbb.ts
-三立台灣，mitv：//fccsovh.pvbox.live：18912 / 5b1409f100088a843e552539cfdf3021.ts
-三立台灣，mitv：//fccseuro.pvbox.live：18912 / 5c2dd74a000cbd46698addb74d61afbb.ts
-三立都會，mitv：//fccseuro.pvbox.live：18912 / 5c2dd74e0008135f19666442e08f8a73.ts
-三立都會，mitv：//fccsovh.pvbox.live：18912 / 5b14098f000d8c65aa7714d393792210.ts
-三立都會，mitv：//fccseuro.pvbox.live：18912 / 5c72486f0000d4e31d5277b7483f11e3.ts
-三立都會，mitv：//fccsovh.pvbox.live：18912 / 5c2dd74e0008135f19666442e08f8a73.ts
+三立綜合,mitv://fccsovh.pvbox.live:18912/5b140917000126426b51b812727ccb82.ts
+三立綜合,mitv://fccseuro.pvbox.live:18912/5b140917000126426b51b812727ccb82.ts
+三立台灣,mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+三立台灣,mitv://fccsovh.pvbox.live:18912/5b1409f100088a843e552539cfdf3021.ts
+三立台灣,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+三立都會,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
+三立都會,mitv://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts
+三立都會,mitv://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts
+三立都會,mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
