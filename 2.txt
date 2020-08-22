@@ -42,7 +42,7 @@ TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#r
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
 *中天综合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大綜合,http:/104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
+國興衛視,vjms://23.237.115.18:8500:3502/live/cid=424#mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 緯來戲劇,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
 台視新聞,http://p06.iptv2asia.com:18888/http/004#http://seb.sason.top/sc/tsxw_fhd.m3u8
 中視新聞,http://p06.iptv2asia.com:18888/http/006#http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -61,11 +61,15 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 台視財經,http://p06.iptv2asia.com:18888/http/003
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 *CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
-*東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+*東森電影,vjms://23.237.115.18:8500:3502/live/cid=338#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *龍祥時代,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 *好萊塢電影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
 HBO1,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+HBO,vjms://23.237.115.18:8500:3502/live/cid=261
+HBO,vjms://58.215.133.154:8500/live/cid=261
+HBO強檔,vjms://23.237.115.18:8500:3502/live/cid=238
+HBO溫馨,vjms://23.237.115.18:8500:3502/live/cid=181
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
@@ -396,6 +400,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
 影城0822,#genre#
+*八佰,https://mingxing.xianyongjiu.com/20200820/9212_deb63a50/index.m3u8#https://youku.cdn7-okzy.com/20200820/20513_6741611c/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8
 *追殺艾娃 Ava,https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8#https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8
 鐵雨2：首腦峯會,https://s3.135-cdn.com/2020/08/20/Y9FXSihM07K4W25z/index.m3u8#https://youku.cdn7-okzy.com/20200820/20512_3241bf7a/index.m3u8#https://diaoshi.dehua-kuyun.com/20200819/12790_ddf7dee0/index.m3u8
 寄生異形,https://douban.donghongzuida.com/20200817/7571_fb8310b0/index.m3u8
