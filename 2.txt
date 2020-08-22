@@ -820,3 +820,120 @@ EBS+2,http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 EBSe,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
 EBSeHD,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 EBSi,http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+無線財經資訊臺,http://bg7cattt.xyz/tvb.php?id=2
+無線新聞臺,http://bg7cattt.xyz/tvb.php?id=1
+TVB翡翠臺,vjms://23.237.115.18:8500:3502/live/cid=362
+TVB J2,vjms://23.237.115.18:8500:3502/live/cid=368
+TVB J5,vjms://23.237.115.18:8500:3502/live/cid=363
+TVB明珠臺,vjms://23.237.115.18:8500:3502/live/cid=367
+TVB无线新闻臺,vjms://23.237.115.18:8500:3502/live/cid=366
+鳳凰中文,vjms://23.237.115.18:8500:3502/live/cid=400
+鳳凰資訊,vjms://23.237.115.18:8500:3502/live/cid=401
+民视,vjms://23.237.115.18:8500:3502/live/cid=450
+中视,vjms://23.237.115.18:8500:3502/live/cid=452
+台视,vjms://23.237.115.18:8500:3502/live/cid=453
+公视,vjms://23.237.115.18:8500:3502/live/cid=236
+hb0,vjms://23.237.115.18:8500:3502/live/cid=436
+大愛,vjms://23.237.115.18:8500:3502/live/cid=442
+壹新闻,vjms://23.237.115.18:8500:3502/live/cid=445
+东森財經新闻,vjms://23.237.115.18:8500:3502/live/cid=456
+TVBS新闻台,vjms://23.237.115.18:8500:3502/live/cid=348
+民视新闻,vjms://23.237.115.18:8500:3502/live/cid=454
+年代MUCH,vjms://23.237.115.18:8500:3502/live/cid=439
+年代新闻,vjms://23.237.115.18:8500:3502/live/cid=455
+东森新闻,vjms://23.237.115.18:8500:3502/live/cid=340
+中天新闻,vjms://23.237.115.18:8500:3502/live/cid=407
+非凡新闻,vjms://23.237.115.18:8500:3502/live/cid=443
+纬来日本,vjms://23.237.115.18:8500:3502/live/cid=102
+纬来體育,vjms://23.237.115.18:8500:3502/live/cid=202
+纬来戲劇,vjms://23.237.115.18:8500:3502/live/cid=137
+东森綜合,vjms://23.237.115.18:8500:3502/live/cid=333
+东森電影,vjms://23.237.115.18:8500:3502/live/cid=338
+东森幼幼,vjms://23.237.115.18:8500:3502/live/cid=344
+东森戲劇,vjms://23.237.115.18:8500:3502/live/cid=425
+东森超视,vjms://23.237.115.18:8500:3502/live/cid=426
+國興衛视,vjms://23.237.115.18:8500:3502/live/cid=424
+迪士尼卡通,vjms://23.237.115.18:8500:3502/live/cid=361
+HBO,vjms://23.237.115.18:8500:3502/live/cid=261
+HBO,vjms://58.215.133.154:8500/live/cid=261
+HBO強檔,vjms://23.237.115.18:8500:3502/live/cid=238
+HBO溫馨,vjms://23.237.115.18:8500:3502/live/cid=181
+TVBS,vjms://23.237.115.18:8500:3502/live/cid=349
+TVBS歡樂台,vjms://23.237.115.18:8500:3502/live/cid=438
+博斯高球,vjms://23.237.115.18:8500:3502/live/cid=265
+ELTA体育1台,vjms://23.237.115.18:8500:3502/live/cid=266
+TLC旅游生活,vjms://23.237.115.18:8500:3502/live/cid=103
+法國國際五台,vjms://23.237.115.18:8500:3502/live/cid=396
+國家地理,vjms://23.237.115.18:8500:3502/live/cid=115
+國家地理野生,vjms://23.237.115.18:8500:3502/live/cid=263
+體育FOX3,vjms://23.237.115.18:8500:3502/live/cid=95
+體育FOX2 Sports,vjms://23.237.115.18:8500:3502/live/cid=444
+AXN,vjms://23.237.115.18:8500:3502/live/cid=2
+BBC,vjms://23.237.115.18:8500:3502/live/cid=418
+BBC,vjms://58.215.133.154:8500/live/cid=418
+CNN,vjms://23.237.115.18:8500:3502/live/cid=428
+CNN,vjms://58.215.133.154:8500/live/cid=428
+CNBC,vjms://23.237.115.18:8500:3502/live/cid=98
+StarMovies,vjms://23.237.115.18:8500:3502/live/cid=94
+DiscoveryAsia,vjms://23.237.115.18:8500:3502/live/cid=440
+DiscoveryScience,vjms://23.237.115.18:8500:3502/live/cid=457
+动物星球,vjms://23.237.115.18:8500:3502/live/cid=3
+澳亚卫视,vjms://58.215.133.154:8500/live/cid=337
+探索亚洲,vjms://58.215.133.154:8500/live/cid=440
+日本电视台,vjms://23.237.115.18:8500:3502/live/cid=492
+日FIGHTING TV,vjms://23.237.115.18:8500:3502/live/cid=408
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+日-Family theather,vjms://23.237.115.18:8500:3502/live/cid=493
+日-kids,vjms://23.237.115.18:8500:3502/live/cid=494
+日-J,vjms://23.237.115.18:8500:3502/live/cid=495
+日-J,vjms://58.215.133.154:8500/live/cid=495
+日-Discovery,vjms://23.237.115.18:8500:3502/live/cid=496
+日-Discovery,vjms://58.215.133.154:8500/live/cid=496
+日-Movie Plus,vjms://23.237.115.18:8500:3502/live/cid=497
+日-迪士尼,vjms://23.237.115.18:8500:3502/live/cid=499
+日-GOLF NTWORK,vjms://23.237.115.18:8500:3502/live/cid=409
+日-Sports ESPN,vjms://23.237.115.18:8500:3502/live/cid=410
+日-Sports Plus,vjms://23.237.115.18:8500:3502/live/cid=411
+日-Green,vjms://23.237.115.18:8500:3502/live/cid=412
+日-GAORA,vjms://23.237.115.18:8500:3502/live/cid=413
+日-Sports,vjms://23.237.115.18:8500:3502/live/cid=414
+日-Sports,vjms://58.215.133.154:8500/live/cid=414
+日-sports1,vjms://23.237.115.18:8500:3502/live/cid=415
+日-Sports 2,vjms://23.237.115.18:8500:3502/live/cid=416
+关西-地面波电视台,vjms://23.237.115.18:8500:3502/live/cid=323
+NHK综合CS-NHK-G CS,vjms://23.237.115.18:8500:3502/live/cid=139
+KIDS,vjms://58.215.133.154:8500/live/cid=494
+FOX体育2台,vjms://58.215.133.154:8500/live/cid=444
+环球电视台,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8 
+环球电视台,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+J sports 1,P2p://147.135.39.171:9906/5f0a0a670007ac7764ce7418540a501f.ts#P2p://50.7.118.66:9906/5ee1840e00039099e7b3535616500d31.ts
+J sports 2,P2p://147.135.39.171:9906/5f0a0a66000ec12064ce720457d97d50.ts#P2p://50.7.118.66:9906/5ee1841c000f3f52e7b38d046e141c0c.ts
+J sports 3,P2p://147.135.39.171:9906/5f0a0a66000805d464ce704f7abc370d.ts#P2p://50.7.118.66:9906/5ee1842b00031687e7b3c47f5d726980.ts
+J sports 4,P2p://147.135.39.171:9906/5f0a0a6600013ae264ce6e8a42a3175c.ts#P2p://50.7.118.66:9906/5ee1843e000be8d4e7b410f90a20303d.ts
+越南∣UNTV Public,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+越南∣VTV2,https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv2hd_abr/playlist.m3u8
+越南∣VTV3,https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv3hd1_abr/playlist.m3u8
+越南∣VTV4,https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
+越南∣VTV6,https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv6hd1_abr/playlist.m3u8
+越南∣ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8#http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8 
+越南∣MRTV 4,http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+越南∣MWD,http://203.81.84.130/hls/mwd/index.m3u8
+越南∣Channel 7,http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+越南∣Channel K,https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+越南∣HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越南∣PTP,http://113.161.4.48:8080/phuyen/tv.m3u8
+泰国∣Vnews,http://live.vnanet.vn/480P/playlist.m3u8
+泰国∣PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_1080p/index.m3u8
+泰国∣SUV,http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+泰国∣One,http://one31-0ougnj.cdn.byteark.com/live/playlist_720p/index.m3u8
+泰国∣PPTV,http://183.182.100.184/live/pptvthai/playlist.m3u8
+泰国∣Thai PBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰国∣GMA Pinoy,http://164.40.161.43:10011
+菲宾∣DILSe,http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+菲宾∣Gabruu TV,http://104.237.60.234/live/gabruutv.m3u8
+印度∣TV IKIM,http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+印度∣ET NOW,http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+印度∣Rajya Sabha TV,https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8
+印度∣Velugu,http://mcdn-play-4.5centscdn.net/velugutvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+印度∣Hope TV India,https://bcliveunivsecure-lh.akamaihd.net/i/India_1@571274/index_1096_av-p.m3u8
+印度∣ACV,https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
