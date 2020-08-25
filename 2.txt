@@ -518,6 +518,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播0825,#genre#
+真愛繞圈圈,https://sina.com-h-sina.com/20180821/12255_28ce4fee/1000k/hls/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190605/14239_079bcedf/index.m3u8#https://yushou.qitu-zuida.com/20180707/8939_9e4798ab/index.m3u8
 第六感生死緣,https://v5.jsyunbf.com/20200618/BXlmyev0/index.m3u8#https://meng.wuyou-zuida.com/20191225/24636_8197dc2b/index.m3u8
 真愛挑日子,https://zk1.603ee.com/2019/11/04/ERHbMlXprYC8jNkk/playlist.m3u8#https://tv.youkutv.cc/2019/11/04/oJasLdSjKSBk7Diw/playlist.m3u8
 愛情沒有終點,https://haoa.haozuida.com/20180726/87fCh0um/index.m3u8#https://www.yiyazx.com/20181117/cryPBOfc/index.m3u8
