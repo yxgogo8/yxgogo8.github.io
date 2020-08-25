@@ -399,7 +399,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0822,#genre#
+影城0825,#genre#
+*重裝救援：全境獵殺,https://iqiyi.cdn27-okzy.com/20200822/7329_d100128c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200823/13413_fc7926f8/index.m3u8#https://e.mahua-kb.com/20200823/BcEPfKUQ/index.m3u8
+*屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200824/20145_dd345b93/index.m3u8#https://youku.cdn7-okzy.com/20200825/20552_f0b6df96/index.m3u8#https://s3.135-cdn.com/2020/08/25/Y2h9GwpMCtnEaRfy/index.m3u8
 *八佰,https://mingxing.xianyongjiu.com/20200820/9212_deb63a50/index.m3u8#https://youku.cdn7-okzy.com/20200820/20513_6741611c/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8
 *追殺艾娃 Ava,https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8#https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8
 鐵雨2：首腦峯會,https://s3.135-cdn.com/2020/08/20/Y9FXSihM07K4W25z/index.m3u8#https://youku.cdn7-okzy.com/20200820/20512_3241bf7a/index.m3u8#https://diaoshi.dehua-kuyun.com/20200819/12790_ddf7dee0/index.m3u8
@@ -411,7 +413,6 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 深海狂鯊3,https://cdn-yong.bejingyongjiu.com/20200728/18082_c8132177/index.m3u8#https://youku.cdn7-okzy.com/20200728/20368_27af4683/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200728/9915_b0cd704f/index.m3u8
 屍人診所,https://xingfu.hua-kuyun.com/20200628/6246_5efbc650/index.m3u8#https://s2.135-cdn.com/2020/06/28/U1pNfhtVS8e0soIA/index.m3u8#https://iqiyi.cdn27-okzy.com/20200628/5339_2d70aa9d/index.m3u8#
 深海擴散,https://youku.cdn7-okzy.com/20200509/19329_88d951ba/index.m3u8#https://yun.zxziyuan-yun.com/20200412/20754_ee575853/index.m3u8
-屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200719/17368_627b7973/index.m3u8#https://zy.kubozy-qq-360-sogou.com/20200719/9530_c6beac19/index.m3u8#https://c.mahua-kb.com/20200719/Inq53XqZ/index.m3u8
 翻供,https://cdn-yong.bejingyongjiu.com/20200715/16925_8fab69b0/index.m3u8#https://you.tube-kuyun.com/20200712/18530_fab6593c/index.m3u8#https://d.mahua-kb.com/20200712/9Hactt84/index.m3u8
 魔鬼剋星2016加長版,https://zy.zxziyuan-yun.com/20180106/RPm39lSr/index.m3u8
 魔鬼剋星1,https://vip.okokbo.com/20180226/XgUveDTg/index.m3u8
