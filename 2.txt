@@ -518,6 +518,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播0825,#genre#
+第六感生死緣,https://v5.jsyunbf.com/20200618/BXlmyev0/index.m3u8#https://meng.wuyou-zuida.com/20191225/24636_8197dc2b/index.m3u8
+真愛挑日子,https://zk1.603ee.com/2019/11/04/ERHbMlXprYC8jNkk/playlist.m3u8#https://tv.youkutv.cc/2019/11/04/oJasLdSjKSBk7Diw/playlist.m3u8
 愛情沒有終點,https://haoa.haozuida.com/20180726/87fCh0um/index.m3u8#https://www.yiyazx.com/20181117/cryPBOfc/index.m3u8
 生命中的美好缺憾,https://diaoshi.dehua-kuyun.com/20200725/9697_361b00d5/index.m3u8#https://tv2.youkutv.cc/2020/07/25/3A2GWhSGU4GzH2FQ/playlist.m3u8#https://v3.yongjiujiexi.com/20190331/YPyeYHcW/index.m3u8
 天使愛美麗,https://yi.jingdianzuida.com/20191122/Tposi1eL/index.m3u8#https://sina.com-h-sina.com/20180823/13086_b15d5a25/index.m3u8#https://haitang.kankan-kuyunzy.com/20200118/10379_95018597/index.m3u8
