@@ -398,11 +398,13 @@ test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
 追劇0822,#genre#
+半澤直樹II-06,https://youku.cdn11-okzy.com/20200824/19910_498f0edb/index.m3u8#https://diaoshi.dehua-kuyun.com/20200824/13486_6c6996ee/index.m3u8#https://s3.135-cdn.com/2020/08/24/m4pePzcI6jE9trbB/index.m3u8
 半澤直樹II-05,https://mingxing.xianyongjiu.com/20200817/8866_ebe6ac3c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200816/12473_b024a10d/index.m3u8#https://s3.135-cdn.com/2020/08/17/GjZ7NKBcE9n81xY6/index.m3u8
 半澤直樹II-04,https://mingxing.xianyongjiu.com/20200810/8121_bddeba8d/index.m3u8#https://youku.cdn11-okzy.com/20200810/19455_bddeba8d/index.m3u8#https://diaoshi.dehua-kuyun.com/20200809/11615_7be0cee7/index.m3u8
 半澤直樹II-03,https://mingxing.xianyongjiu.com/20200803/7437_44efdd4d/index.m3u8#https://youku.cdn11-okzy.com/20200803/19211_d88682d4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200802/10713_eecb8292/index.m3u8
 半澤直樹II-02,https://mingxing.xianyongjiu.com/20200727/6670_3136e6a6/index.m3u8#https://youku.cdn11-okzy.com/20200727/19010_3136e6a6/index.m3u8#https://diaoshi.dehua-kuyun.com/20200726/9852_aebeecae/index.m3u8
 半澤直樹II-01,https://mingxing.xianyongjiu.com/20200720/5983_1a8c4da4/index.m3u8#https://youku.cdn3-okzy.com/20200720/11100_1a8c4da4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200719/8752_1130f7cd/index.m3u8
+灰姑娘藥劑師07,https://mingxing.xianyongjiu.com/20200829/10006_ccf738ed/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14076_86d466c0/index.m3u8#https://e.mahua-kb.com/20200828/pc7MA8fh/index.m3u8
 灰姑娘藥劑師06,https://youku.cdn11-okzy.com/20200821/19855_cfbe8c87/index.m3u8#https://youku.cdn11-okzy.com/20200821/19855_cfbe8c87/index.m3u8#https://diaoshi.dehua-kuyun.com/20200821/13128_3d59ad44/index.m3u8
 灰姑娘藥劑師05,https://mingxing.xianyongjiu.com/20200814/8594_17be58b8/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12180_eb7ea48b/index.m3u8#https://e.mahua-kb.com/20200814/PO62YJR3/index.m3u8
 灰姑娘藥劑師04,https://mingxing.xianyongjiu.com/20200807/7867_1827919d/index.m3u8#https://youku.cdn11-okzy.com/20200807/19339_8da74c55/index.m3u8#https://diaoshi.dehua-kuyun.com/20200806/11181_92dc8997/index.m3u8
@@ -410,7 +412,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0825,#genre#
+影城0829,#genre#
+*綁票追殺令,https://iqiyi.cdn27-okzy.com/20200826/7406_5f7cae76/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14026_94414826/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200826/8374_c5d63847/index.m3u8
 *重裝救援：全境獵殺,https://iqiyi.cdn27-okzy.com/20200822/7329_d100128c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200823/13413_fc7926f8/index.m3u8#https://e.mahua-kb.com/20200823/BcEPfKUQ/index.m3u8
 *屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200824/20145_dd345b93/index.m3u8#https://youku.cdn7-okzy.com/20200825/20552_f0b6df96/index.m3u8#https://s3.135-cdn.com/2020/08/25/Y2h9GwpMCtnEaRfy/index.m3u8
 *八佰,https://mingxing.xianyongjiu.com/20200820/9212_deb63a50/index.m3u8#https://youku.cdn7-okzy.com/20200820/20513_6741611c/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8
@@ -451,7 +454,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0822,#genre#
+霹靂0829,#genre#
+天越28,https://cdn-yong.bejingyongjiu.com/20200828/20465_bd66634e/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14715_0d81b8a7/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14064_46874da4/index.m3u8
+天越27,https://cdn-yong.bejingyongjiu.com/20200828/20464_bb9c4959/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14714_d44aa639/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14065_fd20f93f/index.m3u8
 天越26,https://cdn-yong.bejingyongjiu.com/20200821/19918_8618df36/index.m3u8#https://iqiyi.cdn9-okzy.com/20200822/14336_bd770353/index.m3u8#https://diaoshi.dehua-kuyun.com/20200821/13103_4b54dae6/index.m3u8
 天越25,https://cdn-yong.bejingyongjiu.com/20200821/19917_130ecfd1/index.m3u8#https://iqiyi.cdn9-okzy.com/20200822/14335_42ff6b59/index.m3u8#https://diaoshi.dehua-kuyun.com/20200821/13104_80a51160/index.m3u8
 天越24,https://cdn-yong.bejingyongjiu.com/20200814/19355_1b7fd889/index.m3u8#https://iqiyi.cdn9-okzy.com/20200815/13997_0ef3fcdd/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12177_915b8bd3/index.m3u8
@@ -605,7 +610,10 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
-體育0806,#genre#
+體育0829,#genre#
+ESPN,http://185.59.223.135/espn/index.m3u8
+ESPN2,http://185.59.223.135/espn2/index.m3u8
+usa美食,http://5.135.92.133:52841/out/u/503_1.m3u8
 博斯高球2,mitv://147.135.39.171:9906/5defe13e0003a4c36eba3e002cd3384a.ts
 博斯网球,mitv://147.135.39.171:9906/5defe13d0008ad4b6eba3b603e5d1ebb.ts
 博斯运动,mitv://147.135.39.171:9906/5defdab60006b85e6ea0bb7b06aa7d1f.ts
