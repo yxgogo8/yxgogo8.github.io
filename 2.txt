@@ -533,7 +533,12 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0825,#genre#
+輪播0901,#genre#
+靠譜歌王,https://bili.meijuzuida.com/20190916/21456_498016a9/index.m3u8#https://tianxian.piaohua-kuyun.com/20190916/4030_3e74d3d2/1000k/hls/index.m3u8#https://ddppnew1.135-cdn.com/20190916/kb35wYza/index.m3u8
+大智若魚,https://hong.tianzhen-zuida.com/20191018/11244_5bb7bc81/1000k/hls/index.m3u8#https://zy.zxziyuan-yun.com/20180304/oXcFh1HS/index.m3u8#https://s1.135-cdn.com/20200121/rCXbWqDBS7f2cQGY/index.m3u8
+機器戰警3,https://yushou.qitu-zuida.com/20180315/l82B8FZ5/800kb/hls/index.m3u8#https://bilibili.com-l-163.com/20181002/8497_ca94a72b/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200421/9981_a499ce82/index.m3u8
+機器戰警2,https://yushou.qitu-zuida.com/20180315/cDHR3Pph/index.m3u8#https://iqiyi.cdn26-okzy.com/20200601/14617_d5c9613b/index.m3u8
+機器戰警1,https://yushou.qitu-zuida.com/20180315/DHL9jSgY/index.m3u8#https://bilibili.com-l-163.com/20181002/8495_5c2c2797/index.m3u8
 真愛繞圈圈,https://sina.com-h-sina.com/20180821/12255_28ce4fee/1000k/hls/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190605/14239_079bcedf/index.m3u8#https://yushou.qitu-zuida.com/20180707/8939_9e4798ab/index.m3u8
 第六感生死緣,https://v5.jsyunbf.com/20200618/BXlmyev0/index.m3u8#https://meng.wuyou-zuida.com/20191225/24636_8197dc2b/index.m3u8
 真愛挑日子,https://zk1.603ee.com/2019/11/04/ERHbMlXprYC8jNkk/playlist.m3u8#https://tv.youkutv.cc/2019/11/04/oJasLdSjKSBk7Diw/playlist.m3u8
@@ -977,3 +982,12 @@ J sports 4,P2p://147.135.39.171:9906/5f0a0a6600013ae264ce6e8a42a3175c.ts#P2p://5
 印度∣Velugu,http://mcdn-play-4.5centscdn.net/velugutvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 印度∣Hope TV India,https://bcliveunivsecure-lh.akamaihd.net/i/India_1@571274/index_1096_av-p.m3u8
 印度∣ACV,https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+TVBS新聞,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+三立新聞,p8p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+花花公子電視台,http://45.159.16.20:8000/play/a0al
