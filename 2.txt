@@ -413,6 +413,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
 影城0902,#genre#
+*鬼寺兇靈2,https://diaoshi.dehua-kuyun.com/20200901/14517_3b3ccbc5/index.m3u8#https://e.mahua-kb.com/20200901/PQMwpbwq/index.m3u8
 *數碼寶貝-羈絆,https://zy.kubozy-qq-360-sogou.com/20200727/9877_734ac155/index.m3u8#https://e.mahua-kb.com/20200831/lubTwNGO/index.m3u8#https://youku.cdn7-okzy.com/20200728/20367_a3bc8b22/index.m3u8
 *賭博默示錄：最終遊戲,https://cdn-yong.bejingyongjiu.com/20200716/17189_5c2cb6a6/index.m3u8#https://d.mahua-kb.com/20200716/9iby88Y3/index.m3u8#https://you.tube-kuyun.com/20200719/19348_546d1151/index.m3u8
 *綁票追殺令,https://iqiyi.cdn27-okzy.com/20200826/7406_5f7cae76/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14026_94414826/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200826/8374_c5d63847/index.m3u8
