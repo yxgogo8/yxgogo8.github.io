@@ -412,7 +412,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0829,#genre#
+影城0902,#genre#
+*數碼寶貝-羈絆,https://zy.kubozy-qq-360-sogou.com/20200727/9877_734ac155/index.m3u8#https://e.mahua-kb.com/20200831/lubTwNGO/index.m3u8#https://youku.cdn7-okzy.com/20200728/20367_a3bc8b22/index.m3u8
+*賭博默示錄：最終遊戲,https://cdn-yong.bejingyongjiu.com/20200716/17189_5c2cb6a6/index.m3u8#https://d.mahua-kb.com/20200716/9iby88Y3/index.m3u8#https://you.tube-kuyun.com/20200719/19348_546d1151/index.m3u8
 *綁票追殺令,https://iqiyi.cdn27-okzy.com/20200826/7406_5f7cae76/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14026_94414826/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200826/8374_c5d63847/index.m3u8
 *重裝救援：全境獵殺,https://iqiyi.cdn27-okzy.com/20200822/7329_d100128c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200823/13413_fc7926f8/index.m3u8#https://e.mahua-kb.com/20200823/BcEPfKUQ/index.m3u8
 *屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200824/20145_dd345b93/index.m3u8#https://youku.cdn7-okzy.com/20200825/20552_f0b6df96/index.m3u8#https://s3.135-cdn.com/2020/08/25/Y2h9GwpMCtnEaRfy/index.m3u8
@@ -533,7 +535,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0901,#genre#
+輪播0902,#genre#
+阿拉丁,https://leshi.iqiyi-kuyunzy.com/20190807/17422_d79a76b8/index.m3u8#https://bili.meijuzuida.com/20190807/21129_ebac678f/index.m3u8#https://dapian.video-yongjiu.com/20190807/6662_172a9c7a/index.m3u8
 靠譜歌王,https://bili.meijuzuida.com/20190916/21456_498016a9/index.m3u8#https://tianxian.piaohua-kuyun.com/20190916/4030_3e74d3d2/1000k/hls/index.m3u8#https://ddppnew1.135-cdn.com/20190916/kb35wYza/index.m3u8
 大智若魚,https://hong.tianzhen-zuida.com/20191018/11244_5bb7bc81/1000k/hls/index.m3u8#https://zy.zxziyuan-yun.com/20180304/oXcFh1HS/index.m3u8#https://s1.135-cdn.com/20200121/rCXbWqDBS7f2cQGY/index.m3u8
 機器戰警3,https://yushou.qitu-zuida.com/20180315/l82B8FZ5/800kb/hls/index.m3u8#https://bilibili.com-l-163.com/20181002/8497_ca94a72b/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200421/9981_a499ce82/index.m3u8
