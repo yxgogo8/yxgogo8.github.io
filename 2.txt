@@ -538,6 +538,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播0903,#genre#
+史密斯任務,https://vip.okokbo.com/20180307/eCPDSRGo/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200509/11757_c15eecf0/index.m3u8
 捍衛任務1,https://yingxiong.qiling-yongjiu.com/20191110/13408_8bbfa9f4/1000k/hls/index.m3u8#https://youku.com-t-youku.com/20190322/10313_b7f54921/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8623_0912f206/index.m3u8
 捍衛任務2,https://yingxiong.qiling-yongjiu.com/20191110/13414_6ff7d616/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8620_739b6ef9/index.m3u8
 捍衛任務3,https://dapian.video-yongjiu.com/20190719/3777_171982c5/index.m3u8#https://baidu.com-l-baidu.com/20190814/14609_8554644e/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190814/17715_7510365c/index.m3u8
