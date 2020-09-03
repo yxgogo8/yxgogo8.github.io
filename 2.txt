@@ -412,7 +412,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0902,#genre#
+影城0903,#genre#
+怪物先生,https://douban.donghongzuida.com/20200818/7673_aa2bfa7a/index.m3u8#https://56.com-zx-56.com/20200818/15086_3d3dd430/index.m3u8#https://youku.cdn7-okzy.com/20200818/20501_626b8d3d/index.m3u8
 *淒厲人僧2,https://diaoshi.dehua-kuyun.com/20200901/14517_3b3ccbc5/index.m3u8#https://e.mahua-kb.com/20200901/PQMwpbwq/index.m3u8
 *數碼寶貝-羈絆,https://zy.kubozy-qq-360-sogou.com/20200727/9877_734ac155/index.m3u8#https://e.mahua-kb.com/20200831/lubTwNGO/index.m3u8#https://youku.cdn7-okzy.com/20200728/20367_a3bc8b22/index.m3u8
 *賭博默示錄：最終遊戲,https://cdn-yong.bejingyongjiu.com/20200716/17189_5c2cb6a6/index.m3u8#https://d.mahua-kb.com/20200716/9iby88Y3/index.m3u8#https://you.tube-kuyun.com/20200719/19348_546d1151/index.m3u8
@@ -536,7 +537,10 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0902,#genre#
+輪播0903,#genre#
+捍衛任務1,https://yingxiong.qiling-yongjiu.com/20191110/13408_8bbfa9f4/1000k/hls/index.m3u8#https://youku.com-t-youku.com/20190322/10313_b7f54921/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8623_0912f206/index.m3u8
+捍衛任務2,https://yingxiong.qiling-yongjiu.com/20191110/13414_6ff7d616/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8620_739b6ef9/index.m3u8
+捍衛任務3,https://dapian.video-yongjiu.com/20190719/3777_171982c5/index.m3u8#https://baidu.com-l-baidu.com/20190814/14609_8554644e/index.m3u8#https://leshi.iqiyi-kuyunzy.com/20190814/17715_7510365c/index.m3u8
 阿拉丁,https://leshi.iqiyi-kuyunzy.com/20190807/17422_d79a76b8/index.m3u8#https://bili.meijuzuida.com/20190807/21129_ebac678f/index.m3u8#https://dapian.video-yongjiu.com/20190807/6662_172a9c7a/index.m3u8
 靠譜歌王,https://bili.meijuzuida.com/20190916/21456_498016a9/index.m3u8#https://tianxian.piaohua-kuyun.com/20190916/4030_3e74d3d2/1000k/hls/index.m3u8#https://ddppnew1.135-cdn.com/20190916/kb35wYza/index.m3u8
 大智若魚,https://hong.tianzhen-zuida.com/20191018/11244_5bb7bc81/1000k/hls/index.m3u8#https://zy.zxziyuan-yun.com/20180304/oXcFh1HS/index.m3u8#https://s1.135-cdn.com/20200121/rCXbWqDBS7f2cQGY/index.m3u8
@@ -552,7 +556,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 贖罪,https://vip.okokbo.com/20171220/dtjEjRd9/index.m3u8#https://videos.kkyun-iqiyi.com/20180729/Ouwz6kTu/index.m3u8
 終極追殺令,https://v3.yongjiujiexi.com/20190425/3910ubHH/index.m3u8#https://youku.com-youku.net/20180703/16450_7b7d7fff/index.m3u8#https://youku.kuyun-leshi.com/20190221/39y27Lty/index.m3u8
 我的野蠻女友,https://vip.okokbo.com/20171217/pr5j42GI/index.m3u8#https://videos.kkyun-iqiyi.com/20180701/yUGbPMkl/index.m3u8#https://hair.jingpin88.com/20171105/dh1aPO7Q/index.m3u8
-鐵達尼號,https://vs1.baduziyuan.com/20171125/sKE07vxj/index.m3u8#https://yiyi.55zuiday.com/20181127/vHfzc8R5/index.m3u8#https://video.suyunbo.tv/20171018/mMz3US3G/index.m3u8
+鐵達尼,https://vs1.baduziyuan.com/20171125/sKE07vxj/index.m3u8#https://yiyi.55zuiday.com/20181127/vHfzc8R5/index.m3u8#https://video.suyunbo.tv/20171018/mMz3US3G/index.m3u8
 真愛挑日子,https://sohu.com-v-sohu.com/20180902/12313_08ed1a4c/index.m3u8#https://yun.kubo-zy-youku.com/20180907/JYPjgH1j/index.m3u8
 曼哈頓戀習曲,https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8#https://a.mhkuaibo.com/20200214/fX6Hr5db/index.m3u8#https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8?sign=36451f934903a84f55fa7b6ef8e47c8c
 我就要你好好的,https://feifei.feifeizuida.com/20190623/12695_3bffa71c/index.m3u8#https://a.mhkuaibo.com/20200211/uL28B0RY/index.m3u8#https://bilibili.com-l-163.com/20181117/22854_ebf65e66/index.m3u8
