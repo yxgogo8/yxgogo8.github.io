@@ -412,8 +412,11 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0903,#genre#
-怪物先生,https://douban.donghongzuida.com/20200818/7673_aa2bfa7a/index.m3u8#https://56.com-zx-56.com/20200818/15086_3d3dd430/index.m3u8#https://youku.cdn7-okzy.com/20200818/20501_626b8d3d/index.m3u8
+影城0905,#genre#
+*天能,https://youku.cdn7-okzy.com/20200904/20632_9440c3ae/index.m3u8
+*阿公當家,https://s3.135-cdn.com/2020/08/29/buTzM8pHOC9xvEaW/index.m3u8
+*花木蘭,https://youku.cdn7-okzy.com/20200904/20640_2ade4805/index.m3u8#https://diaoshi.dehua-kuyun.com/20200904/14878_4ad389ad/index.m3u8#https://e.mahua-kb.com/20200904/xXVccq42/index.m3u8
+*怪物先生,https://douban.donghongzuida.com/20200818/7673_aa2bfa7a/index.m3u8#https://56.com-zx-56.com/20200818/15086_3d3dd430/index.m3u8#https://youku.cdn7-okzy.com/20200818/20501_626b8d3d/index.m3u8
 *淒厲人僧2,https://diaoshi.dehua-kuyun.com/20200901/14517_3b3ccbc5/index.m3u8#https://e.mahua-kb.com/20200901/PQMwpbwq/index.m3u8
 *數碼寶貝-羈絆,https://zy.kubozy-qq-360-sogou.com/20200727/9877_734ac155/index.m3u8#https://e.mahua-kb.com/20200831/lubTwNGO/index.m3u8#https://youku.cdn7-okzy.com/20200728/20367_a3bc8b22/index.m3u8
 *賭博默示錄：最終遊戲,https://cdn-yong.bejingyongjiu.com/20200716/17189_5c2cb6a6/index.m3u8#https://d.mahua-kb.com/20200716/9iby88Y3/index.m3u8#https://you.tube-kuyun.com/20200719/19348_546d1151/index.m3u8
@@ -458,7 +461,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0829,#genre#
+霹靂0905,#genre
+天越30,kuyun.com/20200904/14918_11c09117/1000k/hls/index.m3u8
+天越29,https://diaoshi.dehua-kuyun.com/20200904/14917_a33288be/index.m3u8
 天越28,https://cdn-yong.bejingyongjiu.com/20200828/20465_bd66634e/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14715_0d81b8a7/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14064_46874da4/index.m3u8
 天越27,https://cdn-yong.bejingyongjiu.com/20200828/20464_bb9c4959/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14714_d44aa639/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14065_fd20f93f/index.m3u8
 天越26,https://cdn-yong.bejingyongjiu.com/20200821/19918_8618df36/index.m3u8#https://iqiyi.cdn9-okzy.com/20200822/14336_bd770353/index.m3u8#https://diaoshi.dehua-kuyun.com/20200821/13103_4b54dae6/index.m3u8
