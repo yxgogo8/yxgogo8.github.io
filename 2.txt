@@ -360,18 +360,18 @@ KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 KonTumTV,http://www.vietcago.net/vstv/kontumtv.m3u8
 KonTumTV,http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 
-YT直播0730,#genre#
+YT直播0905,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
 東森新聞,https://gogohaha.000webhostapp.com/?id=RaIJ767Bj_M
 中天新聞,https://gogohaha.000webhostapp.com/?id=wUPPkSANpyo
 三立LIVE新聞,https://gogohaha.000webhostapp.com/?id=4ZVUmEUFwaY
-三立iNEWS,https://gogohaha.000webhostapp.com/?id=MYwrZeIsRWU
+三立iNEWS,https://gogohaha.000webhostapp.com/?id=dTi2EGBZ_nU
 TVBS,https://gogohaha.000webhostapp.com/?id=A4FbB8UhNRs
 民視新聞,https://gogohaha.000webhostapp.com/?id=XxJKnDLYZz4
 公視,https://gogohaha.000webhostapp.com/?id=ED4QXd5xAco
 公視台語台,https://gogohaha.000webhostapp.com/?id=ihWafbJ_Ics
 台視新聞,https://gogohaha.000webhostapp.com/?id=NbjI0cARzjQ
-中視新聞,https://gogohaha.000webhostapp.com/?id=wxQcIb8zcPA
+中視新聞,https://gogohaha.000webhostapp.com/?id=cYgUeTtO5v8
 華視新聞,https://gogohaha.000webhostapp.com/?id=TL8mmew3jb8
 東森財經,https://gogohaha.000webhostapp.com/?id=68lLQ7hkdzU
 客家電視,https://gogohaha.000webhostapp.com/?id=YvTdOiAiB8s
@@ -383,13 +383,6 @@ TVBS,https://gogohaha.000webhostapp.com/?id=A4FbB8UhNRs
 東森購物47台,https://gogohaha.000webhostapp.com/?id=Q_PUrLTq0no
 momo購物一台,https://gogohaha.000webhostapp.com/?id=CmQ9UVebbGE
 momo購物二台,https://gogohaha.000webhostapp.com/?id=1NtWpw-dADo
-*三聖電視台,https://gogohaha.000webhostapp.com/?id=n8W69HjmlpY
-*正德電視台,https://gogohaha.000webhostapp.com/?id=-SpbhP9wMIs
-*信吉衛星,https://gogohaha.000webhostapp.com/?id=kEjRRzhJSN4
-*誠心衛星,https://gogohaha.000webhostapp.com/?id=uy-pT_ItVsY
-*天良衛星,https://gogohaha.000webhostapp.com/?id=S5JMuEmWD3c
-*信大電視台,https://gogohaha.000webhostapp.com/?id=m-EddzOFL2g
-*全大電視台,https://gogohaha.000webhostapp.com/?id=MVb65oQ8JfA
 beIN SPORTS HD,https://gogohaha.000webhostapp.com/?id=4TlVW4Lacu4
 beIN SPORTS,https://gogohaha.000webhostapp.com/?id=Bj3iPrLGKmo
 SBN全球財經,https://gogohaha.000webhostapp.com/?id=Gs0R-L3i_A4
@@ -462,7 +455,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
 霹靂0905,#genre
-天越30,kuyun.com/20200904/14918_11c09117/1000k/hls/index.m3u8
+天越30,https://diaoshi.dehua-kuyun.com/20200904/14918_11c09117/index.m3u8
 天越29,https://diaoshi.dehua-kuyun.com/20200904/14917_a33288be/index.m3u8
 天越28,https://cdn-yong.bejingyongjiu.com/20200828/20465_bd66634e/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14715_0d81b8a7/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14064_46874da4/index.m3u8
 天越27,https://cdn-yong.bejingyongjiu.com/20200828/20464_bb9c4959/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14714_d44aa639/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14065_fd20f93f/index.m3u8
@@ -999,3 +992,10 @@ J sports 4,P2p://147.135.39.171:9906/5f0a0a6600013ae264ce6e8a42a3175c.ts#P2p://5
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 寰宇新闻1,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 花花公子電視台,http://45.159.16.20:8000/play/a0al
+*三聖電視台,https://gogohaha.000webhostapp.com/?id=n8W69HjmlpY
+*正德電視台,https://gogohaha.000webhostapp.com/?id=-SpbhP9wMIs
+*信吉衛星,https://gogohaha.000webhostapp.com/?id=kEjRRzhJSN4
+*誠心衛星,https://gogohaha.000webhostapp.com/?id=uy-pT_ItVsY
+*天良衛星,https://gogohaha.000webhostapp.com/?id=S5JMuEmWD3c
+*信大電視台,https://gogohaha.000webhostapp.com/?id=m-EddzOFL2g
+*全大電視台,https://gogohaha.000webhostapp.com/?id=MVb65oQ8JfA
