@@ -535,7 +535,13 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0903,#genre#
+輪播0908,#genre#
+無雙,https://yj.yongjiu6.com/20190223/RQnWijGw/index.m3u8#https://yangguang.piaohua-kuyun.com/20181221/QnaPuOPS/index.m3u8#https://135zyv6.xw0371.com/2018/12/20/B2N2SUcOof0kaJqd/playlist.m3u8
+殺手47,https://vs1.baduziyuan.com/20180102/JZYcqZzr/index.m3u8#https://vip.okokbo.com/20180101/tkETbv3B/800kb/hls/index.m3u8#https://feifei.feifeizuida.com/20190904/17402_1fe0b29c/1000k/hls/index.m3u8
+殺手47-2007,https://zy.baidu-360-yyy-kubo.com/20181025/SCZmIe0g/index.m3u8#https://yushou.qitu-zuida.com/20180717/9476_6d520235/index.m3u8
+絕地戰警1,https://yangguang.piaohua-kuyun.com/20180914/bShRXFn6/index.m3u8#https://c.mahua-kb.com/20200707/NWOzuKTN/index.m3u8#https://vip.okokbo.com/20180101/nIXO8HhU/index.m3u8
+絕地戰警2,https://yun.kubo-zy-youku.com/20180625/DzRs8O5v/index.m3u8#https://vip.okokbo.com/20180101/17TLtLkz/index.m3u8#https://v3.yongjiujiexi.com/20190516/jTqa2ZFg/index.m3u8
+絕地戰警3,https://mahua-kb.com/20200412/YTfl6bH7/index.m3u8#https://c.mahua-kb.com/20200606/jUedyn8Q/index.m3u8#https://c.mahua-kb.com/20200606/jUedyn8Q/index.m3u8
 史密斯任務,https://vip.okokbo.com/20180307/eCPDSRGo/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200509/11757_c15eecf0/index.m3u8
 捍衛任務1,https://yingxiong.qiling-yongjiu.com/20191110/13408_8bbfa9f4/1000k/hls/index.m3u8#https://youku.com-t-youku.com/20190322/10313_b7f54921/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8623_0912f206/index.m3u8
 捍衛任務2,https://yingxiong.qiling-yongjiu.com/20191110/13414_6ff7d616/index.m3u8#https://tudou.diediao-kuyun.com/20191130/8620_739b6ef9/index.m3u8
