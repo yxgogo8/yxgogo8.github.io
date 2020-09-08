@@ -536,6 +536,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播0908,#genre#
+返校,https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8#https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200118/1401_8ea73f9f/index.m3u8
+粽邪,https://bofang.jingpin88.com/20190221/sX6j1l1m/index.m3u8#https://cn2.zuidadianying.com/20190222/haKdCjfr/index.m3u8#https://135zyv6.xw0371.com/2019/02/24/07Ly2UbpYfUMHO5r/playlist.m3u8
 無雙,https://yj.yongjiu6.com/20190223/RQnWijGw/index.m3u8#https://yangguang.piaohua-kuyun.com/20181221/QnaPuOPS/index.m3u8#https://135zyv6.xw0371.com/2018/12/20/B2N2SUcOof0kaJqd/playlist.m3u8
 殺手47,https://vs1.baduziyuan.com/20180102/JZYcqZzr/index.m3u8#https://vip.okokbo.com/20180101/tkETbv3B/800kb/hls/index.m3u8#https://feifei.feifeizuida.com/20190904/17402_1fe0b29c/1000k/hls/index.m3u8
 殺手47-2007,https://zy.baidu-360-yyy-kubo.com/20181025/SCZmIe0g/index.m3u8#https://yushou.qitu-zuida.com/20180717/9476_6d520235/index.m3u8
