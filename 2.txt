@@ -390,13 +390,17 @@ SBN全球財經,https://gogohaha.000webhostapp.com/?id=Gs0R-L3i_A4
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-追劇0822,#genre#
+追劇0916,#genre#
+半澤直樹II-08,https://mingxing.xianyongjiu.com/20200914/11288_7425748b/index.m3u8#https://youku.cdn11-okzy.com/20200914/20520_88db4804/index.m3u8#https://diaoshi.dehua-kuyun.com/20200914/16032_7425748b/index.m3u8
+半澤直樹II-07,https://mingxing.xianyongjiu.com/20200831/10117_912f3373/index.m3u8#https://youku.cdn11-okzy.com/20200831/20108_fb6a31ce/index.m3u8#https://diaoshi.dehua-kuyun.com/20200830/14355_4ea50f2d/index.m3u8
 半澤直樹II-06,https://youku.cdn11-okzy.com/20200824/19910_498f0edb/index.m3u8#https://diaoshi.dehua-kuyun.com/20200824/13486_6c6996ee/index.m3u8#https://s3.135-cdn.com/2020/08/24/m4pePzcI6jE9trbB/index.m3u8
 半澤直樹II-05,https://mingxing.xianyongjiu.com/20200817/8866_ebe6ac3c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200816/12473_b024a10d/index.m3u8#https://s3.135-cdn.com/2020/08/17/GjZ7NKBcE9n81xY6/index.m3u8
 半澤直樹II-04,https://mingxing.xianyongjiu.com/20200810/8121_bddeba8d/index.m3u8#https://youku.cdn11-okzy.com/20200810/19455_bddeba8d/index.m3u8#https://diaoshi.dehua-kuyun.com/20200809/11615_7be0cee7/index.m3u8
 半澤直樹II-03,https://mingxing.xianyongjiu.com/20200803/7437_44efdd4d/index.m3u8#https://youku.cdn11-okzy.com/20200803/19211_d88682d4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200802/10713_eecb8292/index.m3u8
 半澤直樹II-02,https://mingxing.xianyongjiu.com/20200727/6670_3136e6a6/index.m3u8#https://youku.cdn11-okzy.com/20200727/19010_3136e6a6/index.m3u8#https://diaoshi.dehua-kuyun.com/20200726/9852_aebeecae/index.m3u8
 半澤直樹II-01,https://mingxing.xianyongjiu.com/20200720/5983_1a8c4da4/index.m3u8#https://youku.cdn3-okzy.com/20200720/11100_1a8c4da4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200719/8752_1130f7cd/index.m3u8
+灰姑娘藥劑師09,https://mingxing.xianyongjiu.com/20200912/11116_18e83a8a/index.m3u8#https://youku.cdn11-okzy.com/20200911/20450_c5d565c5/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15813_a0387d8c/index.m3u8
+灰姑娘藥劑師08,https://mingxing.xianyongjiu.com/20200905/10492_327c7dee/index.m3u8#https://youku.cdn11-okzy.com/20200904/20217_8c6cb470/index.m3u8#https://diaoshi.dehua-kuyun.com/20200904/14851_1d8d8af7/index.m3u8
 灰姑娘藥劑師07,https://mingxing.xianyongjiu.com/20200829/10006_ccf738ed/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14076_86d466c0/index.m3u8#https://e.mahua-kb.com/20200828/pc7MA8fh/index.m3u8
 灰姑娘藥劑師06,https://youku.cdn11-okzy.com/20200821/19855_cfbe8c87/index.m3u8#https://youku.cdn11-okzy.com/20200821/19855_cfbe8c87/index.m3u8#https://diaoshi.dehua-kuyun.com/20200821/13128_3d59ad44/index.m3u8
 灰姑娘藥劑師05,https://mingxing.xianyongjiu.com/20200814/8594_17be58b8/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12180_eb7ea48b/index.m3u8#https://e.mahua-kb.com/20200814/PO62YJR3/index.m3u8
@@ -454,7 +458,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0905,#genre
+霹靂0916,#genre
+天越32,https://cdn-yong.bejingyongjiu.com/20200911/21401_4685847b/index.m3u8#https://iqiyi.cdn9-okzy.com/20200911/15322_4685847b/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15771_c2aacd0d/index.m3u8
+天越31,https://cdn-yong.bejingyongjiu.com/20200911/21400_e2186ceb/index.m3u8#https://iqiyi.cdn9-okzy.com/20200911/15321_e2186ceb/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15772_da3d6353/index.m3u8
 天越30,https://diaoshi.dehua-kuyun.com/20200904/14918_11c09117/index.m3u8
 天越29,https://diaoshi.dehua-kuyun.com/20200904/14917_a33288be/index.m3u8
 天越28,https://cdn-yong.bejingyongjiu.com/20200828/20465_bd66634e/index.m3u8#https://iqiyi.cdn9-okzy.com/20200829/14715_0d81b8a7/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14064_46874da4/index.m3u8
