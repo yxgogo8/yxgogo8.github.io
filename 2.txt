@@ -541,7 +541,13 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0908,#genre#
+輪播0916,#genre#
+第一滴血5,https://bili.meijuzuida.com/20191130/22015_f1f7436d/index.m3u8#https://zy.kuboy-aiqiyi-163.com/20191206/3744_f013b2f5/index.m3u8#https://s1.135-cdn.com/20191123/J1lk8Le0yRqHgWPU/index.m3u8
+第一滴血4,https://cn2.zuidadianying.com/20180126/x1OzipMR/index.m3u8#https://zy.zxziyuan-yun.com/20180306/IesSBMUf/index.m3u8#https://youku.cdn-56.com/20180127/zG5rLGLO/index.m3u8
+第一滴血3,https://leshi.cdn-zuyida.com/20180127/jCt2bh0v/index.m3u8#https://videos.kkyun-iqiyi.com/20171106/832nvhh4/index.m3u8#https://zy.zxziyuan-yun.com/20180306/COw03F2d/index.m3u8
+第一滴血2,https://leshi.cdn-zuyida.com/20180127/ixD25PLw/index.m3u8#https://videos.kkyun-iqiyi.com/20171106/52jwPyP3/index.m3u8#https://zy.zxziyuan-yun.com/20180306/9vpTHTou/index.m3u8
+第一滴血1,https://leshi.cdn-zuyida.com/20180127/mO2ad0Th/index.m3u8#https://vip.okokbo.com/20171223/w3eIqINH/index.m3u8#https://zy.zxziyuan-yun.com/20180306/T4pnCVMR/index.m3u8
+怒火特攻隊,https://leshi.iqiyi-kuyunzy.com/20190327/6468_df5ba8a4/index.m3u8#https://leshi.cdn-zuyida.com/20180511/26063_ab7c2265/index.m3u8
 返校,https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8#https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200118/1401_8ea73f9f/index.m3u8
 粽邪,https://bofang.jingpin88.com/20190221/sX6j1l1m/index.m3u8#https://cn2.zuidadianying.com/20190222/haKdCjfr/index.m3u8#https://135zyv6.xw0371.com/2019/02/24/07Ly2UbpYfUMHO5r/playlist.m3u8
 無雙,https://yj.yongjiu6.com/20190223/RQnWijGw/index.m3u8#https://yangguang.piaohua-kuyun.com/20181221/QnaPuOPS/index.m3u8#https://135zyv6.xw0371.com/2018/12/20/B2N2SUcOof0kaJqd/playlist.m3u8
