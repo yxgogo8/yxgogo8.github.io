@@ -549,6 +549,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 玩命關頭6,https://youku.kuyun-leshi.com/20190225/jQ529bIn/index.m3u8#https://yun.kubozy-youku-163.com/20190615/14992_c5c98b67/index.m3u8#https://ddppnew1.135-cdn.com/20190702/98rhpQYt/index.m3u8
 玩命關頭5,https://video.kkyun-iqiyi.com/20170905/Vl2darGS/index.m3u8#https://yun.kubozy-youku-163.com/20190615/14993_1b5e8123/index.m3u8#https://dbx5.tyswmp.com/20191111/uYskDU7XbdzmHfjN/index.m3u8
 玩命關頭4,https://youku.kuyun-leshi.com/20190225/VIJiTFtk/index.m3u8#https://yushou.qitu-zuida.com/20190123/26480_1d42a870/index.m3u8#https://s1.135-cdn.com/20191111/1MhHgAnb27dsl3YC/index.m3u8
+玩命關頭3,https://vip.okokbo.com/20180114/2FYTWr63/index.m3u8#https://yushou.qitu-zuida.com/20190123/26481_fcc2eb59/index.m3u8#https://youku.kuyun-leshi.com/20190225/IWMaD8K8/index.m3u8
 玩命關頭2,https://vip.okokbo.com/20180105/wrVYoQvb/index.m3u8#https://youku.kuyun-leshi.com/20190225/NxrQHZin/index.m3u8#https://zy.baidu-360-yyy-kubo.com/20171117/3qr5prpS/index.m3u8
 玩命關頭1,https://yushou.qitu-zuida.com/20190123/26483_d588bf67/index.m3u8#https://zy.zxziyuan-yun.com/20180121/kpd7fa1l/index.m3u8#https://youku.kuyun-leshi.com/20190225/MviTVEdU/index.m3u8
 第一滴血5,https://bili.meijuzuida.com/20191130/22015_f1f7436d/index.m3u8#https://zy.kuboy-aiqiyi-163.com/20191206/3744_f013b2f5/index.m3u8#https://s1.135-cdn.com/20191123/J1lk8Le0yRqHgWPU/index.m3u8
