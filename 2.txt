@@ -1248,3 +1248,25 @@ Super One ,http://191.101.44.238/dl/shikan.php?shikan&play&line=tangyuan&vkeys=d
 Prıvate TV,http://http://191.101.44.238/dl/shikan.php?shikan&play&line=tangyuan&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0NTM_
 Passie,http://191.101.44.238/dl/shikan.php?shikan&play&line=tangyuan&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0NjE_
 Vivid Red ,http://191.101.44.238/dl/shikan.php?shikan&play&line=tangyuan&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0NTU_
+TCL旅游,http://153.99.180.70:5021/live/103/playlist.m3u8
+ELTA体育,http://153.99.180.70:5021/live/266/playlist.m3u8
+TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
+東森幼幼,tvbus://3chF4Rr9GUqkiJB2QuW6iWj6VBnciWfYsjJ5UaXxKehdxk76QE
+东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
+东森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
+东森幼幼,vjms://58.215.133.194:8500:3502/live/cid=344
+东森幼幼,p2p://51.79.41.138:18912/5c724866000564111d5255b84de26a1c.ts
+MOMO亲子台,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
+MOMO亲子台,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+MOMO亲子台,p2p://51.79.41.138:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+MOMO亲子台,p2p://51.79.41.138:18912/5d70eb0f000a5e750d0a9659304554ba.ts
+东森电影HD,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片HD,http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+CHC动作电影,http://192.154.103.74:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+东森新闻,http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森电影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片,http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+动物星球,http://live5.ocnttv.com:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+华纳电影,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+好莱坞电影,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
