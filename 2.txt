@@ -550,7 +550,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0918,#genre#
+輪播0922,#genre#
+超危險特工2,https://iqiyi.zuidameiju.com/20200403/14228_53597c65/index.m3u8#https://zy.kubozy-360-baidu.com/20170902/8BBXu3iU/index.m3u8#https://ddppnew1.135-cdn.com/20190405/6qmktySx/950kb/hls/index.m3u8
+超危險特工1,https://youku.cdn5-okzy.com/20200129/12814_c94e0c5c/index.m3u8#https://videos.kkyun-iqiyi.com/20180111/yP1SoTnF/index.m3u8#https://iqiyi.zuidameiju.com/20200403/14231_5fe7c8d1/index.m3u8
 蜘蛛人：返校日https://sohu.com-v-sohu.com/20171005/XHMWjGQI/index.m3u8#https://videos.kkyun-iqiyi.com/20171001/KSjH4H0D/index.m3u8#https://wuji.zhulong-zuida.com/20190912/7981_c0d98637/1000k/hls/index.m3u8
 蜘蛛人：離家日,https://dapian.video-yongjiu.com/20190912/11634_b1fcc590/index.m3u8#https://tianxian.piaohua-kuyun.com/20190911/3451_80479376/index.m3u8#https://dbx5.tyswmp.com/20191109/PpaFqUGer9EubyW4/index.m3u8
 玩命關頭8,https://haitang.kankan-kuyunzy.com/20191120/1169_7ff5f5f7/index.m3u8#https://zy.kubozy-360-baidu.com/20170831/dY1xSKbG/index.m3u8#https://s1.135-cdn.com/20191111/JQXG1lwOKZ4jTBd2/index.m3u8
