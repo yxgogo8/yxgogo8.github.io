@@ -550,7 +550,14 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0922,#genre#
+輪播0925,#genre#
+神鬼傳奇3,https://yingxiong.qiling-yongjiu.com/20191031/12664_32986f52/index.m3u8#https://56.com-t-56.com/20190503/16829_81db7922/index.m3u8#https://dbx6.tyswmp.com/2020/05/06/tmLDos0k7YMlHRi4/index.m3u8
+神鬼傳奇2,https://vs1.baduziyuan.com/20180108/zFM2yywH/index.m3u8#https://mhyunbo.com/20191112/fvCLjTbq/index.m3u8
+神鬼傳奇1,https://vip.okokbo.com/20171226/mhd3aN1o/index.m3u8#https://vs1.baduziyuan.com/20180108/FAcZUztL/index.m3u8#https://bili.meijuzuida.com/20190225/5921_24ebe7e2/index.m3u8
+五路追殺令2,https://youku.cdn-tudou.com/20180427/5507_a433cca4/index.m3u8#https://yangguang.piaohua-kuyun.com/20180923/8tKY67e0/index.m3u8#https://you-cdn.maque-zuida.com/20200104/lPWiZBZW/index.m3u8
+五路追殺令1,https://vip.okokbo.com/20180224/tTfWS0x4/index.m3u8#https://video.kkyun-iqiyi.com/20180922/3itwT8WU/index.m3u8#https://you-cdn.maque-zuida.com/20200104/sp8cmdG7/index.m3u8
+賽道狂人,https://guihua.feifei-kuyun.com/20200106/27848_26fcaefc/index.m3u8#https://yingxiong.qiling-yongjiu.com/20200101/17207_ffda7d0f/index.m3u8#https://meng.wuyou-zuida.com/20200111/25283_0d1ac929/1000k/hls/index.m3u8
+全民超人,https://gaoqing.bibi-baidu.com/20190921/9338_072f905b/index.m3u8#https://sina.com-h-sina.com/20180808/6380_7c478159/index.m3u8#https://youku.kuyun-leshi.com/20190725/ay3hwkEZ/index.m3u8
 超危險特工2,https://iqiyi.zuidameiju.com/20200403/14228_53597c65/index.m3u8#https://zy.kubozy-360-baidu.com/20170902/8BBXu3iU/index.m3u8#https://ddppnew1.135-cdn.com/20190405/6qmktySx/950kb/hls/index.m3u8
 超危險特工1,https://youku.cdn5-okzy.com/20200129/12814_c94e0c5c/index.m3u8#https://videos.kkyun-iqiyi.com/20180111/yP1SoTnF/index.m3u8#https://iqiyi.zuidameiju.com/20200403/14231_5fe7c8d1/index.m3u8
 蜘蛛人：返校日https://sohu.com-v-sohu.com/20171005/XHMWjGQI/index.m3u8#https://videos.kkyun-iqiyi.com/20171001/KSjH4H0D/index.m3u8#https://wuji.zhulong-zuida.com/20190912/7981_c0d98637/1000k/hls/index.m3u8
