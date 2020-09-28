@@ -553,7 +553,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播0925,#genre#
+輪播0928,#genre#
+角頭1,https://iqiyi.zuidameiju.com/20180903/xOlFhh8E/index.m3u8#https://s3.135-cdn.com/2020/09/28/MeR8os47VXn56Ik3/index.m3u8
+角頭2,https://yong.yongjiu6.com/20180811/rRaJMu6A/index.m3u8#https://letv.com-v-letv.com/20180812/7212_0d609170/index.m3u8#https://cn2.zuidadianying.com/20180811/DgeS7Otq/index.m3u8
 神鬼傳奇3,https://yingxiong.qiling-yongjiu.com/20191031/12664_32986f52/index.m3u8#https://56.com-t-56.com/20190503/16829_81db7922/index.m3u8#https://dbx6.tyswmp.com/2020/05/06/tmLDos0k7YMlHRi4/index.m3u8
 神鬼傳奇2,https://vs1.baduziyuan.com/20180108/zFM2yywH/index.m3u8#https://mhyunbo.com/20191112/fvCLjTbq/index.m3u8
 神鬼傳奇1,https://vip.okokbo.com/20171226/mhd3aN1o/index.m3u8#https://vs1.baduziyuan.com/20180108/FAcZUztL/index.m3u8#https://bili.meijuzuida.com/20190225/5921_24ebe7e2/index.m3u8
