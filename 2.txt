@@ -460,14 +460,17 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂0919,#genre
+霹靂0928,#genre
 兵烽決01,https://diaoshi.dehua-kuyun.com/20200918/16549_39d0075f/index.m3u8#https://e.mahua-kb.com/20200918/oNcEuCkn/index.m3u8
 兵烽決02,https://diaoshi.dehua-kuyun.com/20200918/16548_2be4c6e5/1000k/hls/index.m3u8#https://e.mahua-kb.com/20200918/SPfwbFcR/index.m3u8
+兵烽決03,https://you.tube-kuyun.com/20200925/24356_d35ec5f9/index.m3u8
+兵烽決04,https://you.tube-kuyun.com/20200925/24355_96464cbc/1000k/hls/index.m3u8
 蝶龍之亂01,https://diaoshi.dehua-kuyun.com/20200819/12865_fbff23d2/index.m3u8
 蝶龍之亂02,https://you.tube-kuyun.com/20200828/22729_3be7780c/index.m3u8
 蝶龍之亂03,https://diaoshi.dehua-kuyun.com/20200903/14691_1d5f8bab/index.m3u8
 蝶龍之亂04,https://diaoshi.dehua-kuyun.com/20200909/15531_62cb3586/index.m3u8
 蝶龍之亂05,https://diaoshi.dehua-kuyun.com/20200916/16364_4ab0bfd1/1000k/hls/index.m3u8
+蝶龍之亂06,https://diaoshi.dehua-kuyun.com/20200923/17153_97ce7547/1000k/hls/index.m3u8
 天越32,https://cdn-yong.bejingyongjiu.com/20200911/21401_4685847b/index.m3u8#https://iqiyi.cdn9-okzy.com/20200911/15322_4685847b/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15771_c2aacd0d/index.m3u8
 天越31,https://cdn-yong.bejingyongjiu.com/20200911/21400_e2186ceb/index.m3u8#https://iqiyi.cdn9-okzy.com/20200911/15321_e2186ceb/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15772_da3d6353/index.m3u8
 天越30,https://diaoshi.dehua-kuyun.com/20200904/14918_11c09117/index.m3u8
