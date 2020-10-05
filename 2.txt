@@ -1284,3 +1284,56 @@ CHC动作电影,http://192.154.103.74:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 动物星球,http://live5.ocnttv.com:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 华纳电影,http://live5.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 好莱坞电影,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+东森财经新闻[1024*576],http://153.99.180.70:5021/live/456/playlist.m3u8
+年代新闻[1280*720],http://153.99.180.70:5021/live/455/playlist.m3u8
+东森新闻[720*404],http://153.99.180.70:5021/live/340/playlist.m3u8
+非凡新闻[1024*576],http://153.99.180.70:5021/live/443/playlist.m3u8
+纬来戏剧[1024*768],http://153.99.180.70:5021/live/137/playlist.m3u8
+八大第一台[800*600],http://153.99.180.70:5021/live/441/playlist.m3u8
+三立新闻[1024*576],http://153.99.180.70:5021/live/352/playlist.m3u8
+博斯高球[1280*720],http://153.99.180.70:5021/live/265/playlist.m3u8
+法国国际[1280*720],http://153.99.180.70:5021/live/396/playlist.m3u8
+国家地理中文[1280*720],http://153.99.180.70:5021/live/263/playlist.m3u8
+FOX3[1280*720],http://153.99.180.70:5021/live/95/playlist.m3u8
+HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts,mitv://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
+HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts,mitv://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e.ts,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts
+大愛二臺,mitv://fccsovh.pvbox.live:18912/5bdbf3990002e4dcce05866d1e72dfd7.ts,mitv://fccseuro.pvbox.live:18912/5bdbf3990002e4dcce05866d1e72dfd7.ts
+龍華洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
+龍華戲劇,mitv://fccsovh.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf.ts,mitv://fccseuro.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf.ts
+龍華動畫,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee.ts,mitv://fccseuro.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee.ts
+龍華偶像,mitv://fccsovh.pvbox.live:18912/5b14091800012626e4990840ffbdbf3c.ts,mitv://fccseuro.pvbox.live:18912/5b14091800012626e4990840ffbdbf3c.ts
+龍華電影,mitv://fccsovh.pvbox.live:18912/5b140922000d1231db04a3ca4e5816d4.ts,mitv://fccseuro.pvbox.live:18912/5b140922000d1231db04a3ca4e5816d4.ts
+FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOX MOVIES HD,mitv://fccseuro.pvbox.live:18912/5b7267ae000b9c6c6088518783c6367a.ts,mitv://fccsovh.pvbox.live:18912/5b7267ae000b9c6c6088518783c6367a.ts
+FOX PLUS HD,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d7256677e192f2176.ts,mitv://fccseuro.pvbox.live:18912/5b140977000ab01d7256677e192f2176.ts
+FOX家庭,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FOX動作,mitv://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FOX警匪HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FX-HD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts,mitv://fccseuro.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts
+三立戲劇臺,mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b.ts,mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b.ts
+三立綜合,mitv://fccsovh.pvbox.live:18912/5b140917000126426b51b812727ccb82.ts,mitv://fccseuro.pvbox.live:18912/5b140917000126426b51b812727ccb82.ts
+非凡商业HD,mitv://fccsovh.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6.ts,mitv://fccseuro.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6.ts
+非凡新聞,mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871.ts,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c820d7758a53c8bdd.ts,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc1d57c8bd53377361.ts,mitv://fccseuro.pvbox.live:18912/5c2dd766000ecf4afbbc524f35790871.ts
+衛視電影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8.ts,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc36b95a967eb896e8.ts,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b611d57d8da587f1c48.ts,mitv://fccsovh.pvbox.live:18912/5c2dd76a000ca614e383e2e7ea78ddd8.ts
+東森電影,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+偉來電影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9.ts,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
+HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+東森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts,mitv://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+好萊塢電影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts,mitv://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1.ts,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts,mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5.ts,mitv://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5.ts
+FOX SPORTS HD,mitv://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts,mitv://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts
+FOX SPORTS 2,mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts,mitv://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
+緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts,mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts,mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts,mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts,mitv://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
+偉來日本,mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts,mitv://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts,mitv://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
+國興衛視,mitv://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts,mitv://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts
+CN卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts,mitv://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+東森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts,mitv://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c.ts,mitv://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts
+緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts,mitv://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
+八大第壹,mitv://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts,mitv://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts
+八大綜合,mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts,http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,mitv://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
+三立臺灣,mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts,mitv://fccsovh.pvbox.live:18912/5b1409f100088a843e552539cfdf3021.ts,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb.ts
+三立都會,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts,mitv://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts,mitv://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts,mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
+衛視中文臺,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+東森綜合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91bffeddd699ca35ed0.ts,mitv://fccseuro.pvbox.live:18912/5c724877000e7b2d1d529a721b487255.ts,mitv://fccseuro.pvbox.live:18912/5b1409f1000dc91bffeddd699ca35ed0.ts
+靖天育樂,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b.ts,mitv://fccseuro.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b.ts
