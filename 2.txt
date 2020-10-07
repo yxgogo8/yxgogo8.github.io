@@ -409,7 +409,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城0917,#genre#
+影城1007,#genre#
+急先鋒 TC,https://youku.cdn7-okzy.com/20201002/20948_d5456296/index.m3u8
+我是大哥大!劇場版,https://youku.cdn1-kubozy.com/20201002/182_2065e600/index.m3u8
 *魔鬼對決,https://mingxing.xianyongjiu.com/20200910/10958_3ce2063d/index.m3u8#https://youku.cdn7-okzy.com/20200910/20698_6101eadc/index.m3u8#https://s3.135-cdn.com/2020/09/09/JzIjXt5bhD4q6T0l/index.m3u8
 奇門遁甲2020,https://cdn-yong.bejingyongjiu.com/20200319/6704_eab73887/index.m3u8#https://youku.cdn7-okzy.com/20200319/17937_eab73887/index.m3u8#https://you.tube-kuyun.com/20200319/5711_6603c65d/index.m3u8
 *天能,https://youku.cdn7-okzy.com/20200904/20632_9440c3ae/index.m3u8
@@ -473,7 +475,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 蝶龍之亂04,https://diaoshi.dehua-kuyun.com/20200909/15531_62cb3586/index.m3u8
 蝶龍之亂05,https://diaoshi.dehua-kuyun.com/20200916/16364_4ab0bfd1/1000k/hls/index.m3u8
 蝶龍之亂06,https://diaoshi.dehua-kuyun.com/20200923/17153_97ce7547/1000k/hls/index.m3u8
-蝶龍之亂07https://diaoshi.dehua-kuyun.com/20200930/17870_f1f5094c/1000k/hls/index.m3u8
+蝶龍之亂07,https://diaoshi.dehua-kuyun.com/20200930/17870_f1f5094c/1000k/hls/index.m3u8
 天越32,https://cdn-yong.bejingyongjiu.com/20200911/21401_4685847b/index.m3u8#https://iqiyi.cdn9-okzy.com/20200911/15322_4685847b/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15771_c2aacd0d/index.m3u8
 天越31,https://cdn-yong.bejingyongjiu.com/20200911/21400_e2186ceb/index.m3u8#https://iqiyi.cdn9-okzy.com/20200911/15321_e2186ceb/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15772_da3d6353/index.m3u8
 天越30,https://diaoshi.dehua-kuyun.com/20200904/14918_11c09117/index.m3u8
