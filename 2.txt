@@ -410,23 +410,24 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城1007,#genre#
+影城1014,#genre#
+*奪命守門人,https://s3.135-cdn.com/2020/10/06/8JcYPIwHugrWMyRz/index.m3u8#https://a.mhqiyi.com/20201007/vfHt7xJK/index.m3u8#https://dbx7.tyswmp.com/2020/10/06/GnhjKDMsp1VQuIb5/index.m3u8
 急先鋒 TC,https://youku.cdn7-okzy.com/20201002/20948_d5456296/index.m3u8
 我是大哥大!劇場版,https://youku.cdn1-kubozy.com/20201002/182_2065e600/index.m3u8
-*魔鬼對決,https://mingxing.xianyongjiu.com/20200910/10958_3ce2063d/index.m3u8#https://youku.cdn7-okzy.com/20200910/20698_6101eadc/index.m3u8#https://s3.135-cdn.com/2020/09/09/JzIjXt5bhD4q6T0l/index.m3u8
+魔鬼對決,https://mingxing.xianyongjiu.com/20200910/10958_3ce2063d/index.m3u8#https://youku.cdn7-okzy.com/20200910/20698_6101eadc/index.m3u8#https://s3.135-cdn.com/2020/09/09/JzIjXt5bhD4q6T0l/index.m3u8
 奇門遁甲2020,https://cdn-yong.bejingyongjiu.com/20200319/6704_eab73887/index.m3u8#https://youku.cdn7-okzy.com/20200319/17937_eab73887/index.m3u8#https://you.tube-kuyun.com/20200319/5711_6603c65d/index.m3u8
-*天能,https://youku.cdn7-okzy.com/20200904/20632_9440c3ae/index.m3u8
-*阿公當家,https://s3.135-cdn.com/2020/08/29/buTzM8pHOC9xvEaW/index.m3u8
-*花木蘭,https://youku.cdn7-okzy.com/20200904/20640_2ade4805/index.m3u8#https://diaoshi.dehua-kuyun.com/20200904/14878_4ad389ad/index.m3u8#https://e.mahua-kb.com/20200904/xXVccq42/index.m3u8
-*怪物先生,https://douban.donghongzuida.com/20200818/7673_aa2bfa7a/index.m3u8#https://56.com-zx-56.com/20200818/15086_3d3dd430/index.m3u8#https://youku.cdn7-okzy.com/20200818/20501_626b8d3d/index.m3u8
-*淒厲人僧2,https://diaoshi.dehua-kuyun.com/20200901/14517_3b3ccbc5/index.m3u8#https://e.mahua-kb.com/20200901/PQMwpbwq/index.m3u8
-*數碼寶貝-羈絆,https://zy.kubozy-qq-360-sogou.com/20200727/9877_734ac155/index.m3u8#https://e.mahua-kb.com/20200831/lubTwNGO/index.m3u8#https://youku.cdn7-okzy.com/20200728/20367_a3bc8b22/index.m3u8
-*賭博默示錄：最終遊戲,https://cdn-yong.bejingyongjiu.com/20200716/17189_5c2cb6a6/index.m3u8#https://d.mahua-kb.com/20200716/9iby88Y3/index.m3u8#https://you.tube-kuyun.com/20200719/19348_546d1151/index.m3u8
-*綁票追殺令,https://iqiyi.cdn27-okzy.com/20200826/7406_5f7cae76/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14026_94414826/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200826/8374_c5d63847/index.m3u8
-*重裝救援：全境獵殺,https://iqiyi.cdn27-okzy.com/20200822/7329_d100128c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200823/13413_fc7926f8/index.m3u8#https://e.mahua-kb.com/20200823/BcEPfKUQ/index.m3u8
-*屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200824/20145_dd345b93/index.m3u8#https://youku.cdn7-okzy.com/20200825/20552_f0b6df96/index.m3u8#https://s3.135-cdn.com/2020/08/25/Y2h9GwpMCtnEaRfy/index.m3u8
-*八佰,https://mingxing.xianyongjiu.com/20200820/9212_deb63a50/index.m3u8#https://youku.cdn7-okzy.com/20200820/20513_6741611c/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8
-*追殺艾娃 Ava,https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8#https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8
+天能,https://youku.cdn7-okzy.com/20200904/20632_9440c3ae/index.m3u8
+阿公當家,https://s3.135-cdn.com/2020/08/29/buTzM8pHOC9xvEaW/index.m3u8
+花木蘭,https://youku.cdn7-okzy.com/20200904/20640_2ade4805/index.m3u8#https://diaoshi.dehua-kuyun.com/20200904/14878_4ad389ad/index.m3u8#https://e.mahua-kb.com/20200904/xXVccq42/index.m3u8
+怪物先生,https://douban.donghongzuida.com/20200818/7673_aa2bfa7a/index.m3u8#https://56.com-zx-56.com/20200818/15086_3d3dd430/index.m3u8#https://youku.cdn7-okzy.com/20200818/20501_626b8d3d/index.m3u8
+淒厲人僧2,https://diaoshi.dehua-kuyun.com/20200901/14517_3b3ccbc5/index.m3u8#https://e.mahua-kb.com/20200901/PQMwpbwq/index.m3u8
+數碼寶貝-羈絆,https://zy.kubozy-qq-360-sogou.com/20200727/9877_734ac155/index.m3u8#https://e.mahua-kb.com/20200831/lubTwNGO/index.m3u8#https://youku.cdn7-okzy.com/20200728/20367_a3bc8b22/index.m3u8
+賭博默示錄：最終遊戲,https://cdn-yong.bejingyongjiu.com/20200716/17189_5c2cb6a6/index.m3u8#https://d.mahua-kb.com/20200716/9iby88Y3/index.m3u8#https://you.tube-kuyun.com/20200719/19348_546d1151/index.m3u8
+綁票追殺令,https://iqiyi.cdn27-okzy.com/20200826/7406_5f7cae76/1000k/hls/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14026_94414826/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200826/8374_c5d63847/index.m3u8
+重裝救援：全境獵殺,https://iqiyi.cdn27-okzy.com/20200822/7329_d100128c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200823/13413_fc7926f8/index.m3u8#https://e.mahua-kb.com/20200823/BcEPfKUQ/index.m3u8
+屍速列車2感染半島,https://cdn-yong.bejingyongjiu.com/20200824/20145_dd345b93/index.m3u8#https://youku.cdn7-okzy.com/20200825/20552_f0b6df96/index.m3u8#https://s3.135-cdn.com/2020/08/25/Y2h9GwpMCtnEaRfy/index.m3u8
+八佰,https://mingxing.xianyongjiu.com/20200820/9212_deb63a50/index.m3u8#https://youku.cdn7-okzy.com/20200820/20513_6741611c/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8#https://e.mahua-kb.com/20200820/RL1lAcLJ/index.m3u8
+追殺艾娃 Ava,https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8#https://iqiyi.cdn27-okzy.com/20200821/7309_027d4348/index.m3u8
 鐵雨2：首腦峯會,https://s3.135-cdn.com/2020/08/20/Y9FXSihM07K4W25z/index.m3u8#https://youku.cdn7-okzy.com/20200820/20512_3241bf7a/index.m3u8#https://diaoshi.dehua-kuyun.com/20200819/12790_ddf7dee0/index.m3u8
 寄生異形,https://douban.donghongzuida.com/20200817/7571_fb8310b0/index.m3u8
 超能計劃,https://cdn-yong.bejingyongjiu.com/20200814/19329_f724cd5b/index.m3u8#https://youku.cdn7-okzy.com/20200814/20466_242b9844/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12134_065689d4/index.m3u8
