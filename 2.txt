@@ -464,7 +464,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂1013,#genre#
+霹靂1019,#genre#
 兵烽決01,https://diaoshi.dehua-kuyun.com/20200918/16549_39d0075f/index.m3u8#https://e.mahua-kb.com/20200918/oNcEuCkn/index.m3u8
 兵烽決02,https://diaoshi.dehua-kuyun.com/20200918/16548_2be4c6e5/1000k/hls/index.m3u8#https://e.mahua-kb.com/20200918/SPfwbFcR/index.m3u8
 兵烽決03,https://you.tube-kuyun.com/20200925/24356_d35ec5f9/index.m3u8
