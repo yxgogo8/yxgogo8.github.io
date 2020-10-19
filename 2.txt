@@ -256,16 +256,20 @@ PPTV,http://183.182.100.184/live/pptvthai/playlist.m3u8
 Thai PBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 GMA Pinoy,http://164.40.161.43:10011
 
-越南0819,#genre#
+越南1019,#genre#
 VTV1,https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 VTV2,https://livecdn.fptplay.net/hda/vtv2_hls.smil/playlist.m3u8
 VTV3,https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/playlist.m3u8
 VTV4,https://livecdn.fptplay.net/hda/vtv4_hls.smil/playlist.m3u8
 VTV5,https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/playlist.m3u8
+*VTV5 HD,http://220.158.149.28:8180/live/TV00000000000000000111@HHZT
+*VTV6,http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
 VTV6,https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/playlist.m3u8
 VTV7,https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/playlist.m3u8
 VTV8,https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 VTV9,https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
+*VTV9 HD,http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
+*Hà Nội 2 HD,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
 ANTG,http://vietcago.net/vstv/antg.m3u8
 AnVien,http://vietcago.net/vstv/anvien.m3u8
 ARIANG HD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
