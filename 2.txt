@@ -365,9 +365,9 @@ KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 KonTumTV,http://www.vietcago.net/vstv/kontumtv.m3u8
 KonTumTV,http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 
-YT直播0905,#genre#
+YT直播1020,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
-東森新聞,https://gogohaha.000webhostapp.com/?id=RaIJ767Bj_M
+東森新聞,https://gogohaha.000webhostapp.com/?id=63RmMXCd_bQ
 中天新聞,https://gogohaha.000webhostapp.com/?id=wUPPkSANpyo
 三立LIVE新聞,https://gogohaha.000webhostapp.com/?id=4ZVUmEUFwaY
 三立iNEWS,https://gogohaha.000webhostapp.com/?id=dTi2EGBZ_nU
