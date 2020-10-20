@@ -414,7 +414,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城1014,#genre#
+影城1020,#genre#
+*麥路人,https://diaoshi.dehua-kuyun.com/20201013/19507_dc7217ac/index.m3u8#https://youku.cdn7-okzy.com/20201013/21066_e5f64a15/index.m3u8
+*整容液,https://diaoshi.dehua-kuyun.com/20201019/20398_ad3fb890/index.m3u8
 *奪命守門人,https://s3.135-cdn.com/2020/10/06/8JcYPIwHugrWMyRz/index.m3u8#https://a.mhqiyi.com/20201007/vfHt7xJK/index.m3u8#https://dbx7.tyswmp.com/2020/10/06/GnhjKDMsp1VQuIb5/index.m3u8
 急先鋒 TC,https://youku.cdn7-okzy.com/20201002/20948_d5456296/index.m3u8
 我是大哥大!劇場版,https://youku.cdn1-kubozy.com/20201002/182_2065e600/index.m3u8
