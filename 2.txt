@@ -415,6 +415,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
 影城1101,#genre#
+*女巫們,https://youku.cdn7-okzy.com/20201025/21204_5be3af8c/index.m3u8#https://diaoshi.dehua-kuyun.com/20201024/21099_3264d53f/1000k/hls/index.m3u8
 *超危險駕駛,https://yuledy.helanzuida.com/20201021/13084_352bc441/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201021/24199_6f0ca845/index.m3u8
 *麥路人,https://diaoshi.dehua-kuyun.com/20201013/19507_dc7217ac/index.m3u8#https://youku.cdn7-okzy.com/20201013/21066_e5f64a15/index.m3u8
 *整容液,https://diaoshi.dehua-kuyun.com/20201019/20398_ad3fb890/index.m3u8
