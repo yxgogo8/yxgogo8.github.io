@@ -585,6 +585,11 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播1107,#genre#
+終極警探4,https://vip.okokbo.com/20171227/wIqcr33b/index.m3u8#https://yushou.qitu-zuida.com/20180209/zfUn3NCc/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/7Qe8vptN/index.m3u8
+終極警探3,https://vip.okokbo.com/20171223/gcevj6nO/index.m3u8#https://wanmei.xiaocong-zuida.com/20180209/ZUs6mZZN/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/OY7mSJ4m/index.m3u8
+終極警探2,https://vip.okokbo.com/20171226/Yv1DeXsd/index.m3u8#https://wanmei.xiaocong-zuida.com/20180209/feaogOmw/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/NoHP6Mda/index.m3u8
+終極警探1,https://vip.okokbo.com/20171224/OQdIpbCJ/index.m3u8#https://yushou.qitu-zuida.com/20180209/KgEC5e2j/index.m3u8#https://v4.szjal.cn/20200522/5nCbPxYz/index.m3u8
+刺客聯盟,https://vip888.kuyun99.com/20180523/VyksiBnP/index.m3u8#https://leshi.cdn-zuyida.com/20180510/25996_d8a7ac88/index.m3u8
 搶救雷恩大兵,https://video.kkyun-iqiyi.com/20180820/IOZG5vDl/index.m3u8#https://vip.okokbo.com/20171213/GH1FE79D/index.m3u8#https://wanmei.xiaocong-zuida.com/20180724/UwB3slnN/index.m3u8
 一路玩到掛,https://youku.kuyun-leshi.com/20190225/grUbCqeV/index.m3u8#https://vip.okokbo.com/20171214/FTDigWJ1/index.m3u8#https://bili.meijuzuida.com/20191019/21680_a847eddb/index.m3u8
 回到未來3,https://yangguang.piaohua-kuyun.com/20180907/jgYkyKPN/index.m3u8#https://vip.okokbo.com/20171217/6HOxP8rF/index.m3u8
