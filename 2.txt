@@ -414,7 +414,10 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城1101,#genre#
+影城1107,#genre#
+*天才少女福爾摩斯,https://youku.cdn7-okzy.com/20200923/20855_54a6c7d0/index.m3u8#https://diaoshi.dehua-kuyun.com/20200923/17117_4c2c398c/index.m3u8
+*驚天營救,https://you.tube-kuyun.com/20200424/10861_c6b00d2d/index.m3u8#https://youku.cdn7-okzy.com/20200424/18976_e9fb12d6/index.m3u8
+*打噴嚏,https://diaoshi.dehua-kuyun.com/20201014/19680_4e5e01f3/index.m3u8#https://youku.cdn7-okzy.com/20201015/21084_ee8ee443/index.m3u8
 *女巫們,https://youku.cdn7-okzy.com/20201025/21204_5be3af8c/index.m3u8#https://diaoshi.dehua-kuyun.com/20201024/21099_3264d53f/1000k/hls/index.m3u8
 *超危險駕駛,https://yuledy.helanzuida.com/20201021/13084_352bc441/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201021/24199_6f0ca845/index.m3u8
 *麥路人,https://diaoshi.dehua-kuyun.com/20201013/19507_dc7217ac/index.m3u8#https://youku.cdn7-okzy.com/20201013/21066_e5f64a15/index.m3u8
@@ -472,7 +475,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂1101,#genre#
+霹靂1107,#genre#
 兵烽決01,https://diaoshi.dehua-kuyun.com/20200918/16549_39d0075f/index.m3u8#https://e.mahua-kb.com/20200918/oNcEuCkn/index.m3u8
 兵烽決02,https://diaoshi.dehua-kuyun.com/20200918/16548_2be4c6e5/1000k/hls/index.m3u8#https://e.mahua-kb.com/20200918/SPfwbFcR/index.m3u8
 兵烽決03,https://you.tube-kuyun.com/20200925/24356_d35ec5f9/index.m3u8
@@ -485,6 +488,10 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 兵烽決10,https://diaoshi.dehua-kuyun.com/20201016/19940_08ec9df5/index.m3u8#https://iqiyi.cdn9-okzy.com/20201017/16825_a417339a/index.m3u8
 兵烽決11,https://diaoshi.dehua-kuyun.com/20201023/20958_1e46652d/index.m3u8#https://v5.szjal.cn/20201023/5zYVeM4a/index.m3u8
 兵烽決12,https://v5.szjal.cn/20201023/Edu6nik7/index.m3u8#https://diaoshi.dehua-kuyun.com/20201023/20957_3ffc9d58/index.m3u8
+兵烽決13,https://diaoshi.dehua-kuyun.com/20201030/21772_c3f6f9f4/index.m3u8#https://iqiyi.cdn9-okzy.com/20201031/17466_9bdaad54/index.m3u8
+兵烽決14,https://diaoshi.dehua-kuyun.com/20201030/21771_a824cd84/index.m3u8#https://iqiyi.cdn9-okzy.com/20201031/17467_60255c4b/index.m3u8
+兵烽決15,https://diaoshi.dehua-kuyun.com/20201106/22667_e46b4282/index.m3u8#https://b.mhqiyi.com/20201106/MGvOT2Oe/index.m3u8
+兵烽決16,https://diaoshi.dehua-kuyun.com/20201106/22666_a6330414/index.m3u8#https://b.mhqiyi.com/20201106/7Jrf5Yh4/index.m3u8
 蝶龍之亂01,https://diaoshi.dehua-kuyun.com/20200819/12865_fbff23d2/index.m3u8
 蝶龍之亂02,https://you.tube-kuyun.com/20200828/22729_3be7780c/index.m3u8
 蝶龍之亂03,https://diaoshi.dehua-kuyun.com/20200903/14691_1d5f8bab/index.m3u8
