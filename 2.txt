@@ -415,6 +415,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
 影城1109,#genre#
+*收屍人,https://youku.cdn7-okzy.com/20201104/21332_b1029e73/index.m3u8#
 *變種人tc,https://v5.szjal.cn/20201011/QP0CiNHe/index.m3u8
 *鎖命佈局,https://yuledy.helanzuida.com/20200515/4105_15adba67/index.m3u8#https://youku.cdn7-okzy.com/20200515/19473_7dc52607/index.m3u8
 *阿比阿弟尋歌大冒險,https://xigua-cdn.haima-zuida.com/20201024/16083_77f06fd4/index.m3u8#https://youku.cdn7-okzy.com/20201029/21261_fe208dbe/index.m3u8
