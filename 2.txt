@@ -414,7 +414,10 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城1111,#genre#
+影城1116,#genre#
+*愛麗絲與夢幻島BD,https://iqiyi.cdn27-okzy.com/20201113/7854_01df3f50/index.m3u8
+*急先鋒HD,https://youku.cdn7-okzy.com/20201112/21447_22e21b47/index.m3u8#https://mingxing.xianyongjiu.com/20201114/17148_07c7322d/index.m3u8
+*鈴兒響叮當,https://dalao.wahaha-kuyun.com/20201113/85_a269a87a/index.m3u8#https://mingxing.xianyongjiu.com/20201113/17115_4f21542d/index.m3u8#https://yuledy.helanzuida.com/20201113/14599_fca3d5c1/index.m3u8
 *碧藍之海劇場版,https://youku.cdn7-okzy.com/20201106/21358_a173788d/index.m3u8#https://douban.donghongzuida.com/20201111/12344_6fe36327/index.m3u8
 *收屍人,https://youku.cdn7-okzy.com/20201104/21332_b1029e73/index.m3u8#
 *變種人tc,https://v5.szjal.cn/20201011/QP0CiNHe/index.m3u8
@@ -589,7 +592,14 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1107,#genre#
+輪播1116,#genre#
+與龍共舞,https://vip.let-kuyun.com/20190220/zNjcrBqQ/index.m3u8#https://sina.com-h-sina.com/20180730/2356_7d8d07e5/index.m3u8#https://yi.jingdianzuida.com/20190910/sk8Bw4fv/index.m3u8
+愛是您·愛是我,https://youku.com-kubozy.com/20180327/pECwMf1v/index.m3u8#https://vip.okokbo.com/20171217/CCPvkY1e/index.m3u8
+去年聖誕節,https://tudou.diediao-kuyun.com/20200204/11004_0e079ce8/index.m3u8#https://youku.cdn7-okzy.com/20200122/16796_3fef0dfb/index.m3u8#https://v3.szjal.cn/20200119/nNHZkb2g/index.m3u8
+畫皮1,https://videos.kkyun-iqiyi.com/20180109/UXnc303C/index.m3u8#https://youku.com-youku.com/20171228/F6OLOdSB/index.m3u8#https://yi.jingdianzuida.com/20190908/m0SFvWD3/index.m3u8
+畫皮2,https://videos.kkyun-iqiyi.com/20180109/YvDZ7BQd/index.m3u8#https://youku.cdn2-youku.com/20180424/10722_c7dc491f/index.m3u8#https://iqiyi.zuidameiju.com/20200406/14387_6afed670/index.m3u8
+天才的禮物,https://youku.com-t-youku.com/20190316/8844_d7327392/index.m3u8#https://videos.kkyun-iqiyi.com/20170926/0djCTF1W/index.m3u8
+肅殺刑者,https://youku.cdn5-okzy.com/20200510/23821_25b58a1d/index.m3u8#https://youku.cdn1-kubozy.com/20201025/4278_73ced415/index.m3u8
 終極警探4,https://vip.okokbo.com/20171227/wIqcr33b/index.m3u8#https://yushou.qitu-zuida.com/20180209/zfUn3NCc/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/7Qe8vptN/index.m3u8
 終極警探3,https://vip.okokbo.com/20171223/gcevj6nO/index.m3u8#https://wanmei.xiaocong-zuida.com/20180209/ZUs6mZZN/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/OY7mSJ4m/index.m3u8
 終極警探2,https://vip.okokbo.com/20171226/Yv1DeXsd/index.m3u8#https://wanmei.xiaocong-zuida.com/20180209/feaogOmw/index.m3u8#https://videos.kkyun-iqiyi.com/20171009/NoHP6Mda/index.m3u8
