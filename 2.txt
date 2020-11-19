@@ -416,6 +416,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
 影城1119,#genre#
+*海霧HD,https://diaoshi.dehua-kuyun.com/20201003/18274_d0f2fadc/index.m3u8#https://mingxing.xianyongjiu.com/20201003/13097_1939b841/index.m3u8#https://v5.szjal.cn/20201004/DlAUbOfH/index.m3u8
 *死因無可疑HD,https://you.tube-kuyun.com/20201104/28009_e54f1479/index.m3u8#https://douban.donghongzuida.com/20201108/12211_95c3a87e/index.m3u8
 *地獄通話,https://you.tube-kuyun.com/20201109/28433_e9321d74/index.m3u8#https://youku.cdn30-okzy.com/20201116/1852_e5d4fe9d/index.m3u8#https://xigua-cdn.haima-zuida.com/20201109/16642_7916ac37/index.m3u8
 *愛麗絲與夢幻島BD,https://iqiyi.cdn27-okzy.com/20201113/7854_01df3f50/index.m3u8
