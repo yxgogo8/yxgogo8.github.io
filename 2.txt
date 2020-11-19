@@ -77,8 +77,9 @@ HBO原创,vjms://58.215.133.184:8500:3502/live/cid=436
 -----,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
 AXN電影,vjms://58.215.133.184:8500:3502/live/cid=2#vjms://23.237.115.18:8500:3502/live/cid=2#http://106.54.30.243/gz009/gz.php?id=axn#vjms://58.215.133.185:8500:3502/live/cid=2
 华纳电视,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8#http://cdn.zbbh.xyz:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8#mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
------,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
------,http://125.227.210.37:30834/VideoInput/play.ts
+*鳳凰衛視香港台,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
+*鳳凰資訊,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
+*鳳凰衛視中文台,http://220.158.149.28:8180/TV00000000000000000067@HHZT;LIVE
 衛視電影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 CHC家庭影院,http://125.210.152.21:9120/live/JTYYHD.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCFM_1.m3u8?123#rtmp://58.200.131.2:1935/livetv/chctv#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8#https://www.fanmingming.cn/hls/chctv.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://cbnlive.cbchot.com/live/CHCAM_1.m3u8?123#http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://suo.im/6h3Jaf#rtmp://58.200.131.2:1935/livetv/chcatv#https://www.fanmingming.cn/hls/chcatv.m3u8
