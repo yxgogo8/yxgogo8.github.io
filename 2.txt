@@ -416,7 +416,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城1119,#genre#
+影城1123,#genre#
+*天劫倒數,https://v5.szjal.cn/20201115/xV9aEanM/index.m3u8
 *海霧HD,https://diaoshi.dehua-kuyun.com/20201003/18274_d0f2fadc/index.m3u8#https://mingxing.xianyongjiu.com/20201003/13097_1939b841/index.m3u8#https://v5.szjal.cn/20201004/DlAUbOfH/index.m3u8
 *死因無可疑HD,https://you.tube-kuyun.com/20201104/28009_e54f1479/index.m3u8#https://douban.donghongzuida.com/20201108/12211_95c3a87e/index.m3u8
 *地獄通話,https://you.tube-kuyun.com/20201109/28433_e9321d74/index.m3u8#https://youku.cdn30-okzy.com/20201116/1852_e5d4fe9d/index.m3u8#https://xigua-cdn.haima-zuida.com/20201109/16642_7916ac37/index.m3u8
@@ -599,7 +600,29 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1116,#genre#
+輪播1123,#genre#
+愛.重來,https://iqiyi.zuidameiju.com/20200304/13178_db4ca114/index.m3u8
+自殺突擊隊,https://leshi.cdn-zuyida.com/20170905/xa9Grga7/index.m3u8#https://vs1.baduziyuan.com/20180106/Lm43OiYx/index.m3u8#https://youku.cdn-2-okzy.com/20180209/fkKt5AIH/index.m3u8
+私刑教育1,https://haoa.haozuida.com/20180514/zmZvrg9d/index.m3u8#https://youku.cdn7-okzy.com/20200525/19711_0e8c77d8/index.m3u8#https://v4.szjal.cn/20200311/iZN74bGm/index.m3u8
+私刑教育2,https://v2.szjal.cn/20190706/VWX23SOj/index.m3u8#https://sohu.com-v-sohu.com/20181031/13957_57d141eb/index.m3u8#https://iqiyi.zuidameiju.com/20181204/QNDVrKfL/index.m3u8
+神力女超人,https://v3.szjal.cn/20191102/cyqDGqDo/index.m3u8#https://haitang.kankan-kuyunzy.com/20191116/189_886788f2/index.m3u8#https://sohu.com-v-sohu.com/20170908/1GlPcj2V/index.m3u8
+靈異第六感,https://vip.okokbo.com/20180320/CqbtegfM/index.m3u8#https://bili.meijuzuida.com/20191017/21668_11862fdd/index.m3u8
+返校,https://mudan.iii-kuyunzy.com/20200119/9961_35bc65dc/index.m3u8#https://youku.cdn7-okzy.com/20200117/16696_31294d1a/index.m3u8#https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8
+鬼修女,https://video.kkyun-iqiyi.com/20181121/beILjkMd/index.m3u8#https://haoa.haozuida.com/20181121/GDB8xTg3/index.m3u8
+劍雨,https://youku.cdn-tudou.com/20180523/6093_786c9030/index.m3u8#https://cdn-yong.bejingyongjiu.com/20200322/7078_962dae9c/index.m3u8#https://wuji.zhulong-zuida.com/20190726/2754_a5e5eefd/index.m3u8
+環太平洋1,https://video.kkyun-iqiyi.com/20180313/mXCRBdMq/index.m3u8#https://v3.szjal.cn/20191103/BpXKb3b3/index.m3u8
+環太平洋2,https://v5.szjal.cn/20200824/57ME0drB/index.m3u8#https://v3.szjal.cn/20191105/UheJjXbI/index.m3u8
+國家寶藏1,https://hair.jingpin88.com/20171027/AEqoQ9Il/index.m3u8#https://video.kkyun-iqiyi.com/20181210/bbiws5nQ/index.m3u8#https://zuixin.zuixinbo.com/20171107/8wQ8rUhK/index.m3u8
+國家寶藏2,https://zy.kubo-360-tudou.com/20180915/19441_84322596/index.m3u8#https://zuixin.zuixinbo.com/20171111/dXNaC6to/index.m3u8
+愛情藥不藥,https://vs1.baduziyuan.com/20171125/gB9PfvGH/index.m3u8#https://vip.okokbo.com/20180111/P3pkdGRn/index.m3u8#https://gaoqing.bibi-baidu.com/20191013/11496_296be514/index.m3u8
+怒火狂飆,http://yushou.qitu-zuida.com/20180503/4597_63b377b4/index.m3u8
+頭號玩家,https://v2.yongjiujiexi.com/20180618/dhYgjaHS/index.m3u8#https://video.kkyun-iqiyi.com/20180618/ArqVNfRA/index.m3u8#https://yushou.qitu-zuida.com/20180617/7655_9a686516/index.m3u8
+鋼鐵擂台,https://sina.com-h-sina.com/20180816/10418_735b95d1/index.m3u8#https://yangguang.piaohua-kuyun.com/20180910/zQFJ2Eh1/index.m3u8#https://bili.meijuzuida.com/20191006/21597_6816cf09/index.m3u8
+雷神索爾1,https://videos.kkyun-iqiyi.com/20180107/QBtfTICv/index.m3u8
+雷神索爾2,https://videos.kkyun-iqiyi.com/20180107/MIzjbD19/index.m3u8#https://vip.okokbo.com/20171230/i9cKN1m9/index.m3u8
+雷神索爾3,https://yj.yongjiu6.com/20180121/YsLpWyXJ/index.m3u8#https://haoa.haozuida.com/20180121/SNnb3G93/index.m3u8#https://youku.cdn-56.com/20180121/NyAC6v4i/index.m3u8
+穿越時空愛上你,https://bilibili.com-l-163.com/20181101/17516_03917a90/index.m3u8#https://v4.szjal.cn/20200608/R1KCI0l9/index.m3u8
+明日邊界,https://vip.let-kuyun.com/20180627/r2dLe6r4/index.m3u8#https://vip.okokbo.com/20171220/AqxgBvUc/index.m3u8#https://v3.yongjiujiexi.com/20190331/2pE1S7sZ/index.m3u8
 死侍1,https://leshi.cdn-zuyida.com/20170829/t8yT9AWo/index.m3u8#https://v4.szjal.cn/20200819/ZZdbyJdu/index.m3u8#https://video.kkyun-iqiyi.com/20180521/1dOJntiZ/index.m3u8
 死侍2,https://youku.cdn-2-okzy.com/20190125/21294_36849822/index.m3u8#https://v2.yongjiujiexi.com/20180726/Owc9aIhb/index.m3u8#https://yushou.qitu-zuida.com/20180807/11155_e04059f2/index.m3u8
 與龍共舞,https://vip.let-kuyun.com/20190220/zNjcrBqQ/index.m3u8#https://sina.com-h-sina.com/20180730/2356_7d8d07e5/index.m3u8#https://yi.jingdianzuida.com/20190910/sk8Bw4fv/index.m3u8
