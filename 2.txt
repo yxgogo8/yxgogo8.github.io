@@ -416,7 +416,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
 灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
 
-影城1123,#genre#
+影城1126,#genre#
+*菜英文沒在怕HD,https://meinv.jingyu-zuida.com/20201126/13850_0382100c/index.m3u8#https://you.tube-kuyun.com/20201125/29959_d82a70da/index.m3u8
 *天劫倒數,https://v5.szjal.cn/20201115/xV9aEanM/index.m3u8
 *海霧HD,https://diaoshi.dehua-kuyun.com/20201003/18274_d0f2fadc/index.m3u8#https://mingxing.xianyongjiu.com/20201003/13097_1939b841/index.m3u8#https://v5.szjal.cn/20201004/DlAUbOfH/index.m3u8
 *死因無可疑HD,https://you.tube-kuyun.com/20201104/28009_e54f1479/index.m3u8#https://douban.donghongzuida.com/20201108/12211_95c3a87e/index.m3u8
