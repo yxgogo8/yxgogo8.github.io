@@ -1,4 +1,4 @@
-台灣1119,#genre#
+台灣1126,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,http://p06.iptv2asia.com:18888/http/020#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
@@ -6,8 +6,8 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#http://153.99.180.70:5021/live/450/playlist.m3u8#vjms://58.215.133.185:8500:3502/live/cid=450
 台視,http://seb.sason.top/sc/tsxw_fhd.m3u8#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#rtmp://161.202.204.248:1935/sat/tv071
-中視,http://192.154.103.75:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
-華視,http://live5.ocnttv.com:8080/ZZ_huashi/ZZ_huashi.m3u8#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
+*中視,rtmp://161.202.204.248:1935/sat/tv091#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
+*華視,rtmp://161.202.204.248:1935/sat/tv111#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 大爱二台,http://61.58.60.230:9319/live/191.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛電視台,http://61.58.60.230:9319/live/10.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
@@ -30,10 +30,10 @@ Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 *三立台湾台,http://crtv.crtv.ml:8080/live/twiptv/twiptv/27.ts
 -----,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
 TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#rtmp://161.202.204.248:1935/sat/tv421
------,rtmp://161.202.204.248:1935/sat/tv701#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
-緯來日本,vjms://23.237.115.18:8500:3502/live/cid=102#rtmp://161.202.204.248:1935/sat/tv771
+*緯來育樂,rtmp://161.202.204.248:1935/sat/tv701#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
+*緯來體育,rtmp://161.202.204.248:1935/sat/tv721#vjms://23.237.115.18:8500:3502/live/cid=102#rtmp://161.202.204.248:1935/sat/tv771
 纬来戏剧,http://153.99.180.70:5021/live/137/playlist.m3u8
------,http://p06.iptv2asia.com:18888/http/017
+*東森超視,rtmp://161.202.204.248:1935/sat/tv771
 公視,vjms://58.215.133.185:8500:3502/live/cid=450#mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
 靖天日本,http://61.58.60.230:9319/live/243.m3u8
@@ -97,7 +97,7 @@ Newtv超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
------,rtmp://161.202.204.248:1935/sat/tv761
+MOMO綜合台,rtmp://161.202.204.248:1935/sat/tv761
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
