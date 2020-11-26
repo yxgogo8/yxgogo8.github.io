@@ -25,10 +25,10 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
------,http://p06.iptv2asia.com:18888/http/008
+*金鹰卡通,rtmp://ivi.bupt.edu.cn:1935/livetv/jykttv
 -----,http://p06.iptv2asia.com:18888/http/007
 *三立台湾台,http://crtv.crtv.ml:8080/live/twiptv/twiptv/27.ts
------,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
+*STAR SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE#rtmp://161.202.204.248:1935/sat/tv421
 *緯來育樂,rtmp://161.202.204.248:1935/sat/tv701#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
 *緯來體育,rtmp://161.202.204.248:1935/sat/tv721#vjms://23.237.115.18:8500:3502/live/cid=102#rtmp://161.202.204.248:1935/sat/tv771
