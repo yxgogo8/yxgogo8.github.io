@@ -397,26 +397,10 @@ SBN全球財經,https://gogohaha.000webhostapp.com/?id=Gs0R-L3i_A4
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-追劇0916,#genre#
-半澤直樹II-08,https://mingxing.xianyongjiu.com/20200914/11288_7425748b/index.m3u8#https://youku.cdn11-okzy.com/20200914/20520_88db4804/index.m3u8#https://diaoshi.dehua-kuyun.com/20200914/16032_7425748b/index.m3u8
-半澤直樹II-07,https://mingxing.xianyongjiu.com/20200831/10117_912f3373/index.m3u8#https://youku.cdn11-okzy.com/20200831/20108_fb6a31ce/index.m3u8#https://diaoshi.dehua-kuyun.com/20200830/14355_4ea50f2d/index.m3u8
-半澤直樹II-06,https://youku.cdn11-okzy.com/20200824/19910_498f0edb/index.m3u8#https://diaoshi.dehua-kuyun.com/20200824/13486_6c6996ee/index.m3u8#https://s3.135-cdn.com/2020/08/24/m4pePzcI6jE9trbB/index.m3u8
-半澤直樹II-05,https://mingxing.xianyongjiu.com/20200817/8866_ebe6ac3c/index.m3u8#https://diaoshi.dehua-kuyun.com/20200816/12473_b024a10d/index.m3u8#https://s3.135-cdn.com/2020/08/17/GjZ7NKBcE9n81xY6/index.m3u8
-半澤直樹II-04,https://mingxing.xianyongjiu.com/20200810/8121_bddeba8d/index.m3u8#https://youku.cdn11-okzy.com/20200810/19455_bddeba8d/index.m3u8#https://diaoshi.dehua-kuyun.com/20200809/11615_7be0cee7/index.m3u8
-半澤直樹II-03,https://mingxing.xianyongjiu.com/20200803/7437_44efdd4d/index.m3u8#https://youku.cdn11-okzy.com/20200803/19211_d88682d4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200802/10713_eecb8292/index.m3u8
-半澤直樹II-02,https://mingxing.xianyongjiu.com/20200727/6670_3136e6a6/index.m3u8#https://youku.cdn11-okzy.com/20200727/19010_3136e6a6/index.m3u8#https://diaoshi.dehua-kuyun.com/20200726/9852_aebeecae/index.m3u8
-半澤直樹II-01,https://mingxing.xianyongjiu.com/20200720/5983_1a8c4da4/index.m3u8#https://youku.cdn3-okzy.com/20200720/11100_1a8c4da4/index.m3u8#https://diaoshi.dehua-kuyun.com/20200719/8752_1130f7cd/index.m3u8
-灰姑娘藥劑師09,https://mingxing.xianyongjiu.com/20200912/11116_18e83a8a/index.m3u8#https://youku.cdn11-okzy.com/20200911/20450_c5d565c5/index.m3u8#https://diaoshi.dehua-kuyun.com/20200911/15813_a0387d8c/index.m3u8
-灰姑娘藥劑師08,https://mingxing.xianyongjiu.com/20200905/10492_327c7dee/index.m3u8#https://youku.cdn11-okzy.com/20200904/20217_8c6cb470/index.m3u8#https://diaoshi.dehua-kuyun.com/20200904/14851_1d8d8af7/index.m3u8
-灰姑娘藥劑師07,https://mingxing.xianyongjiu.com/20200829/10006_ccf738ed/index.m3u8#https://diaoshi.dehua-kuyun.com/20200828/14076_86d466c0/index.m3u8#https://e.mahua-kb.com/20200828/pc7MA8fh/index.m3u8
-灰姑娘藥劑師06,https://youku.cdn11-okzy.com/20200821/19855_cfbe8c87/index.m3u8#https://youku.cdn11-okzy.com/20200821/19855_cfbe8c87/index.m3u8#https://diaoshi.dehua-kuyun.com/20200821/13128_3d59ad44/index.m3u8
-灰姑娘藥劑師05,https://mingxing.xianyongjiu.com/20200814/8594_17be58b8/index.m3u8#https://diaoshi.dehua-kuyun.com/20200814/12180_eb7ea48b/index.m3u8#https://e.mahua-kb.com/20200814/PO62YJR3/index.m3u8
-灰姑娘藥劑師04,https://mingxing.xianyongjiu.com/20200807/7867_1827919d/index.m3u8#https://youku.cdn11-okzy.com/20200807/19339_8da74c55/index.m3u8#https://diaoshi.dehua-kuyun.com/20200806/11181_92dc8997/index.m3u8
-灰姑娘藥劑師03,https://mingxing.xianyongjiu.com/20200731/7152_8f14c49e/index.m3u8#https://youku.cdn11-okzy.com/20200731/19122_a4459a3e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200731/10411_57988842/index.m3u8
-灰姑娘藥劑師02,https://youku.cdn11-okzy.com/20200725/18988_da7b16e1/index.m3u8#https://diaoshi.dehua-kuyun.com/20200724/9503_7aa75efc/index.m3u8#https://s2.135-cdn.com/2020/07/25/w4qKuTZWXQHy0gPj/index.m3u8
-灰姑娘藥劑師01,https://youku.cdn11-okzy.com/20200717/18760_b35abe9e/index.m3u8#https://diaoshi.dehua-kuyun.com/20200716/8312_d3793377/index.m3u8#https://s2.135-cdn.com/2020/07/17/YW3JpOfy4sEwhGX9/index.m3u8
-
-影城1126,#genre#
+影城1201,#genre#
+*求婚好意外,https://xigua-cdn.haima-zuida.com/20201127/17436_dfa0176e/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201125/26938_58572d51/index.m3u8#https://dalao.wahaha-kuyun.com/20201126/2188_8655ee99/index.m3u8
+*天能HD,https://youku.cdn7-okzy.com/20201128/21631_ce4edcef/index.m3u8#https://dalao.wahaha-kuyun.com/20201128/2582_a94c90b1/index.m3u8
+*生命盡頭的美好時光,https://b.mhqiyi.com/20201127/HY4Vj0iR/index.m3u8#https://dalao.wahaha-kuyun.com/20201127/2417_dbe80edc/index.m3u8#https://mingxing.xianyongjiu.com/20201128/18469_4ed0025f/index.m3u8
 *逃,https://yuledy.helanzuida.com/20201125/15380_1c99fbe2/index.m3u8
 *菜英文沒在怕HD,https://meinv.jingyu-zuida.com/20201126/13850_0382100c/index.m3u8#https://you.tube-kuyun.com/20201125/29959_d82a70da/index.m3u8
 *天劫倒數,https://v5.szjal.cn/20201115/xV9aEanM/index.m3u8
@@ -604,7 +588,9 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1123,#genre#
+輪播1201,#genre#
+成人世界,https://sina.com-h-sina.com/20180827/14326_3c0d5e31/index.m3u8#https://sina.com-h-sina.com/20180827/14326_3c0d5e31/index.m3u8
+極樂世界HD,https://vip.okokbo.com/20171211/IdzRr9qc/index.m3u8
 愛.重來,https://iqiyi.zuidameiju.com/20200304/13178_db4ca114/index.m3u8
 自殺突擊隊,https://leshi.cdn-zuyida.com/20170905/xa9Grga7/index.m3u8#https://vs1.baduziyuan.com/20180106/Lm43OiYx/index.m3u8#https://youku.cdn-2-okzy.com/20180209/fkKt5AIH/index.m3u8
 私刑教育1,https://haoa.haozuida.com/20180514/zmZvrg9d/index.m3u8#https://youku.cdn7-okzy.com/20200525/19711_0e8c77d8/index.m3u8#https://v4.szjal.cn/20200311/iZN74bGm/index.m3u8
