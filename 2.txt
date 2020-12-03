@@ -590,7 +590,24 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1201,#genre#
+輪播1203,#genre#
+金牌警校軍1,https://bilibili.com-l-163.com/20181117/22642_08109ef7/index.m3u8
+金牌警校軍2,https://bilibili.com-l-163.com/20181117/22643_1a776003/index.m3u8
+金牌警校軍3,https://bilibili.com-l-163.com/20181117/22644_2723beca/index.m3u8
+金牌警校軍4,https://bilibili.com-l-163.com/20181117/22645_79018651/index.m3u8
+金牌警校軍5,https://bilibili.com-l-163.com/20181117/22646_9f7b71f7/index.m3u8
+金牌警校軍6,https://bilibili.com-l-163.com/20181117/22647_64e776a1/index.m3u8
+金牌警校軍7,https://bilibili.com-l-163.com/20181117/22648_1c958b96/index.m3u8
+龍門飛甲2011,https://youku.cdn7-okzy.com/20200421/18911_4ab82ce4/index.m3u8#https://youku.kuyun-leshi.com/20190225/kk89Buln/index.m3u8#
+王者之劍1982,https://video.kkyun-iqiyi.com/20181208/zq3gK7VO/index.m3u8#https://56.com-zx-56.com/20201006/20320_701922fc/index.m3u8
+兩個大太陽1985,https://video.kkyun-iqiyi.com/20180824/rPLVpkqj/index.m3u8#https://mhbobo.com/20191124/j9HoJR4r/index.m3u8#https://zy.kubozy-cdn-baidu.com/20200926/14106_058c0db5/index.m3u8
+古墓奇兵1,https://haoa.haozuida.com/20180317/ICwBNwF3/index.m3u8#https://vs1.baduziyuan.com/20180307/L8zwVqgc/index.m3u8#https://vip.okokbo.com/20180118/zrkcj4Bh/index.m3u8
+古墓奇兵2,https://haoa.haozuida.com/20180317/ulmbbocS/index.m3u8#https://vip.okokbo.com/20180207/JXKteO3E/index.m3u8#https://haoa.haozuida.com/20180317/ulmbbocS/index.m3u8
+古墓奇兵：源起之戰,https://youku.cdn-tudou.com/20180602/6231_8565c545/index.m3u8#https://leshi.cdn-zuyida.com/20180531/27402_83c45193/index.m3u8
+機械姬,https://vs1.baduziyuan.com/20181004/THKhL6X0/index.m3u8#https://vs1.baduziyuan.com/20181004/THKhL6X0/index.m3u8#https://youku.com-youku.com/20180403/Xwe8qw2N/index.m3u8
+霹靂嬌娃1,https://yun.kubo-zy-youku.com/20180624/W5JI0NKw/index.m3u8#https://vip.okokbo.com/20180113/z6RjBkfE/index.m3u8
+霹靂嬌娃2,https://youku.cdn-56.com/20180329/RvrExN2n/index.m3u8#https://video.kkyun-iqiyi.com/20171001/644ZXfJR/index.m3u8
+比悲傷更悲傷的故事(2019),https://yun.kubozy-youku-163.com/20190517/13243_a32b65d8/index.m3u8
 成人世界,https://sina.com-h-sina.com/20180827/14326_3c0d5e31/index.m3u8#https://sina.com-h-sina.com/20180827/14326_3c0d5e31/index.m3u8
 極樂世界HD,https://vip.okokbo.com/20171211/IdzRr9qc/index.m3u8
 愛.重來,https://iqiyi.zuidameiju.com/20200304/13178_db4ca114/index.m3u8
