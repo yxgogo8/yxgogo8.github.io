@@ -822,7 +822,10 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
-電台0916,#genre#
+電台1205,#genre#
+金聲廣播電台,http://60.249.186.105:9000
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+臺北電台931,http://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w1096389398.m3u8
 CRI海峽飛虹,http://ls.qingting.fm/live/1734855.m3u8
 CRI環球資訊,http://live.xmcdn.com/live/1040/64.m3u8
 CRI輕鬆調頻,http://ls.qingting.fm/live/1006.m3u8
