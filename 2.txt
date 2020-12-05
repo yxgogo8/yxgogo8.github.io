@@ -397,7 +397,8 @@ SBN全球財經,https://gogohaha.000webhostapp.com/?id=Gs0R-L3i_A4
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-影城1201,#genre#
+影城1205,#genre#
+*換人殺砍砍,https://c.mhqiyi.com/20201203/THJM7r6u/index.m3u8#https://youku.cdn1-kubozy.com/20201204/11336_d57f2cd5/index.m3u8#https://youku.cdn7-okzy.com/20201204/21718_b3d1dc8d/index.m3u8
 *求婚好意外,https://xigua-cdn.haima-zuida.com/20201127/17436_dfa0176e/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201125/26938_58572d51/index.m3u8#https://dalao.wahaha-kuyun.com/20201126/2188_8655ee99/index.m3u8
 *天能HD,https://youku.cdn7-okzy.com/20201128/21631_ce4edcef/index.m3u8#https://dalao.wahaha-kuyun.com/20201128/2582_a94c90b1/index.m3u8
 *生命盡頭的美好時光,https://b.mhqiyi.com/20201127/HY4Vj0iR/index.m3u8#https://dalao.wahaha-kuyun.com/20201127/2417_dbe80edc/index.m3u8#https://mingxing.xianyongjiu.com/20201128/18469_4ed0025f/index.m3u8
@@ -475,7 +476,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂1201,#genre#
+霹靂1205,#genre#
 兵烽決01,https://diaoshi.dehua-kuyun.com/20200918/16549_39d0075f/index.m3u8#https://e.mahua-kb.com/20200918/oNcEuCkn/index.m3u8
 兵烽決02,https://diaoshi.dehua-kuyun.com/20200918/16548_2be4c6e5/1000k/hls/index.m3u8#https://e.mahua-kb.com/20200918/SPfwbFcR/index.m3u8
 兵烽決03,https://you.tube-kuyun.com/20200925/24356_d35ec5f9/index.m3u8
@@ -498,6 +499,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 兵烽決20,https://you.tube-kuyun.com/20201120/29551_f7f87849/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201120/26529_f99b49d5/index.m3u8
 兵烽決21,https://dalao.wahaha-kuyun.com/20201127/2441_e1cacf02/index.m3u8#https://iqiyi.cdn9-okzy.com/20201128/18729_91c1ccff/index.m3u8#https://b.mhqiyi.com/20201127/lzRUpgfC/index.m3u8
 兵烽決22,https://b.mhqiyi.com/20201127/stHj3kqy/index.m3u8#https://dalao.wahaha-kuyun.com/20201127/2440_fd3ba378/index.m3u8#https://iqiyi.cdn9-okzy.com/20201128/18730_3b3d2b05/index.m3u8
+兵烽決23,https://dalao.wahaha-kuyun.com/20201204/3687_2c0662fd/index.m3u8
+兵烽決24,https://dalao.wahaha-kuyun.com/20201204/3686_a6029ae4/index.m3u8
 蝶龍之亂01,https://diaoshi.dehua-kuyun.com/20200819/12865_fbff23d2/index.m3u8
 蝶龍之亂02,https://you.tube-kuyun.com/20200828/22729_3be7780c/index.m3u8
 蝶龍之亂03,https://diaoshi.dehua-kuyun.com/20200903/14691_1d5f8bab/index.m3u8
@@ -590,7 +593,17 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1203,#genre#
+輪播1205,#genre#
+傑遜王子戰群妖1963,https://www.821583.com/20190310/O6qdAJHN/index.m3u8
+第五元素,https://vip.okokbo.com/20171224/ywOjGGpA/index.m3u8#https://www.qzamfz.com/20190807/DM9aoB6E/index.m3u8
+星際之門1994,https://youku.com-qq.net/20190722/14075_3a1f1b27/index.m3u8
+虛擬偶像,https://haoa.haozuida.com/20180503/y5lsd04k/index.m3u8
+傑克：巨人戰紀,https://iqiyi.zuidameiju.com/20200403/14257_6170895b/index.m3u8#https://qiyi.mhyunbo.com/20191018/1CVVrU5T/index.m3u8#https://iqiyi.zuidameiju.com/20200403/14257_6170895b/index.m3u8?sign=20fd05365c23637fdbed4dba27490690
+總鋪師BD,https://qiyi.mhyunbo.com/20191016/kZlYJKqd/index.m3u8
+紅衣小女孩1,https://yushou.qitu-zuida.com/20180217/KdFOX9Ot/index.m3u8#https://d.mahua-kb.com/20200703/3m0rUTjx/index.m3u8#https://yushou.qitu-zuida.com/20180217/KdFOX9Ot/index.m3u8?sign=59f66c1966150894890e6ed6810bd9e3
+紅衣小女孩2,https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8#https://d.mahua-kb.com/20200703/AuUcVAnD/index.m3u8#https://haoa.haozuida.com/20171206/S74Rq5RH/index.m3u8?sign=2127d3066214851b39f1b1f1206a88b3
+關鍵少數BD,https://yi.jingdianzuida.com/20191124/CxYkq9B7/index.m3u8#https://c.mahua-kb.com/20200629/Ot54GRMe/index.m3u8#https://yi.jingdianzuida.com/20191124/CxYkq9B7/index.m3u8?sign=ca81cd488dc4717fc21bacc10b010bfa5011969670c50aa53f1db1465ad72d9e3ad0c72f9a61f6f8e35fdce363a60413c30afa1b573c6e7293e45efde44bf755
+重返十七歲,https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8#https://youku.mhyunbo.com/20200127/t2iMddpc/index.m3u8#https://iqiyi.zuidameiju.com/20200309/13398_237c8f3a/index.m3u8?sign=10c182a72c8ac6adf6f53610f73640fc
 金牌警校軍1,https://bilibili.com-l-163.com/20181117/22642_08109ef7/index.m3u8
 金牌警校軍2,https://bilibili.com-l-163.com/20181117/22643_1a776003/index.m3u8
 金牌警校軍3,https://bilibili.com-l-163.com/20181117/22644_2723beca/index.m3u8
@@ -1493,3 +1506,6 @@ HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://61.216.1.24:8500:35
 台視 HD,tvbus://4Wz2Au9wK2C2qqehDxKUcqfX7MgSjHVB4U7nyfZigo7QE8H11D
 中視 HD,tvbus://4YqKYNnSrxUYE88BFnghXhDrwsEdZh8pFduYkbZJSyyA2JGJnF
 華視 HD,tvbus://3ftj7bG2TdmSc9oBZ5xhnwhGoFrk8Nd4aGrZHEXJ2EXEm5jrHx
+台视,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
+三立都会台,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
+三立台湾台,tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
