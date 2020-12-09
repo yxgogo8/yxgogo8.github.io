@@ -367,7 +367,7 @@ KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 KonTumTV,http://www.vietcago.net/vstv/kontumtv.m3u8
 KonTumTV,http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 
-YT直播1020,#genre#
+YT直播1209,#genre#
 東森yoyo,https://gogohaha.000webhostapp.com/?id=3gKlm323de0
 東森新聞,https://gogohaha.000webhostapp.com/?id=63RmMXCd_bQ
 中天新聞,https://gogohaha.000webhostapp.com/?id=wUPPkSANpyo
@@ -377,23 +377,23 @@ TVBS,https://gogohaha.000webhostapp.com/?id=A4FbB8UhNRs
 民視新聞,https://gogohaha.000webhostapp.com/?id=XxJKnDLYZz4
 公視,https://gogohaha.000webhostapp.com/?id=ED4QXd5xAco
 公視台語台,https://gogohaha.000webhostapp.com/?id=ihWafbJ_Ics
-台視新聞,https://gogohaha.000webhostapp.com/?id=NbjI0cARzjQ
-中視新聞,https://gogohaha.000webhostapp.com/?id=cYgUeTtO5v8
-華視新聞,https://gogohaha.000webhostapp.com/?id=TL8mmew3jb8
+台視新聞,https://gogohaha.000webhostapp.com/?id=xL0ch83RAK8
+中視新聞,https://gogohaha.000webhostapp.com/?id=7X7IYK_Oob4
+華視新聞,https://gogohaha.000webhostapp.com/?id=-pvROC_MdYM
 東森財經,https://gogohaha.000webhostapp.com/?id=68lLQ7hkdzU
-客家電視,https://gogohaha.000webhostapp.com/?id=YvTdOiAiB8s
-美好VIVA購物1台,https://gogohaha.000webhostapp.com/?id=eQ5huCAqoyQ
+客家電視,https://gogohaha.000webhostapp.com/?id=LWwepk1p5kE
+美好VIVA購物1台,https://gogohaha.000webhostapp.com/?id=DN9DekLJi0s
 美好VIVA購物2台,https://gogohaha.000webhostapp.com/?id=LEOat38Iuao
 東森購物46台,https://gogohaha.000webhostapp.com/?id=Z50JFuNgvB0
 東森購物34台,https://gogohaha.000webhostapp.com/?id=_Vlzn9qAHD4
 東森購物60台,https://gogohaha.000webhostapp.com/?id=u0NYyH3ZesE
 東森購物47台,https://gogohaha.000webhostapp.com/?id=Q_PUrLTq0no
-momo購物一台,https://gogohaha.000webhostapp.com/?id=CmQ9UVebbGE
-momo購物二台,https://gogohaha.000webhostapp.com/?id=1NtWpw-dADo
+momo購物一台,https://gogohaha.000webhostapp.com/?id=_pZQ1Lk0xMA
+momo購物二台,https://gogohaha.000webhostapp.com/?id=xbNWkUyxQGM
 beIN SPORTS HD,https://gogohaha.000webhostapp.com/?id=4TlVW4Lacu4
 beIN SPORTS,https://gogohaha.000webhostapp.com/?id=Bj3iPrLGKmo
-SBN全球財經,https://gogohaha.000webhostapp.com/?id=Gs0R-L3i_A4
-運通財經台,https://gogohaha.000webhostapp.com/?id=z-bbsDpAyok
+SBN全球財經,https://gogohaha.000webhostapp.com/?id=YCEI8Pv_zFs
+運通財經台,https://gogohaha.000webhostapp.com/?id=IacRnUAdG-I
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
