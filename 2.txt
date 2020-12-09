@@ -598,6 +598,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播1205,#genre#
+特洛伊：木馬屠城,https://cdn.605ziyuan.com/20180616/GmYQvYZj/index.m3u8
+班傑明的奇幻旅程,https://yj.yongjiu6.com/20190323/csbHzg9n/index.m3u8
 全面啟動,https://vip.okokbo.com/20171212/PnC6Aph7/index.m3u8
 詐騙女神,https://56.com-t-56.com/20190806/23953_dd3802fb/index.m3u8#https://2.mhbobo.com/20190820/uQFulSpM/index.m3u8
 黑幫追殺令,https://iqiyi.zuidameiju.com/20181026/3V7pYWDr/index.m3u8
