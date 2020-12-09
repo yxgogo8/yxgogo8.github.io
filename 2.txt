@@ -397,7 +397,11 @@ SBN全球財經,https://gogohaha.000webhostapp.com/?id=Gs0R-L3i_A4
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-影城1205,#genre#
+影城1209,#genre#
+*萬德,https://b.mhqiyi.com/20201205/HR2GZxAT/index.m3u8#https://iqiyi.cdn27-okzy.com/20201205/8201_3cf5c3c3/index.m3u8
+*孤味,https://youku.cdn1-kubozy.com/20201115/8354_55a52fe2/index.m3u8
+*飛哥與小佛大電影：坎迪斯對抗宇宙,https://e.mahua-kb.com/20200831/YyYZI83I/index.m3u8#https://youku.cdn7-okzy.com/20200831/20604_9a8f2e39/index.m3u8
+*再見街貓BOB,https://youku.cdn29-okzy.com/20201119/12612_5029c98a/index.m3u8
 *換人殺砍砍,https://c.mhqiyi.com/20201203/THJM7r6u/index.m3u8#https://youku.cdn1-kubozy.com/20201204/11336_d57f2cd5/index.m3u8#https://youku.cdn7-okzy.com/20201204/21718_b3d1dc8d/index.m3u8
 *求婚好意外,https://xigua-cdn.haima-zuida.com/20201127/17436_dfa0176e/index.m3u8#https://cdn-yong.bejingyongjiu.com/20201125/26938_58572d51/index.m3u8#https://dalao.wahaha-kuyun.com/20201126/2188_8655ee99/index.m3u8
 *天能HD,https://youku.cdn7-okzy.com/20201128/21631_ce4edcef/index.m3u8#https://dalao.wahaha-kuyun.com/20201128/2582_a94c90b1/index.m3u8
@@ -594,6 +598,12 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
 輪播1205,#genre#
+詐騙女神,https://56.com-t-56.com/20190806/23953_dd3802fb/index.m3u8#https://2.mhbobo.com/20190820/uQFulSpM/index.m3u8
+黑幫追殺令,https://iqiyi.zuidameiju.com/20181026/3V7pYWDr/index.m3u8
+國產凌凌漆,http://vs1.baduziyuan.com/20171219/swfcZn5v/index.m3u8#http://yi.jingdianzuida.com/20190903/YYKEURLA/index.m3u8#https://www.zhuticlub.com:65/20190410/Wlke0xRw/index.m3u8
+天生一對1998,http://videos.kkyun-iqiyi.com/20171111/8pPOyojf/index.m3u8
+百萬金臂,http://acfun.iqiyi-kuyun.com/20181001/JLRpuYjO/index.m3u8#http://leshi.cdn-zuyida.com/20180425/24190_774a8530/index.m3u8#https://www.zhuticlub.com:65/20190402/zXLOMvHV/index.m3u8
+盲探,https://youku.com-ok-sohu.com/20191115/20206_04dfff05/index.m3u8#https://v3.yongjiujiexi.com/20190501/0lVe2tqa/index.m3u8#http://yangguang.piaohua-kuyun.com/20181002/n3xSEQkg/index.m3u8
 傑遜王子戰群妖1963,https://www.821583.com/20190310/O6qdAJHN/index.m3u8
 第五元素,https://vip.okokbo.com/20171224/ywOjGGpA/index.m3u8#https://www.qzamfz.com/20190807/DM9aoB6E/index.m3u8
 星際之門1994,https://youku.com-qq.net/20190722/14075_3a1f1b27/index.m3u8
@@ -822,7 +832,10 @@ BBCEarth,http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=MD4D846912708469
 日本映画専門ch,P2p://japan.hmiptv6.com:9906/5e81a992000d2ee305a91c130e6ae01d.ts
 日本Disney,P2p://japan.hmiptv6.com:9906/5e81a9910001943005a915329ddb0d79.ts
 
-電台1205,#genre#
+電台1209,#genre#
+FM99.1大千電台,http://stream.superfm99-1.com.tw:8554/
+寶島聯播網,http://stream.superfm99-1.com.tw:8555/
+台北廣播電台,https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w153350274.m3u8
 金聲廣播電台,http://60.249.186.105:9000
 ICRT,http://live.leanstream.co/ICRTFM-MP3
 臺北電台931,http://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/chunklist_w1096389398.m3u8
