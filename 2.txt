@@ -897,7 +897,9 @@ CNR文藝之聲,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 CNR中華之聲,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 CNR娛樂廣播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 
-體育1119,#genre#
+體育1211,#genre#
+PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+PP体育2,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
 FOX3台,http://153.99.180.70:5021/live/95/playlist.m3u8
 WWE電視台,https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 Fox Sport 1,https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
