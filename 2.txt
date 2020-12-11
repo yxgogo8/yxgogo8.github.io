@@ -397,7 +397,9 @@ SBN全球財經,https://gogohaha.000webhostapp.com/?id=YCEI8Pv_zFs
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-影城1209,#genre#
+影城1211,#genre#
+*鬼滅之刃(國語),https://youku.cdn7-okzy.com/20201207/21783_23861459/index.m3u8
+*鬼滅之刃(日語),https://youku.cdn7-okzy.com/20201207/21784_40d78044/index.m3u8
 *萬德,https://b.mhqiyi.com/20201205/HR2GZxAT/index.m3u8#https://iqiyi.cdn27-okzy.com/20201205/8201_3cf5c3c3/index.m3u8
 *孤味,https://youku.cdn1-kubozy.com/20201115/8354_55a52fe2/index.m3u8
 *飛哥與小佛大電影：坎迪斯對抗宇宙,https://e.mahua-kb.com/20200831/YyYZI83I/index.m3u8#https://youku.cdn7-okzy.com/20200831/20604_9a8f2e39/index.m3u8
@@ -597,7 +599,32 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1205,#genre#
+輪播1211,#genre#
+火星任務,https://bilibili.com-l-163.com/20181027/16576_d620405a/index.m3u8
+絕地救援,https://youku.com-l-youku.com/20190118/17330_03924f1d/index.m3u8#https://leshi.cdn-zuyida.com/20180113/AGsvIL6d/index.m3u8#https://c.mahua-kb.com/20200620/vQQUroPR/index.m3u8
+https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
+大黃蜂,https://haoa.haozuida.com/20190319/XZwQzmno/index.m3u8#https://4.mhbobo.com/20190911/la6R8pke/index.m3u8
+星際禁區,https://jingdian.qincai-zuida.com/20200629/8833_a529415d/index.m3u8#https://jingdian.qincai-zuida.com/20200629/8833_a529415d/index.m3u8?sign=b72763e886393d7c8e7828d251d5819d
+愛在黎明破曉時(1995),https://mhbobo.com/20191120/mq1CLLMp/index.m3u8#https://vip.okokbo.com/20171216/0Tpm7tzA/index.m3u8
+愛在日落巴黎時(2004),https://hong.tianzhen-zuida.com/20191018/11285_5b74ea0f/index.m3u8#https://mhbobo.com/20191116/hHiGIXac/index.m3u8
+凶兆(2006),https://mhyunbo.com/20191104/jvkwrDd7/index.m3u8
+玩命快遞1,https://leshi.cdn-zuyida.com/20180129/rt4XJUJL/index.m3u8#https://b.mahua-kb.com/20200525/manMrUoo/index.m3u8
+玩命快遞2,https://leshi.cdn-zuyida.com/20180129/ecjhH84k/index.m3u8
+玩命快遞3,https://leshi.cdn-zuyida.com/20180129/mgdoEEEs/index.m3u8#https://b.mahua-kb.com/20200525/uAwnVeOU/index.m3u8
+玩命快遞：肆意橫行,https://haoa.haozuida.com/20180129/Ovji6CNG/index.m3u8
+地獄怪客1,https://iqiyi.zuidameiju.com/20200215/9159_710a1cb3/index.m3u8#https://youku.mhyunbo.com/20200107/bEAVkXgR/index.m3u8
+地獄怪客2,https://iqiyi.zuidameiju.com/20200215/9087_b7adcade/index.m3u8#https://b.mahua-kb.com/20200525/WJSWz1ds/index.m3u8
+地獄怪客：血后的崛起,https://haoa.haozuida.com/20190709/vQ3FO1z0/index.m3u8#https://2.mhbobo.com/20190812/g5WGn6HP/index.m3u8
+駭客任務1,https://hair.jingpin88.com/20171027/imoCWDfQ/index.m3u8
+駭客任務2：重裝上陣,https://yiyi.55zuiday.com/20180415/KVnVCf5S/index.m3u8#https://mhbobo.com/20191114/F3ybJQv3/index.m3u8
+駭客任務3：最後戰役,https://leshi.cdn-zuyida.com/20180422/23938_ca49944d/index.m3u8
+魔鬼紅星(1988),https://leshi.cdn-zuyida.com/20180612/28097_5ba08d0a/index.m3u8
+終極戰士1(1987),https://mhbobo.com/20191121/vyWmCGRH/index.m3u8
+終極戰士2(1990),https://jingdian.qincai-zuida.com/20200627/8790_3a59ce19/index.m3u8#https://youku.mhyunbo.com/20200109/th6hEGzD/index.m3u8
+終極戰士團(2010),https://hair.jingpin88.com/20171028/IZKTDlRz/index.m3u8#https://mhbobo.com/20191114/7oHiscv6/index.m3u8
+萬惡城市1,https://leshi.cdn-zuyida.com/20171024/nCSPMLHM/index.m3u8#https://youku.com-l-youku.com/20190104/10736_7c43d597/index.m3u8
+萬惡城市2：紅顏奪命,https://leshi.cdn-zuyida.com/20171024/0qjrmf1j/index.m3u8#https://youku.com-ok-56.com/20191230/20996_393132bf/index.m3u8
+阿達一族(2019),https://youku.cdn7-okzy.com/20191225/16376_ce6e29a8/index.m3u8#https://www.ziboshishen.com/20191226/Un8vbpSa/index.m3u8
 特洛伊：木馬屠城,https://cdn.605ziyuan.com/20180616/GmYQvYZj/index.m3u8
 班傑明的奇幻旅程,https://yj.yongjiu6.com/20190323/csbHzg9n/index.m3u8
 全面啟動,https://vip.okokbo.com/20171212/PnC6Aph7/index.m3u8
