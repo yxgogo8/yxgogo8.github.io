@@ -59,14 +59,14 @@ TVBS新聞,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 寰宇新闻台,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee#mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-----,http://520574.xyz/dl/hyxw.php?id=2
-----,http://520574.xyz/dl/hyxw.php?id=1
+*凤凰中文,http://117.169.72.135:8080/PLTV/88888888/224/3221225657/1.m3u8
+*凤凰资讯,http://117.169.72.135:8080/PLTV/88888888/224/3221225658/1.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 *-----,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#vjms://23.237.115.18:8500:3502/live/cid=338#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *-----,http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 *-----,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO HD,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.189:8500/live/cid=261
-HBO1,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+----,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 HBO,vjms://23.237.115.18:8500:3502/live/cid=261
 HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
 HBO強檔,vjms://153.99.180.75:8500:5021/live/cid=238#vjms://23.237.115.18:8500:3502/live/cid=238
