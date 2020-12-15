@@ -398,6 +398,7 @@ test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
 影城1211,#genre#
+*人造怪物,https://meinv.jingyu-zuida.com/20201211/13885_a1078bbc/index.m3u8#https://dalao.wahaha-kuyun.com/20201209/4514_f1ebd280/index.m3u8#https://b.mhqiyi.com/20201209/X57chJ11/index.m3u8
 *鬼滅之刃(國語),https://youku.cdn7-okzy.com/20201207/21783_23861459/index.m3u8
 *鬼滅之刃(日語),https://youku.cdn7-okzy.com/20201207/21784_40d78044/index.m3u8
 *萬德,https://b.mhqiyi.com/20201205/HR2GZxAT/index.m3u8#https://iqiyi.cdn27-okzy.com/20201205/8201_3cf5c3c3/index.m3u8
@@ -482,7 +483,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂1205,#genre#
+霹靂1215,#genre#
 兵烽決01,https://diaoshi.dehua-kuyun.com/20200918/16549_39d0075f/index.m3u8#https://e.mahua-kb.com/20200918/oNcEuCkn/index.m3u8
 兵烽決02,https://diaoshi.dehua-kuyun.com/20200918/16548_2be4c6e5/1000k/hls/index.m3u8#https://e.mahua-kb.com/20200918/SPfwbFcR/index.m3u8
 兵烽決03,https://you.tube-kuyun.com/20200925/24356_d35ec5f9/index.m3u8
@@ -507,6 +508,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 兵烽決22,https://b.mhqiyi.com/20201127/stHj3kqy/index.m3u8#https://dalao.wahaha-kuyun.com/20201127/2440_fd3ba378/index.m3u8#https://iqiyi.cdn9-okzy.com/20201128/18730_3b3d2b05/index.m3u8
 兵烽決23,https://dalao.wahaha-kuyun.com/20201204/3687_2c0662fd/index.m3u8
 兵烽決24,https://dalao.wahaha-kuyun.com/20201204/3686_a6029ae4/index.m3u8
+兵烽决25,https://c.mhqiyi.com/20201211/YxDT95Is/index.m3u8#https://dalao.wahaha-kuyun.com/20201211/4915_6ae3ba22/index.m3u8#https://iqiyi.cdn9-okzy.com/20201211/19507_6ae3ba22/index.m3u8
+兵烽决26,https://c.mhqiyi.com/20201211/1q1zhsAT/index.m3u8#https://dalao.wahaha-kuyun.com/20201211/4914_ab802ee8/index.m3u8#https://iqiyi.cdn9-okzy.com/20201211/19508_ab802ee8/index.m3u8
 蝶龍之亂01,https://diaoshi.dehua-kuyun.com/20200819/12865_fbff23d2/index.m3u8
 蝶龍之亂02,https://you.tube-kuyun.com/20200828/22729_3be7780c/index.m3u8
 蝶龍之亂03,https://diaoshi.dehua-kuyun.com/20200903/14691_1d5f8bab/index.m3u8
@@ -599,7 +602,18 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1211,#genre#
+輪播1215,#genre#
+酷寒殺手,https://haoa.haozuida.com/20190501/PIlgyqoE/index.m3u8#https://3.mhbobo.com/20191031/TYk1NWkp/index.m3u8#https://youku.kuyun-leshi.com/20190427/5tvK1a8d/index.m3u8
+獵魔教士,https://sohu.com-v-sohu.com/20181028/13877_396a9da1/index.m3u8#https://zy.zxziyuan-yun.com/20180121/oOBzJ5WD/index.m3u8
+限制級戰警1,https://jingdian.qincai-zuida.com/20200508/6993_16197084/index.m3u8#https://yangguang.piaohua-kuyun.com/20180830/HAPwPzFE/index.m3u8#https://vip.okokbo.com/20180101/idaZzow7/index.m3u8
+限制級戰警2,https://yangguang.piaohua-kuyun.com/20180830/J8FPEWvJ/index.m3u8#https://jingdian.qincai-zuida.com/20200508/6992_f67130a6/index.m3u8#https://vip.okokbo.com/20180117/nAQ7hIwu/index.m3u8
+限制級戰警3,https://youku.com-kubozy.com/20180512/HGcfbNZQ/index.m3u8#https://mhkuaibo.com/20191212/EKFRDWOM/index.m3u8#https://youku.com-youku.net/20180511/1115_fae6cb68/index.m3u8
+煞不住,https://vip.okokbo.com/20171223/JkUsN9b7/index.m3u8#https://video.kkyun-iqiyi.com/20180714/3hv4SZgt/index.m3u8
+征服情海,https://zy.zxziyuan-yun.com/20180304/H2qPDqN8/index.m3u8#https://vip.okokbo.com/20171226/JHJotOqX/index.m3u8#https://c.mahua-kb.com/20200729/Qk18YHhh/index.m3u8
+倩女幽魂1,https://yushou.qitu-zuida.com/20180228/je1foB5n/index.m3u8#https://sohu.com-v-sohu.com/20180403/8422_947e8c25/index.m3u8#https://youku.kuyun-leshi.com/20190221/dcF1jRav/index.m3u8
+倩女幽魂2,https://haoa.haozuida.com/20180228/sWiOlxwL/index.m3u8#https://mhyunbo.com/20191118/pGTIuRim/index.m3u8
+倩女幽魂3,https://youku.kuyun-leshi.com/20190221/xgmxMCX9/index.m3u8#https://yushou.qitu-zuida.com/20180228/fwb6G3Ff/index.m3u8
+新倩女幽魂(2011),https://haitang.kankan-kuyunzy.com/20191117/556_ca15f9ae/index.m3u8#https://yingxiong.qiling-yongjiu.com/20191119/13850_5afe4587/index.m3u8
 火星任務,https://bilibili.com-l-163.com/20181027/16576_d620405a/index.m3u8
 絕地救援,https://youku.com-l-youku.com/20190118/17330_03924f1d/index.m3u8#https://leshi.cdn-zuyida.com/20180113/AGsvIL6d/index.m3u8#https://c.mahua-kb.com/20200620/vQQUroPR/index.m3u8
 https://jingdian.qincai-zuida.com/20200627/8766_8fbc645c/index.m3u8
