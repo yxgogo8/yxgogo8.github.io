@@ -91,15 +91,15 @@ iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=z
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Newtv超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 *亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-鳳梨直擊,http://520574.xyz/dl/gt.php?id=4gtvlive1
-香蕉直擊,http://520574.xyz/dl/gt.php?id=4gtvlive2
+----,http://520574.xyz/dl/gt.php?id=4gtvlive1
+----,http://520574.xyz/dl/gt.php?id=4gtvlive2
 *歷史频道HD,mitv://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-MOMO綜合台,rtmp://161.202.204.248:1935/sat/tv761
-博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+----,rtmp://161.202.204.248:1935/sat/tv761
+----,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+----,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
@@ -483,7 +483,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 猛禽小隊：小丑女大解放,https://you.tube-kuyun.com/20200324/6654_b2ed26a9/index.m3u8
 鬼影特攻：以暴制暴,https://mudan.iii-kuyunzy.com/20191213/5550_bf31229a/index.m3u8
 
-霹靂1215,#genre#
+霹靂1225,#genre#
 兵烽決01,https://diaoshi.dehua-kuyun.com/20200918/16549_39d0075f/index.m3u8#https://e.mahua-kb.com/20200918/oNcEuCkn/index.m3u8
 兵烽決02,https://diaoshi.dehua-kuyun.com/20200918/16548_2be4c6e5/1000k/hls/index.m3u8#https://e.mahua-kb.com/20200918/SPfwbFcR/index.m3u8
 兵烽決03,https://you.tube-kuyun.com/20200925/24356_d35ec5f9/index.m3u8
@@ -510,6 +510,10 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 兵烽決24,https://dalao.wahaha-kuyun.com/20201204/3686_a6029ae4/index.m3u8
 兵烽决25,https://c.mhqiyi.com/20201211/YxDT95Is/index.m3u8#https://dalao.wahaha-kuyun.com/20201211/4915_6ae3ba22/index.m3u8#https://iqiyi.cdn9-okzy.com/20201211/19507_6ae3ba22/index.m3u8
 兵烽决26,https://c.mhqiyi.com/20201211/1q1zhsAT/index.m3u8#https://dalao.wahaha-kuyun.com/20201211/4914_ab802ee8/index.m3u8#https://iqiyi.cdn9-okzy.com/20201211/19508_ab802ee8/index.m3u8
+兵烽决27,https://iqiyi.cdn9-okzy.com/20201219/19779_f61949be/index.m3u8
+兵烽决28,https://iqiyi.cdn9-okzy.com/20201219/19780_c86b9872/index.m3u8
+兵烽决29,https://v5.monidai.com/20201225/7OXWg29e/index.m3u8
+兵烽决30,https://v5.monidai.com/20201225/uOXJZZCc/index.m3u8
 蝶龍之亂01,https://diaoshi.dehua-kuyun.com/20200819/12865_fbff23d2/index.m3u8
 蝶龍之亂02,https://you.tube-kuyun.com/20200828/22729_3be7780c/index.m3u8
 蝶龍之亂03,https://diaoshi.dehua-kuyun.com/20200903/14691_1d5f8bab/index.m3u8
