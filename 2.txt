@@ -1,4 +1,4 @@
-台灣1225,#genre#
+台灣0105,#genre#
 cnex,http://61.58.60.230:9319/live/257.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 原住民族電視,http://p06.iptv2asia.com:18888/http/020#tvbus://8J6UrxAbZpXaVUBEqhRVhG4mVyCpLFBenAZHfcRzpP1xYSjKi2
