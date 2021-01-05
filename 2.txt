@@ -401,7 +401,12 @@ SBN全球財經,https://gogohaha.000webhostapp.com/?id=YCEI8Pv_zFs
 test,http://gogohaha.byethost15.com/gogo.php?id=XxJKnDLYZz4
 test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 
-影城1229,#genre#
+影城0105,#genre#
+哆啦A夢大雄的新恐龍HD,https://good.jieshuo-okzy.com/20201217/8666_a213b974/index.m3u8
+靈魂急轉彎,https://good.jieshuo-okzy.com/20201225/8864_6c294fc4/index.m3u8#https://d.mhqiyi.com/20201230/mr8bEJiG/index.m3u8
+馗降：粽邪2,https://zy.kubozy-cdn-baidu.com/20201230/16320_aab51ee7/index.m3u8#https://good.jieshuo-okzy.com/20201231/9023_825a9355/index.m3u8
+致命天際線,https://d.mhqiyi.com/20210102/RQk551tc/index.m3u8#https://iqiyi.cdn27-okzy.com/20210102/8698_c9775ff2/index.m3u8#https://zy.kubozy-cdn-baidu.com/20210102/16486_1ac1e5d2/index.m3u8
+拆彈專家2-tc,https://youku.cdn1-kubozy.com/20210104/14623_5b792cec/index.m3u8#https://good.jieshuo-okzy.com/20210103/9088_4dfca64a/index.m3u8
 神力女超人1984,https://good.jieshuo-okzy.com/20201225/8875_deb5222d/index.m3u8
 古魯家族2,https://cdn-yong.bejingyongjiu.com/20201215/28438_82ba061c/index.m3u8#https://xigua-cdn.haima-zuida.com/20201215/18124_82ba061c/index.m3u8
 *人造怪物,https://meinv.jingyu-zuida.com/20201211/13885_a1078bbc/index.m3u8#https://dalao.wahaha-kuyun.com/20201209/4514_f1ebd280/index.m3u8#https://b.mhqiyi.com/20201209/X57chJ11/index.m3u8
@@ -520,6 +525,8 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 兵烽决28,https://iqiyi.cdn9-okzy.com/20201219/19780_c86b9872/index.m3u8
 兵烽决29,https://v5.monidai.com/20201225/7OXWg29e/index.m3u8
 兵烽决30,https://v5.monidai.com/20201225/uOXJZZCc/index.m3u8
+兵烽决31,https://d.mhqiyi.com/20210101/4cI0l0p6/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20296_c75b60a0/index.m3u8
+兵烽决32,https://d.mhqiyi.com/20210101/wVF346Kd/index.m3u8#https://iqiyi.cdn9-okzy.com/20210102/20297_6f4d97a7/index.m3u8
 蝶龍之亂01,https://diaoshi.dehua-kuyun.com/20200819/12865_fbff23d2/index.m3u8
 蝶龍之亂02,https://you.tube-kuyun.com/20200828/22729_3be7780c/index.m3u8
 蝶龍之亂03,https://diaoshi.dehua-kuyun.com/20200903/14691_1d5f8bab/index.m3u8
