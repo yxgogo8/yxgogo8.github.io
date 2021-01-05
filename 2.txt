@@ -26,8 +26,8 @@ CN卡通频道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
 MOMO親子,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
 Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
 *金鹰卡通,rtmp://ivi.bupt.edu.cn:1935/livetv/jykttv
------,http://p06.iptv2asia.com:18888/http/007
-----,http://crtv.crtv.ml:8080/live/twiptv/twiptv/27.ts
+Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 *STAR SPORTS,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 TVBS歡樂台,rtmp://59.124.75.156:1935/sat/tv421
 緯來育樂台,rtmp://59.124.75.156:1935/sat/tv701#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
@@ -52,10 +52,10 @@ momo綜合台,rtmp://59.124.75.156:1935/sat/tv761
 *東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#vjms://122.155.180.8:8500:3502/live/cid=340#mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://seb.sason.top/sc/dsxw_fhd.m3u8#http://ldpc.ld0766.club/tvb.php?id=dsxw
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts#rtmp://161.202.204.248:1935/sat/tv521
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8##p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8
-三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8#http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551#http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
-*TVBS HD,http://153.99.180.70:5021/live/349/playlist.m3u8
-非凡新闻,http://153.99.180.70:5021/live/443/playlist.m3u8
+----,http://153.99.180.70:5021/live/349/playlist.m3u8
+----,http://153.99.180.70:5021/live/443/playlist.m3u8
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立LIVE新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 寰宇新闻台,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee#mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
@@ -65,7 +65,13 @@ TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551#http://60.199.188.61/HLS/WG_TVBS-
 *-----,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#vjms://23.237.115.18:8500:3502/live/cid=338#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 *-----,http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8#http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 *-----,http://live5.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+FOX Business,https://gma2.blab.email/espnu.m3u8
 HBO HD,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.189:8500/live/cid=261
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 HBO,vjms://23.237.115.18:8500:3502/live/cid=261
 HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
