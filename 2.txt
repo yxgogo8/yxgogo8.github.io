@@ -427,8 +427,7 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 湯姆貓與傑利鼠,https://youku.cdn34-okzy.com/20210227/124_d4082e47/index.m3u8#https://youku.cdn1-kubozy.com/20210228/20058_1f21a0d9/index.m3u8
 弒樂園,https://iqiyi.cdn27-okzy.com/20210213/9551_128783ce/index.m3u8#https://meinv.jingyu-zuida.com/20210216/14230_42bf8f71/index.m3u8
 魔物獵人,https://zy.kubozy-cdn-baidu.com/20210216/19324_ae641bf8/index.m3u8#https://iqiyi.cdn27-okzy.com/20210216/9581_6cd367f4/index.m3u8#https://meinv.jingyu-zuida.com/20210218/14235_3bd0acee/index.m3u8
-拆彈專家2國語-HD,https://d.mhqiyi.com/20210219/ml8Lvvci/index.m3u8
-https://mhcdn.mhqiyi.com/20210228/peaEXtXS/index.m3u8
+拆彈專家2國語-HD,https://d.mhqiyi.com/20210219/ml8Lvvci/index.m3u8#https://mhcdn.mhqiyi.com/20210228/peaEXtXS/index.m3u8
 一眉先生,https://mhcdn.mhqiyi.com/20210228/peaEXtXS/index.m3u8#https://youku.cdn1-kubozy.com/20210301/20250_4c7a12e8/index.m3u8
 迴路追殺令,https://youku.cdn1-kubozy.com/20201127/10302_3c9705d6/index.m3u8#https://xigua-cdn.haima-zuida.com/20201205/17851_199d105c/index.m3u8#https://xigua-cdn.haima-zuida.com/20201205/17851_199d105c/index.m3u8
 哆啦A夢大雄的新恐龍HD,https://good.jieshuo-okzy.com/20201217/8666_a213b974/index.m3u8
