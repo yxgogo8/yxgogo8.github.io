@@ -651,7 +651,11 @@ test2,http://gogohaha.byethost15.com/?id=XxJKnDLYZz4
 表哥到,http://iqiyi.zuidameiju.com/20200414/14629_60de9bbc/index.m3u8
 表哥到2,http://bili.meijuzuida.com/20191118/21908_7e013964/index.m3u8
 
-輪播1215,#genre#
+輪播0305,#genre#
+浪人47,https://vip.okokbo.com/20180307/l8tKXDNO/index.m3u8
+浪客劍心：傳說的完結篇,https://vip.okokbo.com/20171212/fdIxj2aI/index.m3u8
+浪客劍心：京都大火篇,https://d.mahua-kb.com/20200724/sM6MRDVb/index.m3u8#https://youku.com-youku.com/20180101/DccP88bU/index.m3u8
+浪客劍心,https://youku.cdn7-okzy.com/20200227/17422_3fb49a78/index.m3u8
 酷寒殺手,https://haoa.haozuida.com/20190501/PIlgyqoE/index.m3u8#https://3.mhbobo.com/20191031/TYk1NWkp/index.m3u8#https://youku.kuyun-leshi.com/20190427/5tvK1a8d/index.m3u8
 獵魔教士,https://sohu.com-v-sohu.com/20181028/13877_396a9da1/index.m3u8#https://zy.zxziyuan-yun.com/20180121/oOBzJ5WD/index.m3u8
 限制級戰警1,https://jingdian.qincai-zuida.com/20200508/6993_16197084/index.m3u8#https://yangguang.piaohua-kuyun.com/20180830/HAPwPzFE/index.m3u8#https://vip.okokbo.com/20180101/idaZzow7/index.m3u8
