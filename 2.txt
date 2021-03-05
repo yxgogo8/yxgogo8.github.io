@@ -90,9 +90,9 @@ HBO強檔,vjms://153.99.180.75:8500:5021/live/cid=238#vjms://23.237.115.18:8500:
 *HBO溫馨,http://153.99.180.70:5021/live/181/playlist.m3u8#vjms://153.99.180.75:8500:5021/live/cid=181#vjms://23.237.115.18:8500:3502/live/cid=181
 HBO原创,vjms://58.215.133.184:8500:3502/live/cid=436
 Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_hls.smil/chunklist_b2500000.m3u8
-Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_hls.smil/chunklist_b2500000.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 凤凰电影台,rtmp://58.200.131.2/livetv/fhdy
 -----,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
