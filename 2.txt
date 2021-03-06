@@ -223,7 +223,7 @@ CCTV4K,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://58.251.112
 test,https://pt.textbin.net/zOk4QGhQmT
 
 
-日本0802,#genre#
+日本0306,#genre#
 NHK総合,http://203.162.235.41:16903
 NHK Eテレ,http://203.162.235.41:16901
 NHK BSプレミアム,http://203.162.235.41:16910
@@ -264,27 +264,15 @@ TBS News,https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northea
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 菲律賓0826,#genre#
-DILSe,http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 Gabruu TV,http://104.237.60.234/live/gabruutv.m3u8
 SMNI,https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-CNN Phillippines,http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-CNN Philippines,https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 Beam TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-ANIPLUS,http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
-Inquirer990,https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 Inc TV,https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
-UNTV Public,https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
 Life TV,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-TBN Asia,http://220.158.149.14:9999/live/TV00000000000000000003@HHZT;LIVE
 
-泰國0826,#genre#
-Vnews,http://live.vnanet.vn/480P/playlist.m3u8
+泰國0306,#genre#
 PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_1080p/index.m3u8
-SUV,http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
-One,http://one31-0ougnj.cdn.byteark.com/live/playlist_720p/index.m3u8
-PPTV,http://183.182.100.184/live/pptvthai/playlist.m3u8
-Thai PBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-GMA Pinoy,http://164.40.161.43:10011
+
 
 印度尼西亞0305,#genre#
 ADiTV,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
@@ -307,25 +295,14 @@ KompasTV,http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtual
 Madani,http://210.210.155.35/qwr9ew/s/s41/index2.m3u8
 Metro,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-越南1019,#genre#
-VTV1,https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-VTV2,https://livecdn.fptplay.net/hda/vtv2_hls.smil/playlist.m3u8
-VTV3,https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/playlist.m3u8
-VTV4,https://livecdn.fptplay.net/hda/vtv4_hls.smil/playlist.m3u8
-VTV5,https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/playlist.m3u8
-*VTV5 HD,http://220.158.149.28:8180/live/TV00000000000000000111@HHZT
-*VTV6,http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
-VTV6,https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/playlist.m3u8
+越南0306,#genre#
 VTV7,https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/playlist.m3u8
 VTV8,https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 VTV9,https://livecdn.fptplay.net/hda/vtv9_hls.smil/playlist.m3u8
-*VTV9 HD,http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
-*Hà Nội 2 HD,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
+Hà Nội 2 HD,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
 ANTG,http://vietcago.net/vstv/antg.m3u8
 AnVien,http://vietcago.net/vstv/anvien.m3u8
 ARIANG HD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ATV,http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
-ATV-TH An Giang,http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
 BacGiangTV,http://vietcago.net/vstv/bacgiangtv.m3u8
 BacKanTV,http://vietcago.net/vstv/backantv.m3u8
 BenTreTV,http://vietcago.net/vstv/bentretv.m3u8
@@ -397,11 +374,8 @@ BRT,http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
 BTV,http://202.43.109.142:1935/thbttv/bttv/chunklist_w1829470998.m3u8
 ANTV,http://vietcago.net/vstv/antv.m3u8
 ANTV HD,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8#http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-BPTV1,http://118.69.197.145/hls/bptv1.m3u8
 BenTreTV_CH87,http://vietcago.net/vstv/bentretv.m3u8
 BinhPhuocTV1,http://vietcago.net/vstv/binhphuoctv1.m3u8
-Boruto (Opt-2),http://ws.hls.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.m3u8
-Boruto TV,http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
 BenTre,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 CaMau TV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
 Da Nang TV1,http://vietcago.net/vstv/danangtv1.m3u8
@@ -414,9 +388,6 @@ KienGiangTV,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 KienGiangTV1,http://vietcago.net/vstv/kiengiangtv1.m3u8
 KienGiangTV1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 KonTumTV,http://www.vietcago.net/vstv/kontumtv.m3u8
-KonTumTV,http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
-
-
 
 影城0302,#genre#
 名偵探柯南：緋色的不在場證明,https://iqiyi.cdn9-okzy.com/20210305/23195_01538189/index.m3u8
