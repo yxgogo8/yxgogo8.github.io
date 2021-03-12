@@ -211,7 +211,7 @@ CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 山东卫视,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 
-香港0310,#genre#
+港澳0310,#genre#
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -219,6 +219,18 @@ CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 澳視澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳視卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
 澳門Macau,http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
+澳视卫星[1280*720],http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳视微影[1280*720],http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视澳门[1280*720],http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳视澳门[1280*720],http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视综艺[1280*720],http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳视葡文[1280*720],http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳视葡文[1280*720],http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳門1台[1280*720],http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳門2台[1280*720],http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳門3台[1280*720],http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳門微电影[1280*720],http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门葡萄牙[1280*720],http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 
 韓國0310,#genre#
 韩国 | EBS 第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
@@ -880,3 +892,23 @@ Fox_Movies,tvbus://5i2AgQmMgxMdEnaVsmcjNpedPxdUphJdSg9CcuBRRLyh6uTYt5CXnrLBT76vP
 华视体育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
 三立臺灣,http://anbo.hicloud.co/index.php?id=21#http://anbo.hicloud.co/index.php?id=35
 三立都會,http://anbo.hicloud.co/index.php?id=38#http://anbo.hicloud.co/index.php?id=1001
+ANIMAX,vjms://61.216.1.24:8500:3502/live/cid=498
+AXN,vjms://61.216.1.24:8500:3502/live/cid=2
+DISNEY,vjms://122.155.180.8:8500:3502/live/cid=361
+SBS Plus,vjms://61.216.1.24:8500:3502/live/cid=152
+SBS fun E,vjms://61.216.1.24:8500:3502/live/cid=164
+HBO,vjms://61.216.1.24:8500:3502/live/cid=261
+地理野生153,vjms://153.99.180.75:8500:5021/live/cid=263#vjms://61.216.1.24:8500:3502/live/cid=263
+国家地理153,vjms://153.99.180.75:8500:5021/live/cid=115#vjms://61.216.1.24:8500:3502/live/cid=115
+探索频道153,vjms://153.99.180.75:8500:5021/live/cid=440#vjms://61.216.1.24:8500:3502/live/cid=440
+纬来体育,vjms://153.99.180.75:8500:5021/live/cid=202
+迪士尼卡通,vjms://153.99.180.75:8500:5021/live/cid=361
+爱尔达体育,vjms://153.99.180.75:8500:5021/live/cid=266
+关东-NHK综合,vjms://153.99.180.75:8500:5021/live/cid=309
+关东-NHK教育,vjms://153.99.180.75:8500:5021/live/cid=310
+关东-日本电视台,vjms://153.99.180.75:8500:5021/live/cid=312
+关东-朝日电视台,vjms://153.99.180.75:8500:5021/live/cid=313
+关东-TBS电视台,vjms://153.99.180.75:8500:5021/live/cid=314
+关东-东京电视台,vjms://153.99.180.75:8500:5021/live/cid=315
+关东-富士电视台,vjms://153.99.180.75:8500:5021/live/cid=316
+关西-NHK综合电视台,vjms://153.99.180.75:8500:5021/live/cid=317
