@@ -5,9 +5,9 @@ CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv/chunklist_w1474469129.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.156/sat/tv051#http://153.99.180.70:5021/live/450/playlist.m3u8#vjms://58.215.133.185:8500:3502/live/cid=450
-台視,rtmp://59.124.75.156/sat/tv071#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
-*中視,rtmp://59.124.75.156:1935/sat/tv091#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
-*華視,rtmp://59.124.75.156:1935/sat/tv111#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
+----,rtmp://59.124.75.156/sat/tv071#mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
+----,rtmp://59.124.75.156:1935/sat/tv091#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts
+----,rtmp://59.124.75.156:1935/sat/tv111#http://192.154.103.75:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 大爱二台,http://61.58.60.230:9319/live/191.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛電視台,http://61.58.60.230:9319/live/10.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
@@ -41,7 +41,7 @@ NBA體育台,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
-中天综合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天综合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4
 momo綜合台,rtmp://59.124.75.156:1935/sat/tv761
 國興衛視,http://anbo.hicloud.co/index.php?id=65#vjms://153.99.180.75:8500:5021/live/cid=424#vjms://23.237.115.18:8500:3502/live/cid=424#mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
@@ -50,8 +50,8 @@ momo綜合台,rtmp://59.124.75.156:1935/sat/tv761
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 ----,http://153.99.180.70:5021/live/455/playlist.m3u8#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts#http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8#mitv://fccsovh.pvbox.live:18912/5b1409fd000a726908ab5c9c5950d2f2.ts
 *東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#vjms://122.155.180.8:8500:3502/live/cid=340#mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://seb.sason.top/sc/dsxw_fhd.m3u8#http://ldpc.ld0766.club/tvb.php?id=dsxw
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts#rtmp://161.202.204.248:1935/sat/tv521
-民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8##p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#http://seb.sason.top/sc/msxw_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts#rtmp://161.202.204.248:1935/sat/tv521
+民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#http://seb.sason.top/sc/msxw_fhd.m3u8
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8#http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 TVBS新聞,rtmp://59.124.75.156:1935/sat/tv551#http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
 TVBS綜合,http://anbo.hicloud.co/index.php?id=16
@@ -73,27 +73,10 @@ AMC最愛電影,mitv://ns2.hellotvvod.com:9906/5fc4e5220004e7d242b5ae895d4d61c8.
 CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/5fbe640a0004f803294d68c96e964443.ts
 凤凰电影 576,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=fhdy
 HBO 576,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hbo
-HBOHD 720,rtmp://59.124.75.156/sat/tv731
-HBOHD2-720,rtmp://59.124.75.156/sat/tv741
-博斯网球 720,rtmp://59.124.75.156/sat/md011
-博斯魅力 720,rtmp://59.124.75.156/sat/md031
-ELEVEN2 480,rtmp://59.124.75.156/sat/md051
-CBS2 720,rtmp://59.124.75.156/sat/us011
-FS1 480,rtmp://59.124.75.156/sat/us031
-FOX 480,rtmp://59.124.75.156/sat/us091
-ABC 480,rtmp://59.124.75.156/sat/us101
 HBO HD,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.189:8500/live/cid=261
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 HBO,vjms://23.237.115.18:8500:3502/live/cid=261
-HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
-HBO強檔,vjms://153.99.180.75:8500:5021/live/cid=238#vjms://23.237.115.18:8500:3502/live/cid=238
-*HBO溫馨,http://153.99.180.70:5021/live/181/playlist.m3u8#vjms://153.99.180.75:8500:5021/live/cid=181#vjms://23.237.115.18:8500:3502/live/cid=181
-HBO原创,vjms://58.215.133.184:8500:3502/live/cid=436
 Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_hls.smil/chunklist_b2500000.m3u8
 Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
@@ -114,7 +97,7 @@ CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8#http://cbnlive.cbch
 *CCTV-5體育,rtmp://58.200.131.2:1935/livetv/cctv5#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8
 iHOT爱影院,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-Newtv超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 *亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 ----,http://520574.xyz/dl/gt.php?id=4gtvlive1
 ----,http://520574.xyz/dl/gt.php?id=4gtvlive2
@@ -912,3 +895,20 @@ HBO,vjms://61.216.1.24:8500:3502/live/cid=261
 关东-东京电视台,vjms://153.99.180.75:8500:5021/live/cid=315
 关东-富士电视台,vjms://153.99.180.75:8500:5021/live/cid=316
 关西-NHK综合电视台,vjms://153.99.180.75:8500:5021/live/cid=317
+HBOHD 720,rtmp://59.124.75.156/sat/tv731
+HBOHD2-720,rtmp://59.124.75.156/sat/tv741
+博斯网球 720,rtmp://59.124.75.156/sat/md011
+博斯魅力 720,rtmp://59.124.75.156/sat/md031
+ELEVEN2 480,rtmp://59.124.75.156/sat/md051
+CBS2 720,rtmp://59.124.75.156/sat/us011
+FS1 480,rtmp://59.124.75.156/sat/us031
+FOX 480,rtmp://59.124.75.156/sat/us091
+ABC 480,rtmp://59.124.75.156/sat/us101
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+HBO亞洲,vjms://153.99.180.75:8500:5021/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
+HBO強檔,vjms://153.99.180.75:8500:5021/live/cid=238#vjms://23.237.115.18:8500:3502/live/cid=238
+*HBO溫馨,http://153.99.180.70:5021/live/181/playlist.m3u8#vjms://153.99.180.75:8500:5021/live/cid=181#vjms://23.237.115.18:8500:3502/live/cid=181
+HBO原创,vjms://58.215.133.184:8500:3502/live/cid=436
